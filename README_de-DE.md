@@ -99,7 +99,7 @@ Ersetze die Argumente, um den Prompt als kompakten Kreativ-Skill wiederzuverwend
 |--------|-------|
 | Prompts gesamt | **113** |
 | Ausgewählt | **10** |
-| Zuletzt aktualisiert | **Donnerstag, 9. Juli 2026 um 23:45:28 UTC** |
+| Zuletzt aktualisiert | **Donnerstag, 9. Juli 2026 um 23:53:02 UTC** |
 
 </div>
 
@@ -141,7 +141,7 @@ Create a hard sci-fi movie still titled AIRLOCK. Frame one white EVA-suit astron
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -179,7 +179,7 @@ Generate a 1970s European romantic-drama still set inside a tense private moment
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -215,7 +215,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -251,7 +251,7 @@ Frame a folk-horror film still from an extreme low angle inside dense wheat. Let
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -290,7 +290,7 @@ Create a premium sports refreshment campaign image on a locker-room floor or ben
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -362,7 +362,7 @@ Source: [Source](https://x.com/AiwithZohaib/status/2074880584107909602)
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -399,7 +399,7 @@ Create a {argument name="aspect_ratio" default="16:9"} full-bleed editorial acti
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -436,7 +436,7 @@ Use the uploaded image as the locked base. Edit exactly the marked area and pres
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -472,7 +472,7 @@ Create a complex information visualization that combines one diagram, one small 
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -508,7 +508,7 @@ Generate a localized campaign asset directly in the target language. Respect the
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -559,7 +559,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -596,7 +596,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -632,7 +632,7 @@ Start from a rough product sketch or reference collage. Preserve the original si
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -668,7 +668,7 @@ Use the existing poster or product mockup as the base. Change only the selected 
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -704,7 +704,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -741,7 +741,7 @@ Use the uploaded character silhouette and surface contours as the shape referenc
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** ja
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -776,7 +776,7 @@ Create a design concept that can be separated into editable layers: background, 
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -812,7 +812,7 @@ Use the base visual as a production mockup. Perform a precise region edit, then 
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -848,7 +848,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -885,7 +885,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -922,7 +922,7 @@ Start from a normal street still with markup notes. Transform the scene into a r
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -961,7 +961,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -997,7 +997,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1035,7 +1035,7 @@ Using the provided dragon head or partial-body reference, create a full-body cha
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1072,7 +1072,7 @@ A source-backed tutorial from the original public X post, demonstrating japanese
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** ja-JP
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1120,7 +1120,7 @@ A source-backed tutorial from the original public X post, demonstrating localize
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** ja-JP
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1157,7 +1157,7 @@ a pic of my cat, asked for a mecha version
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1208,7 +1208,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1244,7 +1244,7 @@ Create a production-ready enterprise visual asset for {argument name="industry" 
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1279,7 +1279,7 @@ Create the same clean campaign infographic in 14 language variants. Keep the lay
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1314,7 +1314,7 @@ Design a workplace safety poster template, then render it in five languages whil
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1353,7 +1353,7 @@ Create a landing-page hero mockup by transferring a supplied visual style into a
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1403,7 +1403,7 @@ Source: [Source](https://x.com/Strength04_X/status/2075063250656621054)
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1441,7 +1441,7 @@ Create a set of data-dense visual panels: a global supply chain dashboard, a qua
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1476,7 +1476,7 @@ Design an authentic Spanish-language classroom infographic explaining a traditio
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1514,7 +1514,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1549,7 +1549,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1585,7 +1585,7 @@ Create a dense text-rich infographic from a rough sketch. Follow the sketch stru
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1620,7 +1620,7 @@ Design a realistic delivery receipt with merchant name, order number, itemized r
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1656,7 +1656,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1694,7 +1694,7 @@ Create an editorial fashion moodboard in the visual style OVERDOSE GOLD. Use a c
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1730,7 +1730,7 @@ Design two premium Arabic technology posters for Seedream 5 Pro. Use a dark cine
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** ar
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1774,7 +1774,7 @@ A detailed public prompt tested with both GPT Image and Seedream 5.0 Pro, focuse
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** zh-TW
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1818,7 +1818,7 @@ Use a premium blue color palette with turquoise gradients, high-end sports brand
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1857,7 +1857,7 @@ Semi-transparent glassy spheres with grid textures overlap the foreground, creat
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1892,7 +1892,7 @@ a full trading terminal — K-lines, order book, bid/ask, volume, timestamps
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1934,7 +1934,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -1969,7 +1969,7 @@ Generate a realistic 1960s Havana documentary still as the first frame for video
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2029,7 +2029,7 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2066,7 +2066,7 @@ Create an exploded technical diagram of a compact high-end AI camera module, eve
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2114,7 +2114,7 @@ Create a wide exterior noir shot of a lonely roadside diner during heavy night r
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2149,7 +2149,7 @@ Build a fantasy film still titled The Sun Throne. Place a bowed supplicant in so
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2184,7 +2184,7 @@ Create a survival film still in a total snow whiteout. Reduce the mountaineer to
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2219,7 +2219,7 @@ Photograph a relaxed adult woman leaning against a kitchen counter in a lived-in
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2254,7 +2254,7 @@ Create a 1916 Western Front film still at dawn. Show an exhausted young soldier 
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2289,7 +2289,7 @@ Create an epic Japanese anime key visual of a sorceress mid-incantation. Use a l
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2339,7 +2339,7 @@ Source: [Source](https://x.com/mattworkman/status/2074850550349222210)
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2374,7 +2374,7 @@ Create an extreme noir close-up in near-total darkness. Let a cigarette ember gl
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2409,7 +2409,7 @@ Frame a tense courtroom witness in tight portrait. Half-light the face with a ha
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2444,7 +2444,7 @@ Create a cramped mob-drama kitchen still. Steam rises from a pot of sauce while 
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2479,7 +2479,7 @@ Compose a wide shot of a cramped family kitchen table crowded with plates. Place
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2514,7 +2514,7 @@ Design a cinematic portrait of an aristocratic alien diplomat with pale lavender
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2549,7 +2549,7 @@ Create a close character portrait with very pale skin, light eyes, and an entire
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2584,7 +2584,7 @@ Create a cinematic sci-fi action still of a massive humanoid war robot firing an
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2619,7 +2619,7 @@ Make a medium-format close portrait of a young European woman with copper-red ha
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2654,7 +2654,7 @@ Create a wide low-angle magical-realist film still of an old fisherman kneeling 
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2689,7 +2689,7 @@ Create a bleach-bypass thriller still with harsh desaturated contrast, blown hig
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2725,7 +2725,7 @@ Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. 
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2760,7 +2760,7 @@ Generate a master-level traditional ink artwork of a mythic crane and pine tree 
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2795,7 +2795,7 @@ Create a delicate pancake angel character sitting on a stack of fluffy pancakes,
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** ja
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2831,7 +2831,7 @@ Generate a paired anime character study of the same young adventurer in two emot
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2866,7 +2866,7 @@ Create a magical realist portrait titled The Cloud Maker. Show a solitary figure
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2912,7 +2912,7 @@ Camera feel: taken by a friend standing in front of her with a smartphone, using
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2950,7 +2950,7 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -2986,7 +2986,7 @@ A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid compos
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** zh
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3034,7 +3034,7 @@ A girl with a sharp bob cut, purple hair with black accent strands, stylized lay
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3081,7 +3081,7 @@ A teenager stands behind a metal chain-link fence in a grassy outdoor area. She 
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** zh
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3119,7 +3119,7 @@ A beautiful young Japanese woman, natural and effortless beauty, soft glowing sk
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3158,7 +3158,7 @@ The layout is filled with clean blocks of small white placeholder body text and 
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3194,7 +3194,7 @@ world's landmarks, melting like wax
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3229,7 +3229,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3269,7 +3269,7 @@ Unretouched natural photograph, shot on cinema camera with subtle halation, fine
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3327,7 +3327,7 @@ Source: [Source](https://x.com/OpenDesignHQ/status/2075191300366733710)
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3368,7 +3368,7 @@ Render a massive capital-class spaceship orbiting a fictional alien planet. Use 
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3403,7 +3403,7 @@ Design a wide anime establishing shot of ancient temple islands floating above a
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3438,7 +3438,7 @@ Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray 
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3473,7 +3473,7 @@ Render a dense neon-noir dystopian city skyline at night from a high 24mm vantag
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3509,7 +3509,7 @@ Create a parametric architectural infographic for a famous landmark. Combine a c
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3544,7 +3544,7 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3579,7 +3579,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3628,7 +3628,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3676,7 +3676,7 @@ A mountain village built on impossibly tall stone pillars extends far above Eart
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3711,7 +3711,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3749,7 +3749,7 @@ design a bedroom for each MBTI type
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3797,7 +3797,7 @@ Design a full-body character sheet for a male creator in avant-garde streetwear.
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3848,7 +3848,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3887,7 +3887,7 @@ Use the uploaded portrait as the identity anchor. Change only the makeup: add re
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3925,7 +3925,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -3961,7 +3961,7 @@ Change the painting.
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4005,7 +4005,7 @@ A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** zh
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4043,7 +4043,7 @@ Character design sheet, full body turnaround, 23-year-old tall lean male creator
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4080,7 +4080,7 @@ Create a clean three-panel comparison board for the same visual prompt across th
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** zh
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4115,7 +4115,7 @@ A public same-prompt Seedream 5 Pro comparison prompt recreating the imperfect e
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4154,7 +4154,7 @@ A source-backed evaluation from the original public X post, demonstrating refere
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** ja-JP
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4198,7 +4198,7 @@ Natural skin texture with soft luminosity, gentle sheen on nose and lips, crisp 
 - **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4234,7 +4234,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4270,7 +4270,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4317,7 +4317,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** en
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4353,7 +4353,7 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** zh
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4388,7 +4388,7 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** ja-JP
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4440,7 +4440,7 @@ A source-backed evaluation from the original public X post, demonstrating chengd
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** zh
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4485,7 +4485,7 @@ A detailed public Chinese same-prompt comparison for a realistic 16:9 in-car sel
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** zh
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4523,7 +4523,7 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 - **Veröffentlicht:** 8. Juli 2026
 - **Sprachen:** zh
 
-**[Diesen Prompt nutzen](https://imaginevid.io/de/seedream-5-pro)**
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/seedream-5-pro)**
 
 ---
 
@@ -4587,6 +4587,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt einreichen](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Repository mit Star markieren](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-09T23:45:28.087Z</sub>
+<sub>Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-09T23:53:02.288Z</sub>
 
 </div>

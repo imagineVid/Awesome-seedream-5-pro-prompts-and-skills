@@ -4,6 +4,7 @@ import type { Prompt, FilterCategory } from "./cms-client.js";
 import {
   generateMediaTable,
   generateModelIntroduction,
+  getPromptCtaLabel,
   getSeedreamProductUrl,
   groupPromptsByWorkflow,
   SUPPORTED_LANGUAGES,
@@ -67,6 +68,11 @@ test("maps README locales only to verified ImagineVid product locales", () => {
     const prefix = pathname.split("/").filter(Boolean)[0];
     if (prefix !== "seedream-5-pro") assert.ok(supportedPrefixes.has(prefix), code);
   }
+});
+
+test("prompt CTA names ImagineVid explicitly", () => {
+  assert.equal(getPromptCtaLabel("en"), "Use this prompt on ImagineVid");
+  assert.match(getPromptCtaLabel("zh"), /ImagineVid/);
 });
 
 test("groups prompts by one primary workflow category in taxonomy order", () => {

@@ -102,6 +102,10 @@ export function getSeedreamProductUrl(locale: string): string {
     : SEEDREAM_PRODUCT_URL;
 }
 
+export function getPromptCtaLabel(locale: string): string {
+  return locale === "en" ? "Use this prompt on ImagineVid" : `${t("tryItNow", locale)} · ImagineVid`;
+}
+
 function cleanPromptContent(content: string): string {
   if (!content) return content;
   return content
@@ -241,6 +245,7 @@ function generatePromptSection(
     year: "numeric",
     month: "long",
     day: "numeric",
+    timeZone: "UTC",
   });
   const rawContent = prompt.translatedContent || prompt.content;
   const promptContent = cleanPromptContent(rawContent);
@@ -280,7 +285,7 @@ function generatePromptSection(
   }
   md += `- **${t("published", locale)}:** ${publishedDate}\n`;
   md += `- **${t("languages", locale)}:** ${prompt.language}\n\n`;
-  md += `**[${t("tryItNow", locale)}](${getSeedreamProductUrl(locale)})**\n\n`;
+  md += `**[${getPromptCtaLabel(locale)}](${getSeedreamProductUrl(locale)})**\n\n`;
   md += "---\n\n";
 
   return md;
