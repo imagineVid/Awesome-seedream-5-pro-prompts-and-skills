@@ -7,7 +7,7 @@ Produce a clear implementation route for an ImagineVid-branded `awesome-seedream
 ## Notes
 
 - Reference repository: `YouMind-OpenLab/awesome-nano-banana-pro-prompts`.
-- Target repository: `Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills`.
+- Target repository: `imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills`.
 - Standing correction: do not plan external CMS or separate gallery integration.
 - Preserve the reference data shape: `Prompt`, `PromptCategory`, `FilterCategory`, supported README locales, issue field IDs, and markdown section rhythm.
 - Rewrite all content for ImagineVid and Seedream 5 Pro.

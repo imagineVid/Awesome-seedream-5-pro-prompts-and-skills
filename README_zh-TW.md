@@ -1,4 +1,4 @@
-<a href="https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills">
+<a href="https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills">
   <img src="public/images/seedream-5-pro-prompts-hero-en.png" alt="Seedream 5 Pro Prompts and Skills" width="100%" />
 </a>
 
@@ -10,9 +10,9 @@
 # Seedream 5 Pro 提示词与技能大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills?style=social)](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)
+[![GitHub stars](https://img.shields.io/github/stars/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills?style=social)](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/actions/workflows/update-readme.yml/badge.svg)](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/actions)
+[![Update README](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/actions/workflows/update-readme.yml/badge.svg)](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 由 ImagineVid 整理的 Seedream 5 Pro 提示词、提示词技能与视觉案例集合
@@ -33,7 +33,7 @@
 
 </div>
 
-**[浏览 ImagineVid Seedream 5 Pro 提示词集合](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+**[浏览 ImagineVid Seedream 5 Pro 提示词集合](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
 为什么使用这个集合？
 
@@ -114,7 +114,7 @@ A cinematic poster for "{argument name="product" default="a glass AI camera"}" w
 |--------|-------|
 | 提示词总数 | **6** |
 | 精选 | **3** |
-| 最后更新 | **2026年7月9日 星期四 下午2:48:05 [UTC]** |
+| 最后更新 | **2026年7月9日 星期四 下午2:50:29 [UTC]** |
 
 </div>
 
@@ -372,7 +372,7 @@ Create a tranquil Maldives travel visual with clear turquoise water, bright whit
 
 ### GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)
+1. Click [**Submit New Prompt**](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)
 2. 填写提示词、说明和图片信息
 3. 提交后等待维护者审核
 4. 审核通过后可以同步到本地结构化数据
@@ -399,16 +399,16 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills&type=Date)](https://star-history.com/#Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills&type=Date)](https://star-history.com/#imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills&Date)
 
 ---
 
 <div align="center">
 
-**[查看精选集合](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)** •
-**[Submit a Prompt](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
-**[Star this repo](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+**[查看精选集合](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)** •
+**[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
+**[Star this repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T14:48:05.587Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T14:50:29.545Z</sub>
 
 </div>

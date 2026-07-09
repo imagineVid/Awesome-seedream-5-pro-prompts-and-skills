@@ -1,4 +1,4 @@
-<a href="https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills">
+<a href="https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills">
   <img src="public/images/seedream-5-pro-prompts-hero-en.png" alt="Seedream 5 Pro Prompts and Skills" width="100%" />
 </a>
 
@@ -10,9 +10,9 @@
 # Awesome Seedream 5 Pro Prompts and Skills
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills?style=social)](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)
+[![GitHub stars](https://img.shields.io/github/stars/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills?style=social)](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/actions/workflows/update-readme.yml/badge.svg)](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/actions)
+[![Update README](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/actions/workflows/update-readme.yml/badge.svg)](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > A curated collection of Seedream 5 Pro prompts, reusable prompt skills, and visual examples by ImagineVid
@@ -33,7 +33,7 @@
 
 </div>
 
-**[Browse the ImagineVid Seedream 5 Pro prompt collection](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+**[Browse the ImagineVid Seedream 5 Pro prompt collection](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
 Why use this collection?
 
@@ -114,7 +114,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Total Prompts | **6** |
 | Featured | **3** |
-| Last Updated | **lúc 14:48:05 UTC Thứ Năm, 9 tháng 7, 2026** |
+| Last Updated | **lúc 14:50:29 UTC Thứ Năm, 9 tháng 7, 2026** |
 
 </div>
 
@@ -372,7 +372,7 @@ We welcome high-quality prompt submissions through GitHub Issues.
 
 ### GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)
+1. Click [**Submit New Prompt**](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)
 2. Fill in the form with prompt details and images
 3. Submit and wait for maintainer review
 4. If approved, the issue can be synced into local repository data
@@ -399,16 +399,16 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills&type=Date)](https://star-history.com/#Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills&type=Date)](https://star-history.com/#imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills&Date)
 
 ---
 
 <div align="center">
 
-**[View the Curated Collection](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)** •
-**[Submit a Prompt](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
-**[Star this repo](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+**[View the Curated Collection](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)** •
+**[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
+**[Star this repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T14:48:05.593Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T14:50:29.553Z</sub>
 
 </div>
