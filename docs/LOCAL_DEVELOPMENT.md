@@ -31,7 +31,7 @@ The issue sync script only needs GitHub variables when you want to parse a real 
 
 ```env
 GITHUB_TOKEN=ghp_your_personal_access_token
-GITHUB_REPOSITORY=Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills
+GITHUB_REPOSITORY=Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills
 ISSUE_NUMBER=1
 ISSUE_BODY="### Prompt Title
 Example prompt

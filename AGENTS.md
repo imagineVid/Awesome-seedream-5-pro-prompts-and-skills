@@ -13,7 +13,7 @@ AGENTS.md - 仓库级工程约束。
 </config>
 
 ## 产品定位
-- 目标仓库为 `Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills`。
+- 目标仓库为 `Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills`。
 - 品牌使用 `ImagineVid`，不要出现 YouMind 口吻、YouMind 链接或 YouMind 图片资产。
 - 参考仓库 `YouMind-OpenLab/awesome-nano-banana-pro-prompts` 只作为结构样板。
 - 不接外部 CMS 或独立图库；本仓库只用本地采集/归一化数据生成 README 并推送远端。

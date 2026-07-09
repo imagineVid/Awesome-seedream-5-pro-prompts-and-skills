@@ -38,7 +38,7 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
 ];
 
 const MAX_REGULAR_PROMPTS_TO_DISPLAY = 120;
-const REPO = "Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills";
+const REPO = "Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills";
 const REPO_URL = `https://github.com/${REPO}`;
 
 function getLocalePrefix(locale: string): string {

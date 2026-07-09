@@ -1,4 +1,4 @@
-<a href="https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills">
+<a href="https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills">
   <img src="public/images/seedream-5-pro-prompts-hero-zh.svg" alt="Seedream 5 Pro Prompts and Skills" width="100%" />
 </a>
 
@@ -10,9 +10,9 @@
 # Seedream 5 Pro 提示词与技能大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills?style=social)](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)
+[![GitHub stars](https://img.shields.io/github/stars/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills?style=social)](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills/actions/workflows/update-readme.yml/badge.svg)](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills/actions)
+[![Update README](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/actions/workflows/update-readme.yml/badge.svg)](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 由 ImagineVid 整理的 Seedream 5 Pro 提示词、提示词技能与视觉案例集合
@@ -33,7 +33,7 @@
 
 </div>
 
-**[浏览 ImagineVid Seedream 5 Pro 提示词集合](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)**
+**[浏览 ImagineVid Seedream 5 Pro 提示词集合](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
 为什么使用这个集合？
 
@@ -109,7 +109,7 @@ A cinematic poster for "{argument name="product" default="a glass AI camera"}" w
 |--------|-------|
 | 提示词总数 | **3** |
 | 精选 | **2** |
-| 最后更新 | **2026年7月9日 星期四 下午2:23:12 [UTC]** |
+| 最后更新 | **2026年7月9日 星期四 下午2:24:42 [UTC]** |
 
 </div>
 
@@ -146,11 +146,11 @@ Create a cinematic launch poster for {argument name="subject" default="Seedream 
 #### 详情
 
 - **作者:** [ImagineVid Lab](https://imaginevid.com)
-- **来源:** [来源](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)
+- **来源:** [来源](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)
 - **发布时间:** 2026年7月9日
 - **Languages:** en
 
-**[使用这个提示词](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)**
+**[使用这个提示词](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
 ---
 
@@ -180,11 +180,11 @@ Design a premium liquid-glass bento grid for [product name]. Use a 16:9 layout w
 #### 详情
 
 - **作者:** [ImagineVid Lab](https://imaginevid.com)
-- **来源:** [来源](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)
+- **来源:** [来源](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)
 - **发布时间:** 2026年7月9日
 - **Languages:** en
 
-**[使用这个提示词](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)**
+**[使用这个提示词](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
 ---
 
@@ -218,11 +218,11 @@ Use the uploaded portrait as the identity reference. Preserve the person's face 
 #### 详情
 
 - **作者:** [ImagineVid Lab](https://imaginevid.com)
-- **来源:** [来源](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)
+- **来源:** [来源](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)
 - **发布时间:** 2026年7月9日
 - **Languages:** en
 
-**[使用这个提示词](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)**
+**[使用这个提示词](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
 ---
 
@@ -232,7 +232,7 @@ Use the uploaded portrait as the identity reference. Preserve the person's face 
 
 ### GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)
+1. Click [**Submit New Prompt**](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)
 2. 填写提示词、说明和图片信息
 3. 提交后等待维护者审核
 4. 审核通过后可以同步到本地结构化数据
@@ -259,16 +259,16 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills&type=Date)](https://star-history.com/#Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills&type=Date)](https://star-history.com/#Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills&Date)
 
 ---
 
 <div align="center">
 
-**[查看精选集合](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)** •
-**[Submit a Prompt](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
-**[Star this repo](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)**
+**[查看精选集合](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)** •
+**[Submit a Prompt](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
+**[Star this repo](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T14:23:12.622Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T14:24:42.069Z</sub>
 
 </div>

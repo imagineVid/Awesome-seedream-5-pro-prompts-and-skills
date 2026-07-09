@@ -8,7 +8,7 @@ Our implementation should mirror the reference project's repository structure an
 
 ## Destination
 
-Build `Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills` as an ImagineVid-branded clone of the reference repository architecture:
+Build `Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills` as an ImagineVid-branded clone of the reference repository architecture:
 
 - Same file layout style.
 - Same README section rhythm.

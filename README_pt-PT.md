@@ -1,4 +1,4 @@
-<a href="https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills">
+<a href="https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills">
   <img src="public/images/seedream-5-pro-prompts-hero-en.svg" alt="Seedream 5 Pro Prompts and Skills" width="100%" />
 </a>
 
@@ -10,9 +10,9 @@
 # Awesome Seedream 5 Pro Prompts and Skills
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills?style=social)](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)
+[![GitHub stars](https://img.shields.io/github/stars/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills?style=social)](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills/actions/workflows/update-readme.yml/badge.svg)](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills/actions)
+[![Update README](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/actions/workflows/update-readme.yml/badge.svg)](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > A curated collection of Seedream 5 Pro prompts, reusable prompt skills, and visual examples by ImagineVid
@@ -33,7 +33,7 @@
 
 </div>
 
-**[Browse the ImagineVid Seedream 5 Pro prompt collection](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)**
+**[Browse the ImagineVid Seedream 5 Pro prompt collection](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
 Why use this collection?
 
@@ -109,7 +109,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Total Prompts | **3** |
 | Featured | **2** |
-| Last Updated | **quinta-feira, 9 de julho de 2026 às 14:23:12 UTC** |
+| Last Updated | **quinta-feira, 9 de julho de 2026 às 14:24:42 UTC** |
 
 </div>
 
@@ -146,11 +146,11 @@ Create a cinematic launch poster for {argument name="subject" default="Seedream 
 #### Details
 
 - **Author:** [ImagineVid Lab](https://imaginevid.com)
-- **Source:** [Source](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)
+- **Source:** [Source](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)
 - **Published:** 9 de julho de 2026
 - **Languages:** en
 
-**[Use this prompt](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)**
+**[Use this prompt](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
 ---
 
@@ -180,11 +180,11 @@ Design a premium liquid-glass bento grid for [product name]. Use a 16:9 layout w
 #### Details
 
 - **Author:** [ImagineVid Lab](https://imaginevid.com)
-- **Source:** [Source](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)
+- **Source:** [Source](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)
 - **Published:** 9 de julho de 2026
 - **Languages:** en
 
-**[Use this prompt](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)**
+**[Use this prompt](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
 ---
 
@@ -218,11 +218,11 @@ Use the uploaded portrait as the identity reference. Preserve the person's face 
 #### Details
 
 - **Author:** [ImagineVid Lab](https://imaginevid.com)
-- **Source:** [Source](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)
+- **Source:** [Source](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)
 - **Published:** 9 de julho de 2026
 - **Languages:** en
 
-**[Use this prompt](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)**
+**[Use this prompt](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
 ---
 
@@ -232,7 +232,7 @@ We welcome high-quality prompt submissions through GitHub Issues.
 
 ### GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)
+1. Click [**Submit New Prompt**](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)
 2. Fill in the form with prompt details and images
 3. Submit and wait for maintainer review
 4. If approved, the issue can be synced into local repository data
@@ -259,16 +259,16 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills&type=Date)](https://star-history.com/#Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills&type=Date)](https://star-history.com/#Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills&Date)
 
 ---
 
 <div align="center">
 
-**[View the Curated Collection](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)** •
-**[Submit a Prompt](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
-**[Star this repo](https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills)**
+**[View the Curated Collection](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)** •
+**[Submit a Prompt](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
+**[Star this repo](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T14:23:12.642Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T14:24:42.107Z</sub>
 
 </div>
