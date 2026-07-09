@@ -133,7 +133,7 @@ ImagineVid workflows देखें, जो prompt craft को production-read
 |--------|-------|
 | कुल prompts | **75** |
 | Featured | **10** |
-| अंतिम अपडेट | **गुरुवार, 9 जुलाई 2026 को 3:56:03 pm UTC बजे** |
+| अंतिम अपडेट | **गुरुवार, 9 जुलाई 2026 को 4:07:59 pm UTC बजे** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Author:** [@characternexus](https://x.com/characternexus)
 - **Source:** [Source](https://x.com/characternexus/status/2074920654751592583)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Author:** [@asheem01](https://x.com/asheem01)
 - **Source:** [Source](https://x.com/asheem01/status/2074941260863811644)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **Author:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Source:** [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Author:** [@al_tools43377](https://x.com/al_tools43377)
 - **Source:** [Source](https://x.com/al_tools43377/status/2074971603054502365)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Author:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Source:** [Source](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Author:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Source:** [Source](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Author:** [@krea_ai](https://x.com/krea_ai)
 - **Source:** [Source](https://x.com/krea_ai/status/2074891481832456638)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1277,7 +1277,7 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 
 - **Author:** [@irdh34](https://x.com/irdh34)
 - **Source:** [Source](https://x.com/irdh34/status/2074910474609566115)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/irdh34/status/2074910474609566115)**
@@ -2014,7 +2014,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **Author:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Source:** [Source](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2300,7 +2300,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Author:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Source:** [Source](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2333,7 +2333,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Author:** [@JameFalken](https://x.com/JameFalken)
 - **Source:** [Source](https://x.com/JameFalken/status/2074959430374867438)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2468,7 +2468,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Author:** [@runwayml](https://x.com/runwayml)
 - **Source:** [Source](https://x.com/runwayml/status/2074982268175630814)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/runwayml/status/2074982268175630814)**
@@ -2640,7 +2640,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Author:** [@filodyprincess](https://x.com/filodyprincess)
 - **Source:** [Source](https://x.com/filodyprincess/status/2074916756452483224)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2692,7 +2692,7 @@ Use the uploaded design comp with handwritten markup. If the logo is circled and
 
 - **Author:** [@Zayan_coder](https://x.com/Zayan_coder)
 - **Source:** [Source](https://x.com/Zayan_coder/status/2074909799293305323)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/Zayan_coder/status/2074909799293305323)**
@@ -2732,7 +2732,7 @@ Use the living-room image with six marked boxes and six notes. Apply each change
 
 - **Author:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
 - **Source:** [Source](https://x.com/Dipanshu_AI/status/2074919074929475587)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/Dipanshu_AI/status/2074919074929475587)**
@@ -2824,7 +2824,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Author:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Source:** [Source](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Published:** 9 जुलाई 2026
+- **Published:** 8 जुलाई 2026
 - **भाषाएँ:** en
 
 **[यह prompt उपयोग करें](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2941,6 +2941,6 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star history](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>अंतिम अपडेट: 2026-07-09T15:56:03.830Z</sub>
+<sub>अंतिम अपडेट: 2026-07-09T16:07:59.939Z</sub>
 
 </div>

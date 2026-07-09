@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | মোট প্রম্পট | **75** |
 | নির্বাচিত | **10** |
-| শেষ আপডেট | **বৃহস্পতিবার, ৯ জুলাই, ২০২৬ এ ৩:৫৬:০৩ PM UTC** |
+| শেষ আপডেট | **বৃহস্পতিবার, ৯ জুলাই, ২০২৬ এ ৪:০৮:০০ PM UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **লেখক:** [@characternexus](https://x.com/characternexus)
 - **উৎস:** [উৎস](https://x.com/characternexus/status/2074920654751592583)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **লেখক:** [@asheem01](https://x.com/asheem01)
 - **উৎস:** [উৎস](https://x.com/asheem01/status/2074941260863811644)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **লেখক:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **উৎস:** [উৎস](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **লেখক:** [@al_tools43377](https://x.com/al_tools43377)
 - **উৎস:** [উৎস](https://x.com/al_tools43377/status/2074971603054502365)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **লেখক:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **উৎস:** [উৎস](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **লেখক:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **উৎস:** [উৎস](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **লেখক:** [@krea_ai](https://x.com/krea_ai)
 - **উৎস:** [উৎস](https://x.com/krea_ai/status/2074891481832456638)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1277,7 +1277,7 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 
 - **লেখক:** [@irdh34](https://x.com/irdh34)
 - **উৎস:** [উৎস](https://x.com/irdh34/status/2074910474609566115)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/irdh34/status/2074910474609566115)**
@@ -2014,7 +2014,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **লেখক:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **উৎস:** [উৎস](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2300,7 +2300,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **লেখক:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **উৎস:** [উৎস](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2333,7 +2333,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **লেখক:** [@JameFalken](https://x.com/JameFalken)
 - **উৎস:** [উৎস](https://x.com/JameFalken/status/2074959430374867438)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2468,7 +2468,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **লেখক:** [@runwayml](https://x.com/runwayml)
 - **উৎস:** [উৎস](https://x.com/runwayml/status/2074982268175630814)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/runwayml/status/2074982268175630814)**
@@ -2640,7 +2640,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **লেখক:** [@filodyprincess](https://x.com/filodyprincess)
 - **উৎস:** [উৎস](https://x.com/filodyprincess/status/2074916756452483224)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2692,7 +2692,7 @@ Use the uploaded design comp with handwritten markup. If the logo is circled and
 
 - **লেখক:** [@Zayan_coder](https://x.com/Zayan_coder)
 - **উৎস:** [উৎস](https://x.com/Zayan_coder/status/2074909799293305323)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/Zayan_coder/status/2074909799293305323)**
@@ -2732,7 +2732,7 @@ Use the living-room image with six marked boxes and six notes. Apply each change
 
 - **লেখক:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
 - **উৎস:** [উৎস](https://x.com/Dipanshu_AI/status/2074919074929475587)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/Dipanshu_AI/status/2074919074929475587)**
@@ -2824,7 +2824,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **লেখক:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **উৎস:** [উৎস](https://x.com/techxsarfraj/status/2074893823029998052)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2941,6 +2941,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[প্রম্পট জমা দিন](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[এই রিপোতে Star দিন](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T15:56:03.914Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:08:00.020Z</sub>
 
 </div>

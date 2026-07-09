@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Totalt antall prompter | **75** |
 | Utvalgt | **10** |
-| Sist oppdatert | **torsdag 9. juli 2026 kl. 15:56:03 UTC** |
+| Sist oppdatert | **torsdag 9. juli 2026 kl. 16:08:00 UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Forfatter:** [@characternexus](https://x.com/characternexus)
 - **Kilde:** [Kilde](https://x.com/characternexus/status/2074920654751592583)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Forfatter:** [@asheem01](https://x.com/asheem01)
 - **Kilde:** [Kilde](https://x.com/asheem01/status/2074941260863811644)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **Forfatter:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Kilde:** [Kilde](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Forfatter:** [@al_tools43377](https://x.com/al_tools43377)
 - **Kilde:** [Kilde](https://x.com/al_tools43377/status/2074971603054502365)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Forfatter:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Kilde:** [Kilde](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Forfatter:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Kilde:** [Kilde](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Forfatter:** [@krea_ai](https://x.com/krea_ai)
 - **Kilde:** [Kilde](https://x.com/krea_ai/status/2074891481832456638)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1277,7 +1277,7 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 
 - **Forfatter:** [@irdh34](https://x.com/irdh34)
 - **Kilde:** [Kilde](https://x.com/irdh34/status/2074910474609566115)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/irdh34/status/2074910474609566115)**
@@ -2014,7 +2014,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **Forfatter:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Kilde:** [Kilde](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2300,7 +2300,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Forfatter:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Kilde:** [Kilde](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2333,7 +2333,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Forfatter:** [@JameFalken](https://x.com/JameFalken)
 - **Kilde:** [Kilde](https://x.com/JameFalken/status/2074959430374867438)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2468,7 +2468,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Forfatter:** [@runwayml](https://x.com/runwayml)
 - **Kilde:** [Kilde](https://x.com/runwayml/status/2074982268175630814)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/runwayml/status/2074982268175630814)**
@@ -2640,7 +2640,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Forfatter:** [@filodyprincess](https://x.com/filodyprincess)
 - **Kilde:** [Kilde](https://x.com/filodyprincess/status/2074916756452483224)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2692,7 +2692,7 @@ Use the uploaded design comp with handwritten markup. If the logo is circled and
 
 - **Forfatter:** [@Zayan_coder](https://x.com/Zayan_coder)
 - **Kilde:** [Kilde](https://x.com/Zayan_coder/status/2074909799293305323)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/Zayan_coder/status/2074909799293305323)**
@@ -2732,7 +2732,7 @@ Use the living-room image with six marked boxes and six notes. Apply each change
 
 - **Forfatter:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
 - **Kilde:** [Kilde](https://x.com/Dipanshu_AI/status/2074919074929475587)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/Dipanshu_AI/status/2074919074929475587)**
@@ -2824,7 +2824,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Forfatter:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Kilde:** [Kilde](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Publisert:** 9. juli 2026
+- **Publisert:** 8. juli 2026
 - **Språk:** en
 
 **[Bruk denne prompten](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2941,6 +2941,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Send inn prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Gi repoet en Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T15:56:03.999Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:08:00.091Z</sub>
 
 </div>

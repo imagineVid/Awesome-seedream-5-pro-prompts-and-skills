@@ -133,7 +133,7 @@ Remplacez les arguments pour réutiliser le prompt comme skill créative compact
 |--------|-------|
 | Total des prompts | **75** |
 | En vedette | **10** |
-| Dernière mise à jour | **jeudi 9 juillet 2026 à 15:56:03 UTC** |
+| Dernière mise à jour | **jeudi 9 juillet 2026 à 16:07:59 UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Auteur:** [@characternexus](https://x.com/characternexus)
 - **Source:** [Source](https://x.com/characternexus/status/2074920654751592583)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Auteur:** [@asheem01](https://x.com/asheem01)
 - **Source:** [Source](https://x.com/asheem01/status/2074941260863811644)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **Auteur:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Source:** [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Auteur:** [@al_tools43377](https://x.com/al_tools43377)
 - **Source:** [Source](https://x.com/al_tools43377/status/2074971603054502365)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Auteur:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Source:** [Source](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Auteur:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Source:** [Source](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Auteur:** [@krea_ai](https://x.com/krea_ai)
 - **Source:** [Source](https://x.com/krea_ai/status/2074891481832456638)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1277,7 +1277,7 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 
 - **Auteur:** [@irdh34](https://x.com/irdh34)
 - **Source:** [Source](https://x.com/irdh34/status/2074910474609566115)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/irdh34/status/2074910474609566115)**
@@ -2014,7 +2014,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **Auteur:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Source:** [Source](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2300,7 +2300,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Auteur:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Source:** [Source](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2333,7 +2333,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Auteur:** [@JameFalken](https://x.com/JameFalken)
 - **Source:** [Source](https://x.com/JameFalken/status/2074959430374867438)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2468,7 +2468,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Auteur:** [@runwayml](https://x.com/runwayml)
 - **Source:** [Source](https://x.com/runwayml/status/2074982268175630814)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/runwayml/status/2074982268175630814)**
@@ -2640,7 +2640,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Auteur:** [@filodyprincess](https://x.com/filodyprincess)
 - **Source:** [Source](https://x.com/filodyprincess/status/2074916756452483224)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2692,7 +2692,7 @@ Use the uploaded design comp with handwritten markup. If the logo is circled and
 
 - **Auteur:** [@Zayan_coder](https://x.com/Zayan_coder)
 - **Source:** [Source](https://x.com/Zayan_coder/status/2074909799293305323)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/Zayan_coder/status/2074909799293305323)**
@@ -2732,7 +2732,7 @@ Use the living-room image with six marked boxes and six notes. Apply each change
 
 - **Auteur:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
 - **Source:** [Source](https://x.com/Dipanshu_AI/status/2074919074929475587)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/Dipanshu_AI/status/2074919074929475587)**
@@ -2824,7 +2824,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Auteur:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Source:** [Source](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Publié:** 9 juillet 2026
+- **Publié:** 8 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2941,6 +2941,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Soumettre un prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Mettre une star au dépôt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Ce README est généré automatiquement. Dernière mise à jour : 2026-07-09T15:56:03.864Z</sub>
+<sub>Ce README est généré automatiquement. Dernière mise à jour : 2026-07-09T16:07:59.971Z</sub>
 
 </div>

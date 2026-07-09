@@ -133,7 +133,7 @@
 |--------|-------|
 | プロンプト総数 | **75** |
 | 注目 | **10** |
-| 最終更新 | **2026年7月9日木曜日 15:56:03 UTC** |
+| 最終更新 | **2026年7月9日木曜日 16:07:59 UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **作者:** [@characternexus](https://x.com/characternexus)
 - **出典:** [出典](https://x.com/characternexus/status/2074920654751592583)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **作者:** [@asheem01](https://x.com/asheem01)
 - **出典:** [出典](https://x.com/asheem01/status/2074941260863811644)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **作者:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **出典:** [出典](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **作者:** [@al_tools43377](https://x.com/al_tools43377)
 - **出典:** [出典](https://x.com/al_tools43377/status/2074971603054502365)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **作者:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **出典:** [出典](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **作者:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **出典:** [出典](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **作者:** [@krea_ai](https://x.com/krea_ai)
 - **出典:** [出典](https://x.com/krea_ai/status/2074891481832456638)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1277,7 +1277,7 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 
 - **作者:** [@irdh34](https://x.com/irdh34)
 - **出典:** [出典](https://x.com/irdh34/status/2074910474609566115)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/irdh34/status/2074910474609566115)**
@@ -2014,7 +2014,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **作者:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **出典:** [出典](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2300,7 +2300,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **作者:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **出典:** [出典](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2333,7 +2333,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **作者:** [@JameFalken](https://x.com/JameFalken)
 - **出典:** [出典](https://x.com/JameFalken/status/2074959430374867438)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2468,7 +2468,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **作者:** [@runwayml](https://x.com/runwayml)
 - **出典:** [出典](https://x.com/runwayml/status/2074982268175630814)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/runwayml/status/2074982268175630814)**
@@ -2640,7 +2640,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **作者:** [@filodyprincess](https://x.com/filodyprincess)
 - **出典:** [出典](https://x.com/filodyprincess/status/2074916756452483224)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2692,7 +2692,7 @@ Use the uploaded design comp with handwritten markup. If the logo is circled and
 
 - **作者:** [@Zayan_coder](https://x.com/Zayan_coder)
 - **出典:** [出典](https://x.com/Zayan_coder/status/2074909799293305323)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/Zayan_coder/status/2074909799293305323)**
@@ -2732,7 +2732,7 @@ Use the living-room image with six marked boxes and six notes. Apply each change
 
 - **作者:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
 - **出典:** [出典](https://x.com/Dipanshu_AI/status/2074919074929475587)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/Dipanshu_AI/status/2074919074929475587)**
@@ -2824,7 +2824,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **作者:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **出典:** [出典](https://x.com/techxsarfraj/status/2074893823029998052)
-- **公開日:** 2026年7月9日
+- **公開日:** 2026年7月8日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2941,6 +2941,6 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 **[プロンプトを投稿](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-07-09T15:56:03.794Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-07-09T16:07:59.890Z</sub>
 
 </div>

@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | ਕੁੱਲ prompts | **75** |
 | Featured | **10** |
-| ਆਖਰੀ ਅਪਡੇਟ | **ਵੀਰਵਾਰ, 9 ਜੁਲਾਈ 2026 3:56:04 PM UTC** |
+| ਆਖਰੀ ਅਪਡੇਟ | **ਵੀਰਵਾਰ, 9 ਜੁਲਾਈ 2026 4:08:00 PM UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **ਲੇਖਕ:** [@characternexus](https://x.com/characternexus)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/characternexus/status/2074920654751592583)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **ਲੇਖਕ:** [@asheem01](https://x.com/asheem01)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/asheem01/status/2074941260863811644)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **ਲੇਖਕ:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **ਲੇਖਕ:** [@al_tools43377](https://x.com/al_tools43377)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/al_tools43377/status/2074971603054502365)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **ਲੇਖਕ:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **ਲੇਖਕ:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **ਲੇਖਕ:** [@krea_ai](https://x.com/krea_ai)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/krea_ai/status/2074891481832456638)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1277,7 +1277,7 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 
 - **ਲੇਖਕ:** [@irdh34](https://x.com/irdh34)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/irdh34/status/2074910474609566115)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/irdh34/status/2074910474609566115)**
@@ -2014,7 +2014,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **ਲੇਖਕ:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2300,7 +2300,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **ਲੇਖਕ:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2333,7 +2333,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **ਲੇਖਕ:** [@JameFalken](https://x.com/JameFalken)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/JameFalken/status/2074959430374867438)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2468,7 +2468,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **ਲੇਖਕ:** [@runwayml](https://x.com/runwayml)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/runwayml/status/2074982268175630814)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/runwayml/status/2074982268175630814)**
@@ -2640,7 +2640,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **ਲੇਖਕ:** [@filodyprincess](https://x.com/filodyprincess)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/filodyprincess/status/2074916756452483224)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2692,7 +2692,7 @@ Use the uploaded design comp with handwritten markup. If the logo is circled and
 
 - **ਲੇਖਕ:** [@Zayan_coder](https://x.com/Zayan_coder)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/Zayan_coder/status/2074909799293305323)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/Zayan_coder/status/2074909799293305323)**
@@ -2732,7 +2732,7 @@ Use the living-room image with six marked boxes and six notes. Apply each change
 
 - **ਲੇਖਕ:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/Dipanshu_AI/status/2074919074929475587)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/Dipanshu_AI/status/2074919074929475587)**
@@ -2824,7 +2824,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **ਲੇਖਕ:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **ਸਰੋਤ:** [ਸਰੋਤ](https://x.com/techxsarfraj/status/2074893823029998052)
-- **ਪ੍ਰਕਾਸ਼ਿਤ:** 9 ਜੁਲਾਈ 2026
+- **ਪ੍ਰਕਾਸ਼ਿਤ:** 8 ਜੁਲਾਈ 2026
 - **ਭਾਸ਼ਾਵਾਂ:** en
 
 **[ਇਹ prompt ਵਰਤੋ](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2941,6 +2941,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt submit ਕਰੋ](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ਇਸ repo ਨੂੰ Star ਕਰੋ](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T15:56:04.121Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:08:00.194Z</sub>
 
 </div>

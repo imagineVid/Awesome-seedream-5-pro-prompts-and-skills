@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Всего промптов | **75** |
 | Избранное | **10** |
-| Обновлено | **четверг, 9 июля 2026 г. в 15:56:03 UTC** |
+| Обновлено | **четверг, 9 июля 2026 г. в 16:08:00 UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Автор:** [@characternexus](https://x.com/characternexus)
 - **Источник:** [Источник](https://x.com/characternexus/status/2074920654751592583)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Автор:** [@asheem01](https://x.com/asheem01)
 - **Источник:** [Источник](https://x.com/asheem01/status/2074941260863811644)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **Автор:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Источник:** [Источник](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Автор:** [@al_tools43377](https://x.com/al_tools43377)
 - **Источник:** [Источник](https://x.com/al_tools43377/status/2074971603054502365)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Автор:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Источник:** [Источник](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Автор:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Источник:** [Источник](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Автор:** [@krea_ai](https://x.com/krea_ai)
 - **Источник:** [Источник](https://x.com/krea_ai/status/2074891481832456638)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1277,7 +1277,7 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 
 - **Автор:** [@irdh34](https://x.com/irdh34)
 - **Источник:** [Источник](https://x.com/irdh34/status/2074910474609566115)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/irdh34/status/2074910474609566115)**
@@ -2014,7 +2014,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **Автор:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Источник:** [Источник](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2300,7 +2300,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Автор:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Источник:** [Источник](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2333,7 +2333,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Автор:** [@JameFalken](https://x.com/JameFalken)
 - **Источник:** [Источник](https://x.com/JameFalken/status/2074959430374867438)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2468,7 +2468,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Автор:** [@runwayml](https://x.com/runwayml)
 - **Источник:** [Источник](https://x.com/runwayml/status/2074982268175630814)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/runwayml/status/2074982268175630814)**
@@ -2640,7 +2640,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Автор:** [@filodyprincess](https://x.com/filodyprincess)
 - **Источник:** [Источник](https://x.com/filodyprincess/status/2074916756452483224)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2692,7 +2692,7 @@ Use the uploaded design comp with handwritten markup. If the logo is circled and
 
 - **Автор:** [@Zayan_coder](https://x.com/Zayan_coder)
 - **Источник:** [Источник](https://x.com/Zayan_coder/status/2074909799293305323)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/Zayan_coder/status/2074909799293305323)**
@@ -2732,7 +2732,7 @@ Use the living-room image with six marked boxes and six notes. Apply each change
 
 - **Автор:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
 - **Источник:** [Источник](https://x.com/Dipanshu_AI/status/2074919074929475587)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/Dipanshu_AI/status/2074919074929475587)**
@@ -2824,7 +2824,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Автор:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Источник:** [Источник](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Опубликовано:** 9 июля 2026 г.
+- **Опубликовано:** 8 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2941,6 +2941,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Отправить промпт](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Этот README создан автоматически. Последнее обновление: 2026-07-09T15:56:03.952Z</sub>
+<sub>Этот README создан автоматически. Последнее обновление: 2026-07-09T16:08:00.053Z</sub>
 
 </div>

@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Total prompt | **75** |
 | Pilihan | **10** |
-| Paling anyar dianyari | **Kamis, 9 Juli 2026 ing 15:56:04 UTC** |
+| Paling anyar dianyari | **Kamis, 9 Juli 2026 ing 16:08:00 UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Panulis:** [@characternexus](https://x.com/characternexus)
 - **Sumber:** [Sumber](https://x.com/characternexus/status/2074920654751592583)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Panulis:** [@asheem01](https://x.com/asheem01)
 - **Sumber:** [Sumber](https://x.com/asheem01/status/2074941260863811644)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **Panulis:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Sumber:** [Sumber](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Panulis:** [@al_tools43377](https://x.com/al_tools43377)
 - **Sumber:** [Sumber](https://x.com/al_tools43377/status/2074971603054502365)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Panulis:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Sumber:** [Sumber](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Panulis:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Sumber:** [Sumber](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Panulis:** [@krea_ai](https://x.com/krea_ai)
 - **Sumber:** [Sumber](https://x.com/krea_ai/status/2074891481832456638)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1277,7 +1277,7 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 
 - **Panulis:** [@irdh34](https://x.com/irdh34)
 - **Sumber:** [Sumber](https://x.com/irdh34/status/2074910474609566115)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/irdh34/status/2074910474609566115)**
@@ -2014,7 +2014,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **Panulis:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Sumber:** [Sumber](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2300,7 +2300,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Panulis:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Sumber:** [Sumber](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2333,7 +2333,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Panulis:** [@JameFalken](https://x.com/JameFalken)
 - **Sumber:** [Sumber](https://x.com/JameFalken/status/2074959430374867438)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2468,7 +2468,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Panulis:** [@runwayml](https://x.com/runwayml)
 - **Sumber:** [Sumber](https://x.com/runwayml/status/2074982268175630814)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/runwayml/status/2074982268175630814)**
@@ -2640,7 +2640,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Panulis:** [@filodyprincess](https://x.com/filodyprincess)
 - **Sumber:** [Sumber](https://x.com/filodyprincess/status/2074916756452483224)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2692,7 +2692,7 @@ Use the uploaded design comp with handwritten markup. If the logo is circled and
 
 - **Panulis:** [@Zayan_coder](https://x.com/Zayan_coder)
 - **Sumber:** [Sumber](https://x.com/Zayan_coder/status/2074909799293305323)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/Zayan_coder/status/2074909799293305323)**
@@ -2732,7 +2732,7 @@ Use the living-room image with six marked boxes and six notes. Apply each change
 
 - **Panulis:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
 - **Sumber:** [Sumber](https://x.com/Dipanshu_AI/status/2074919074929475587)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/Dipanshu_AI/status/2074919074929475587)**
@@ -2824,7 +2824,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Panulis:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Sumber:** [Sumber](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Diterbitake:** 9 Juli 2026
+- **Diterbitake:** 8 Juli 2026
 - **Basa:** en
 
 **[Gunakake prompt iki](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2941,6 +2941,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Kirim Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Wenehi Star repo iki](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T15:56:04.157Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:08:00.231Z</sub>
 
 </div>

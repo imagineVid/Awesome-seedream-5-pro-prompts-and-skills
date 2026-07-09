@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | ಒಟ್ಟು prompts | **75** |
 | Featured | **10** |
-| ಕೊನೆಯ ಅಪ್ಡೇಟ್ | **ಗುರುವಾರ, ಜುಲೈ 9, 2026 ರಂದು 03:56:04 PM UTC ಸಮಯಕ್ಕೆ** |
+| ಕೊನೆಯ ಅಪ್ಡೇಟ್ | **ಗುರುವಾರ, ಜುಲೈ 9, 2026 ರಂದು 04:08:00 PM UTC ಸಮಯಕ್ಕೆ** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **ಲೇಖಕ:** [@characternexus](https://x.com/characternexus)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/characternexus/status/2074920654751592583)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **ಲೇಖಕ:** [@asheem01](https://x.com/asheem01)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/asheem01/status/2074941260863811644)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **ಲೇಖಕ:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **ಲೇಖಕ:** [@al_tools43377](https://x.com/al_tools43377)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/al_tools43377/status/2074971603054502365)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **ಲೇಖಕ:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **ಲೇಖಕ:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **ಲೇಖಕ:** [@krea_ai](https://x.com/krea_ai)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/krea_ai/status/2074891481832456638)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1277,7 +1277,7 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 
 - **ಲೇಖಕ:** [@irdh34](https://x.com/irdh34)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/irdh34/status/2074910474609566115)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/irdh34/status/2074910474609566115)**
@@ -2014,7 +2014,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **ಲೇಖಕ:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2300,7 +2300,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **ಲೇಖಕ:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2333,7 +2333,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **ಲೇಖಕ:** [@JameFalken](https://x.com/JameFalken)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/JameFalken/status/2074959430374867438)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2468,7 +2468,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **ಲೇಖಕ:** [@runwayml](https://x.com/runwayml)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/runwayml/status/2074982268175630814)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/runwayml/status/2074982268175630814)**
@@ -2640,7 +2640,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **ಲೇಖಕ:** [@filodyprincess](https://x.com/filodyprincess)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/filodyprincess/status/2074916756452483224)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2692,7 +2692,7 @@ Use the uploaded design comp with handwritten markup. If the logo is circled and
 
 - **ಲೇಖಕ:** [@Zayan_coder](https://x.com/Zayan_coder)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/Zayan_coder/status/2074909799293305323)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/Zayan_coder/status/2074909799293305323)**
@@ -2732,7 +2732,7 @@ Use the living-room image with six marked boxes and six notes. Apply each change
 
 - **ಲೇಖಕ:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/Dipanshu_AI/status/2074919074929475587)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/Dipanshu_AI/status/2074919074929475587)**
@@ -2824,7 +2824,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **ಲೇಖಕ:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/techxsarfraj/status/2074893823029998052)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2941,6 +2941,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt submit ಮಾಡಿ](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ಈ repo ಗೆ Star ನೀಡಿ](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T15:56:04.136Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:08:00.207Z</sub>
 
 </div>

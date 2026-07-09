@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Prompts စုစုပေါင်း | **75** |
 | Featured | **10** |
-| နောက်ဆုံး update | **၂၀၂၆ ဇူလိုင် ၉ ကြာသပတေး UTC ၁၅:၅၆:၀၄** |
+| နောက်ဆုံး update | **၂၀၂၆ ဇူလိုင် ၉ ကြာသပတေး UTC ၁၆:၀၈:၀၀** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **ရေးသားသူ:** [@characternexus](https://x.com/characternexus)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/characternexus/status/2074920654751592583)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **ရေးသားသူ:** [@asheem01](https://x.com/asheem01)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/asheem01/status/2074941260863811644)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **ရေးသားသူ:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **ရေးသားသူ:** [@al_tools43377](https://x.com/al_tools43377)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/al_tools43377/status/2074971603054502365)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **ရေးသားသူ:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **ရေးသားသူ:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **ရေးသားသူ:** [@krea_ai](https://x.com/krea_ai)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/krea_ai/status/2074891481832456638)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1277,7 +1277,7 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 
 - **ရေးသားသူ:** [@irdh34](https://x.com/irdh34)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/irdh34/status/2074910474609566115)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/irdh34/status/2074910474609566115)**
@@ -2014,7 +2014,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **ရေးသားသူ:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2300,7 +2300,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **ရေးသားသူ:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2333,7 +2333,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **ရေးသားသူ:** [@JameFalken](https://x.com/JameFalken)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/JameFalken/status/2074959430374867438)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2468,7 +2468,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **ရေးသားသူ:** [@runwayml](https://x.com/runwayml)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/runwayml/status/2074982268175630814)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/runwayml/status/2074982268175630814)**
@@ -2640,7 +2640,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **ရေးသားသူ:** [@filodyprincess](https://x.com/filodyprincess)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/filodyprincess/status/2074916756452483224)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2692,7 +2692,7 @@ Use the uploaded design comp with handwritten markup. If the logo is circled and
 
 - **ရေးသားသူ:** [@Zayan_coder](https://x.com/Zayan_coder)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/Zayan_coder/status/2074909799293305323)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/Zayan_coder/status/2074909799293305323)**
@@ -2732,7 +2732,7 @@ Use the living-room image with six marked boxes and six notes. Apply each change
 
 - **ရေးသားသူ:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/Dipanshu_AI/status/2074919074929475587)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/Dipanshu_AI/status/2074919074929475587)**
@@ -2824,7 +2824,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **ရေးသားသူ:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **ရင်းမြစ်:** [ရင်းမြစ်](https://x.com/techxsarfraj/status/2074893823029998052)
-- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၉
+- **ထုတ်ဝေခဲ့သည်:** ၂၀၂၆ ဇူလိုင် ၈
 - **ဘာသာစကားများ:** en
 
 **[ဒီ prompt ကိုသုံးပါ](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2941,6 +2941,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt submit လုပ်ရန်](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ဒီ repo ကို Star ပေးပါ](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T15:56:04.149Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:08:00.220Z</sub>
 
 </div>

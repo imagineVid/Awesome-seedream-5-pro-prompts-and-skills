@@ -133,7 +133,7 @@ Veja os links de origem e exemplos reunidos neste repositório.
 |--------|-------|
 | Total de prompts | **75** |
 | Destaque | **10** |
-| Última atualização | **quinta-feira, 9 de julho de 2026 às 15:56:03 UTC** |
+| Última atualização | **quinta-feira, 9 de julho de 2026 às 16:07:59 UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Autor:** [@characternexus](https://x.com/characternexus)
 - **Fonte:** [Fonte](https://x.com/characternexus/status/2074920654751592583)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Autor:** [@asheem01](https://x.com/asheem01)
 - **Fonte:** [Fonte](https://x.com/asheem01/status/2074941260863811644)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **Autor:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Fonte:** [Fonte](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Autor:** [@al_tools43377](https://x.com/al_tools43377)
 - **Fonte:** [Fonte](https://x.com/al_tools43377/status/2074971603054502365)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Autor:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Fonte:** [Fonte](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Autor:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Fonte:** [Fonte](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Autor:** [@krea_ai](https://x.com/krea_ai)
 - **Fonte:** [Fonte](https://x.com/krea_ai/status/2074891481832456638)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1277,7 +1277,7 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 
 - **Autor:** [@irdh34](https://x.com/irdh34)
 - **Fonte:** [Fonte](https://x.com/irdh34/status/2074910474609566115)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/irdh34/status/2074910474609566115)**
@@ -2014,7 +2014,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **Autor:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Fonte:** [Fonte](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2300,7 +2300,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Autor:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Fonte:** [Fonte](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2333,7 +2333,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Autor:** [@JameFalken](https://x.com/JameFalken)
 - **Fonte:** [Fonte](https://x.com/JameFalken/status/2074959430374867438)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2468,7 +2468,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Autor:** [@runwayml](https://x.com/runwayml)
 - **Fonte:** [Fonte](https://x.com/runwayml/status/2074982268175630814)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/runwayml/status/2074982268175630814)**
@@ -2640,7 +2640,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Autor:** [@filodyprincess](https://x.com/filodyprincess)
 - **Fonte:** [Fonte](https://x.com/filodyprincess/status/2074916756452483224)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2692,7 +2692,7 @@ Use the uploaded design comp with handwritten markup. If the logo is circled and
 
 - **Autor:** [@Zayan_coder](https://x.com/Zayan_coder)
 - **Fonte:** [Fonte](https://x.com/Zayan_coder/status/2074909799293305323)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/Zayan_coder/status/2074909799293305323)**
@@ -2732,7 +2732,7 @@ Use the living-room image with six marked boxes and six notes. Apply each change
 
 - **Autor:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
 - **Fonte:** [Fonte](https://x.com/Dipanshu_AI/status/2074919074929475587)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/Dipanshu_AI/status/2074919074929475587)**
@@ -2824,7 +2824,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Autor:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Fonte:** [Fonte](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Publicado:** 9 de julho de 2026
+- **Publicado:** 8 de julho de 2026
 - **Idiomas:** en
 
 **[Usar este prompt](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2941,6 +2941,6 @@ Como contribuir
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Histórico de stars](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Última atualização: 2026-07-09T15:56:03.888Z</sub>
+<sub>Última atualização: 2026-07-09T16:07:59.996Z</sub>
 
 </div>

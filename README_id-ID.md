@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Total Prompt | **75** |
 | Unggulan | **10** |
-| Terakhir Diperbarui | **Kamis, 09 Juli 2026 pukul 15.56.03 UTC** |
+| Terakhir Diperbarui | **Kamis, 09 Juli 2026 pukul 16.08.00 UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Penulis:** [@characternexus](https://x.com/characternexus)
 - **Sumber:** [Sumber](https://x.com/characternexus/status/2074920654751592583)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Penulis:** [@asheem01](https://x.com/asheem01)
 - **Sumber:** [Sumber](https://x.com/asheem01/status/2074941260863811644)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **Penulis:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Sumber:** [Sumber](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Penulis:** [@al_tools43377](https://x.com/al_tools43377)
 - **Sumber:** [Sumber](https://x.com/al_tools43377/status/2074971603054502365)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Penulis:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Sumber:** [Sumber](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Penulis:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Sumber:** [Sumber](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Penulis:** [@krea_ai](https://x.com/krea_ai)
 - **Sumber:** [Sumber](https://x.com/krea_ai/status/2074891481832456638)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1277,7 +1277,7 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 
 - **Penulis:** [@irdh34](https://x.com/irdh34)
 - **Sumber:** [Sumber](https://x.com/irdh34/status/2074910474609566115)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/irdh34/status/2074910474609566115)**
@@ -2014,7 +2014,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **Penulis:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Sumber:** [Sumber](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2300,7 +2300,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Penulis:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Sumber:** [Sumber](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2333,7 +2333,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Penulis:** [@JameFalken](https://x.com/JameFalken)
 - **Sumber:** [Sumber](https://x.com/JameFalken/status/2074959430374867438)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2468,7 +2468,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Penulis:** [@runwayml](https://x.com/runwayml)
 - **Sumber:** [Sumber](https://x.com/runwayml/status/2074982268175630814)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/runwayml/status/2074982268175630814)**
@@ -2640,7 +2640,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Penulis:** [@filodyprincess](https://x.com/filodyprincess)
 - **Sumber:** [Sumber](https://x.com/filodyprincess/status/2074916756452483224)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2692,7 +2692,7 @@ Use the uploaded design comp with handwritten markup. If the logo is circled and
 
 - **Penulis:** [@Zayan_coder](https://x.com/Zayan_coder)
 - **Sumber:** [Sumber](https://x.com/Zayan_coder/status/2074909799293305323)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/Zayan_coder/status/2074909799293305323)**
@@ -2732,7 +2732,7 @@ Use the living-room image with six marked boxes and six notes. Apply each change
 
 - **Penulis:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
 - **Sumber:** [Sumber](https://x.com/Dipanshu_AI/status/2074919074929475587)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/Dipanshu_AI/status/2074919074929475587)**
@@ -2824,7 +2824,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Penulis:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Sumber:** [Sumber](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Diterbitkan:** 9 Juli 2026
+- **Diterbitkan:** 8 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2941,6 +2941,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Kirim Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Beri Star repo ini](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>README ini dibuat otomatis. Terakhir diperbarui: 2026-07-09T15:56:03.937Z</sub>
+<sub>README ini dibuat otomatis. Terakhir diperbarui: 2026-07-09T16:08:00.037Z</sub>
 
 </div>
