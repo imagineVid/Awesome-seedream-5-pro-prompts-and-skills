@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Promptok száma | **88** |
 | Kiemelt | **10** |
-| Utolsó frissítés | **2026. július 9., csütörtök 22:08:21 UTC** |
+| Utolsó frissítés | **2026. július 9., csütörtök 22:14:18 UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Szerző:** [@characternexus](https://x.com/characternexus)
 - **Forrás:** [Forrás](https://x.com/characternexus/status/2074920654751592583)
-- **Megjelent:** 2026. július 9.
+- **Megjelent:** 2026. július 8.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Szerző:** [@asheem01](https://x.com/asheem01)
 - **Forrás:** [Forrás](https://x.com/asheem01/status/2074941260863811644)
-- **Megjelent:** 2026. július 9.
+- **Megjelent:** 2026. július 8.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **Szerző:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Forrás:** [Forrás](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Megjelent:** 2026. július 9.
+- **Megjelent:** 2026. július 8.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Szerző:** [@al_tools43377](https://x.com/al_tools43377)
 - **Forrás:** [Forrás](https://x.com/al_tools43377/status/2074971603054502365)
-- **Megjelent:** 2026. július 9.
+- **Megjelent:** 2026. július 8.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Szerző:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Forrás:** [Forrás](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Megjelent:** 2026. július 9.
+- **Megjelent:** 2026. július 8.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Szerző:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Forrás:** [Forrás](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Megjelent:** 2026. július 9.
+- **Megjelent:** 2026. július 8.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Szerző:** [@krea_ai](https://x.com/krea_ai)
 - **Forrás:** [Forrás](https://x.com/krea_ai/status/2074891481832456638)
-- **Megjelent:** 2026. július 9.
+- **Megjelent:** 2026. július 8.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1948,7 +1948,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **Szerző:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Forrás:** [Forrás](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Megjelent:** 2026. július 9.
+- **Megjelent:** 2026. július 8.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2135,7 +2135,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Szerző:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Forrás:** [Forrás](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Megjelent:** 2026. július 9.
+- **Megjelent:** 2026. július 8.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2168,7 +2168,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Szerző:** [@JameFalken](https://x.com/JameFalken)
 - **Forrás:** [Forrás](https://x.com/JameFalken/status/2074959430374867438)
-- **Megjelent:** 2026. július 9.
+- **Megjelent:** 2026. július 8.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2303,7 +2303,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Szerző:** [@runwayml](https://x.com/runwayml)
 - **Forrás:** [Forrás](https://x.com/runwayml/status/2074982268175630814)
-- **Megjelent:** 2026. július 9.
+- **Megjelent:** 2026. július 8.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/runwayml/status/2074982268175630814)**
@@ -2376,7 +2376,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Szerző:** [@filodyprincess](https://x.com/filodyprincess)
 - **Forrás:** [Forrás](https://x.com/filodyprincess/status/2074916756452483224)
-- **Megjelent:** 2026. július 9.
+- **Megjelent:** 2026. július 8.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2468,7 +2468,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Szerző:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Forrás:** [Forrás](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Megjelent:** 2026. július 9.
+- **Megjelent:** 2026. július 8.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2535,7 +2535,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **Szerző:** [@asheem01](https://x.com/asheem01)
 - **Forrás:** [Forrás](https://x.com/asheem01/status/2075324671214403879)
-- **Megjelent:** 2026. július 10.
+- **Megjelent:** 2026. július 9.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/asheem01/status/2075324671214403879)**
@@ -2568,7 +2568,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **Szerző:** [@Zubnet](https://x.com/Zubnet)
 - **Forrás:** [Forrás](https://x.com/Zubnet/status/2075295691652415799)
-- **Megjelent:** 2026. július 10.
+- **Megjelent:** 2026. július 9.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/Zubnet/status/2075295691652415799)**
@@ -2615,7 +2615,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **Szerző:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **Forrás:** [Forrás](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **Megjelent:** 2026. július 10.
+- **Megjelent:** 2026. július 9.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -3448,7 +3448,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **Szerző:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **Forrás:** [Forrás](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **Megjelent:** 2026. július 9.
+- **Megjelent:** 2026. július 8.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -3543,6 +3543,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt beküldése](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adj Star-t a repónak](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T22:08:21.429Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T22:14:18.556Z</sub>
 
 </div>

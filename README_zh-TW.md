@@ -133,7 +133,7 @@
 |--------|-------|
 | 提示詞總數 | **88** |
 | 精选 | **10** |
-| 最後更新 | **2026年7月9日 星期四 晚上10:08:21 [UTC]** |
+| 最後更新 | **2026年7月9日 星期四 晚上10:14:18 [UTC]** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **作者:** [@characternexus](https://x.com/characternexus)
 - **来源:** [来源](https://x.com/characternexus/status/2074920654751592583)
-- **發佈時間:** 2026年7月9日
+- **發佈時間:** 2026年7月8日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **作者:** [@asheem01](https://x.com/asheem01)
 - **来源:** [来源](https://x.com/asheem01/status/2074941260863811644)
-- **發佈時間:** 2026年7月9日
+- **發佈時間:** 2026年7月8日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **作者:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **来源:** [来源](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **發佈時間:** 2026年7月9日
+- **發佈時間:** 2026年7月8日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **作者:** [@al_tools43377](https://x.com/al_tools43377)
 - **来源:** [来源](https://x.com/al_tools43377/status/2074971603054502365)
-- **發佈時間:** 2026年7月9日
+- **發佈時間:** 2026年7月8日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **作者:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **来源:** [来源](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **發佈時間:** 2026年7月9日
+- **發佈時間:** 2026年7月8日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **作者:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **来源:** [来源](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **發佈時間:** 2026年7月9日
+- **發佈時間:** 2026年7月8日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **作者:** [@krea_ai](https://x.com/krea_ai)
 - **来源:** [来源](https://x.com/krea_ai/status/2074891481832456638)
-- **發佈時間:** 2026年7月9日
+- **發佈時間:** 2026年7月8日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1948,7 +1948,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **作者:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **来源:** [来源](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **發佈時間:** 2026年7月9日
+- **發佈時間:** 2026年7月8日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2135,7 +2135,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **作者:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **来源:** [来源](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **發佈時間:** 2026年7月9日
+- **發佈時間:** 2026年7月8日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2168,7 +2168,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **作者:** [@JameFalken](https://x.com/JameFalken)
 - **来源:** [来源](https://x.com/JameFalken/status/2074959430374867438)
-- **發佈時間:** 2026年7月9日
+- **發佈時間:** 2026年7月8日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2303,7 +2303,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **作者:** [@runwayml](https://x.com/runwayml)
 - **来源:** [来源](https://x.com/runwayml/status/2074982268175630814)
-- **發佈時間:** 2026年7月9日
+- **發佈時間:** 2026年7月8日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/runwayml/status/2074982268175630814)**
@@ -2376,7 +2376,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **作者:** [@filodyprincess](https://x.com/filodyprincess)
 - **来源:** [来源](https://x.com/filodyprincess/status/2074916756452483224)
-- **發佈時間:** 2026年7月9日
+- **發佈時間:** 2026年7月8日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2468,7 +2468,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **作者:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **来源:** [来源](https://x.com/techxsarfraj/status/2074893823029998052)
-- **發佈時間:** 2026年7月9日
+- **發佈時間:** 2026年7月8日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2535,7 +2535,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **作者:** [@asheem01](https://x.com/asheem01)
 - **来源:** [来源](https://x.com/asheem01/status/2075324671214403879)
-- **發佈時間:** 2026年7月10日
+- **發佈時間:** 2026年7月9日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/asheem01/status/2075324671214403879)**
@@ -2568,7 +2568,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **作者:** [@Zubnet](https://x.com/Zubnet)
 - **来源:** [来源](https://x.com/Zubnet/status/2075295691652415799)
-- **發佈時間:** 2026年7月10日
+- **發佈時間:** 2026年7月9日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/Zubnet/status/2075295691652415799)**
@@ -2615,7 +2615,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **作者:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **来源:** [来源](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **發佈時間:** 2026年7月10日
+- **發佈時間:** 2026年7月9日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -3448,7 +3448,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **作者:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **来源:** [来源](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **發佈時間:** 2026年7月9日
+- **發佈時間:** 2026年7月8日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -3543,6 +3543,6 @@ A detailed public Chinese same-prompt comparison for a realistic 16:9 in-car sel
 **[提交提示词](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>本 README 自動生成。最後更新： 2026-07-09T22:08:21.277Z</sub>
+<sub>本 README 自動生成。最後更新： 2026-07-09T22:14:18.360Z</sub>
 
 </div>

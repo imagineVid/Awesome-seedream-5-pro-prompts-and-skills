@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | ആകെ prompts | **88** |
 | Featured | **10** |
-| അവസാന അപ്ഡേറ്റ് | **2026 ജൂലൈ 9, വ്യാഴാഴ്‌ച, UTC 10:08:21 PM-ന്** |
+| അവസാന അപ്ഡേറ്റ് | **2026 ജൂലൈ 9, വ്യാഴാഴ്‌ച, UTC 10:14:18 PM-ന്** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **രചയിതാവ്:** [@characternexus](https://x.com/characternexus)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/characternexus/status/2074920654751592583)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 8
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **രചയിതാവ്:** [@asheem01](https://x.com/asheem01)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/asheem01/status/2074941260863811644)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 8
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **രചയിതാവ്:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 8
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **രചയിതാവ്:** [@al_tools43377](https://x.com/al_tools43377)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/al_tools43377/status/2074971603054502365)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 8
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **രചയിതാവ്:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 8
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **രചയിതാവ്:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 8
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **രചയിതാവ്:** [@krea_ai](https://x.com/krea_ai)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/krea_ai/status/2074891481832456638)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 8
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1948,7 +1948,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **രചയിതാവ്:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 8
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2135,7 +2135,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **രചയിതാവ്:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 8
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2168,7 +2168,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **രചയിതാവ്:** [@JameFalken](https://x.com/JameFalken)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/JameFalken/status/2074959430374867438)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 8
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2303,7 +2303,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **രചയിതാവ്:** [@runwayml](https://x.com/runwayml)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/runwayml/status/2074982268175630814)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 8
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/runwayml/status/2074982268175630814)**
@@ -2376,7 +2376,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **രചയിതാവ്:** [@filodyprincess](https://x.com/filodyprincess)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/filodyprincess/status/2074916756452483224)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 8
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2468,7 +2468,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **രചയിതാവ്:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/techxsarfraj/status/2074893823029998052)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 8
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2535,7 +2535,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **രചയിതാവ്:** [@asheem01](https://x.com/asheem01)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/asheem01/status/2075324671214403879)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 10
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/asheem01/status/2075324671214403879)**
@@ -2568,7 +2568,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **രചയിതാവ്:** [@Zubnet](https://x.com/Zubnet)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/Zubnet/status/2075295691652415799)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 10
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/Zubnet/status/2075295691652415799)**
@@ -2615,7 +2615,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **രചയിതാവ്:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 10
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -3448,7 +3448,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **രചയിതാവ്:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **ഉറവിടം:** [ഉറവിടം](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 9
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 8
 - **ഭാഷകൾ:** en
 
 **[ഈ prompt ഉപയോഗിക്കുക](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -3543,6 +3543,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt submit ചെയ്യുക](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ഈ repo-യ്ക്ക് Star നൽകുക](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T22:08:21.498Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T22:14:18.649Z</sub>
 
 </div>

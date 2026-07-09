@@ -133,7 +133,7 @@ A cinematic poster for "{argument name="product" default="a glass AI camera"}" w
 |--------|-------|
 | إجمالي التعليمات | **88** |
 | مميز | **10** |
-| آخر تحديث | **الخميس، ٩ يوليو ٢٠٢٦ في ١٠:٠٨:٢١ م UTC** |
+| آخر تحديث | **الخميس، ٩ يوليو ٢٠٢٦ في ١٠:١٤:١٨ م UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **المؤلف:** [@characternexus](https://x.com/characternexus)
 - **المصدر:** [المصدر](https://x.com/characternexus/status/2074920654751592583)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **المؤلف:** [@asheem01](https://x.com/asheem01)
 - **المصدر:** [المصدر](https://x.com/asheem01/status/2074941260863811644)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **المؤلف:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **المصدر:** [المصدر](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **المؤلف:** [@al_tools43377](https://x.com/al_tools43377)
 - **المصدر:** [المصدر](https://x.com/al_tools43377/status/2074971603054502365)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **المؤلف:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **المصدر:** [المصدر](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **المؤلف:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **المصدر:** [المصدر](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **المؤلف:** [@krea_ai](https://x.com/krea_ai)
 - **المصدر:** [المصدر](https://x.com/krea_ai/status/2074891481832456638)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1948,7 +1948,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **المؤلف:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **المصدر:** [المصدر](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2135,7 +2135,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **المؤلف:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **المصدر:** [المصدر](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2168,7 +2168,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **المؤلف:** [@JameFalken](https://x.com/JameFalken)
 - **المصدر:** [المصدر](https://x.com/JameFalken/status/2074959430374867438)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2303,7 +2303,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **المؤلف:** [@runwayml](https://x.com/runwayml)
 - **المصدر:** [المصدر](https://x.com/runwayml/status/2074982268175630814)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/runwayml/status/2074982268175630814)**
@@ -2376,7 +2376,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **المؤلف:** [@filodyprincess](https://x.com/filodyprincess)
 - **المصدر:** [المصدر](https://x.com/filodyprincess/status/2074916756452483224)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2468,7 +2468,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **المؤلف:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **المصدر:** [المصدر](https://x.com/techxsarfraj/status/2074893823029998052)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2535,7 +2535,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **المؤلف:** [@asheem01](https://x.com/asheem01)
 - **المصدر:** [المصدر](https://x.com/asheem01/status/2075324671214403879)
-- **تاريخ النشر:** ١٠ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/asheem01/status/2075324671214403879)**
@@ -2568,7 +2568,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **المؤلف:** [@Zubnet](https://x.com/Zubnet)
 - **المصدر:** [المصدر](https://x.com/Zubnet/status/2075295691652415799)
-- **تاريخ النشر:** ١٠ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/Zubnet/status/2075295691652415799)**
@@ -2615,7 +2615,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **المؤلف:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **المصدر:** [المصدر](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **تاريخ النشر:** ١٠ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -3448,7 +3448,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **المؤلف:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **المصدر:** [المصدر](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -3543,6 +3543,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[إرسال تعليمة](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمستودع](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-09T22:08:21.353Z</sub>
+<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-09T22:14:18.461Z</sub>
 
 </div>

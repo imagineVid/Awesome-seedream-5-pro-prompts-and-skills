@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | کل پرامپٹس | **88** |
 | نمایاں | **10** |
-| آخری اپ ڈیٹ | **جمعرات، 9 جولائی، 2026 کو 10:08:21 PM UTC** |
+| آخری اپ ڈیٹ | **جمعرات، 9 جولائی، 2026 کو 10:14:18 PM UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **مصنف:** [@characternexus](https://x.com/characternexus)
 - **ماخذ:** [ماخذ](https://x.com/characternexus/status/2074920654751592583)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **مصنف:** [@asheem01](https://x.com/asheem01)
 - **ماخذ:** [ماخذ](https://x.com/asheem01/status/2074941260863811644)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **مصنف:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **ماخذ:** [ماخذ](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **مصنف:** [@al_tools43377](https://x.com/al_tools43377)
 - **ماخذ:** [ماخذ](https://x.com/al_tools43377/status/2074971603054502365)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **مصنف:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **ماخذ:** [ماخذ](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **مصنف:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **ماخذ:** [ماخذ](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **مصنف:** [@krea_ai](https://x.com/krea_ai)
 - **ماخذ:** [ماخذ](https://x.com/krea_ai/status/2074891481832456638)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1948,7 +1948,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **مصنف:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **ماخذ:** [ماخذ](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2135,7 +2135,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **مصنف:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **ماخذ:** [ماخذ](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2168,7 +2168,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **مصنف:** [@JameFalken](https://x.com/JameFalken)
 - **ماخذ:** [ماخذ](https://x.com/JameFalken/status/2074959430374867438)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2303,7 +2303,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **مصنف:** [@runwayml](https://x.com/runwayml)
 - **ماخذ:** [ماخذ](https://x.com/runwayml/status/2074982268175630814)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/runwayml/status/2074982268175630814)**
@@ -2376,7 +2376,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **مصنف:** [@filodyprincess](https://x.com/filodyprincess)
 - **ماخذ:** [ماخذ](https://x.com/filodyprincess/status/2074916756452483224)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2468,7 +2468,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **مصنف:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **ماخذ:** [ماخذ](https://x.com/techxsarfraj/status/2074893823029998052)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2535,7 +2535,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **مصنف:** [@asheem01](https://x.com/asheem01)
 - **ماخذ:** [ماخذ](https://x.com/asheem01/status/2075324671214403879)
-- **شائع شدہ:** 10 جولائی، 2026
+- **شائع شدہ:** 9 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/asheem01/status/2075324671214403879)**
@@ -2568,7 +2568,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **مصنف:** [@Zubnet](https://x.com/Zubnet)
 - **ماخذ:** [ماخذ](https://x.com/Zubnet/status/2075295691652415799)
-- **شائع شدہ:** 10 جولائی، 2026
+- **شائع شدہ:** 9 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/Zubnet/status/2075295691652415799)**
@@ -2615,7 +2615,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **مصنف:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **ماخذ:** [ماخذ](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **شائع شدہ:** 10 جولائی، 2026
+- **شائع شدہ:** 9 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -3448,7 +3448,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **مصنف:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **ماخذ:** [ماخذ](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -3543,6 +3543,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[پرامپٹ جمع کریں](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[اس ریپو کو Star کریں](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T22:08:21.363Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T22:14:18.473Z</sub>
 
 </div>

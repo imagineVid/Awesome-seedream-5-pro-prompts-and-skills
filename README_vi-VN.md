@@ -133,7 +133,7 @@ Xem các nguồn và ví dụ trong kho này.
 |--------|-------|
 | Tổng số prompt | **88** |
 | Nổi bật | **10** |
-| Cập nhật lần cuối | **lúc 22:08:21 UTC Thứ Năm, 9 tháng 7, 2026** |
+| Cập nhật lần cuối | **lúc 22:14:18 UTC Thứ Năm, 9 tháng 7, 2026** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Tác giả:** [@characternexus](https://x.com/characternexus)
 - **Nguồn:** [Nguồn](https://x.com/characternexus/status/2074920654751592583)
-- **Đã đăng:** 9 tháng 7, 2026
+- **Đã đăng:** 8 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Tác giả:** [@asheem01](https://x.com/asheem01)
 - **Nguồn:** [Nguồn](https://x.com/asheem01/status/2074941260863811644)
-- **Đã đăng:** 9 tháng 7, 2026
+- **Đã đăng:** 8 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **Tác giả:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Nguồn:** [Nguồn](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Đã đăng:** 9 tháng 7, 2026
+- **Đã đăng:** 8 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Tác giả:** [@al_tools43377](https://x.com/al_tools43377)
 - **Nguồn:** [Nguồn](https://x.com/al_tools43377/status/2074971603054502365)
-- **Đã đăng:** 9 tháng 7, 2026
+- **Đã đăng:** 8 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Tác giả:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Nguồn:** [Nguồn](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Đã đăng:** 9 tháng 7, 2026
+- **Đã đăng:** 8 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Tác giả:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Nguồn:** [Nguồn](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Đã đăng:** 9 tháng 7, 2026
+- **Đã đăng:** 8 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Tác giả:** [@krea_ai](https://x.com/krea_ai)
 - **Nguồn:** [Nguồn](https://x.com/krea_ai/status/2074891481832456638)
-- **Đã đăng:** 9 tháng 7, 2026
+- **Đã đăng:** 8 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1948,7 +1948,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **Tác giả:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Nguồn:** [Nguồn](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Đã đăng:** 9 tháng 7, 2026
+- **Đã đăng:** 8 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2135,7 +2135,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Tác giả:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Nguồn:** [Nguồn](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Đã đăng:** 9 tháng 7, 2026
+- **Đã đăng:** 8 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2168,7 +2168,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Tác giả:** [@JameFalken](https://x.com/JameFalken)
 - **Nguồn:** [Nguồn](https://x.com/JameFalken/status/2074959430374867438)
-- **Đã đăng:** 9 tháng 7, 2026
+- **Đã đăng:** 8 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2303,7 +2303,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Tác giả:** [@runwayml](https://x.com/runwayml)
 - **Nguồn:** [Nguồn](https://x.com/runwayml/status/2074982268175630814)
-- **Đã đăng:** 9 tháng 7, 2026
+- **Đã đăng:** 8 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/runwayml/status/2074982268175630814)**
@@ -2376,7 +2376,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Tác giả:** [@filodyprincess](https://x.com/filodyprincess)
 - **Nguồn:** [Nguồn](https://x.com/filodyprincess/status/2074916756452483224)
-- **Đã đăng:** 9 tháng 7, 2026
+- **Đã đăng:** 8 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2468,7 +2468,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Tác giả:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Nguồn:** [Nguồn](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Đã đăng:** 9 tháng 7, 2026
+- **Đã đăng:** 8 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2535,7 +2535,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **Tác giả:** [@asheem01](https://x.com/asheem01)
 - **Nguồn:** [Nguồn](https://x.com/asheem01/status/2075324671214403879)
-- **Đã đăng:** 10 tháng 7, 2026
+- **Đã đăng:** 9 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/asheem01/status/2075324671214403879)**
@@ -2568,7 +2568,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **Tác giả:** [@Zubnet](https://x.com/Zubnet)
 - **Nguồn:** [Nguồn](https://x.com/Zubnet/status/2075295691652415799)
-- **Đã đăng:** 10 tháng 7, 2026
+- **Đã đăng:** 9 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/Zubnet/status/2075295691652415799)**
@@ -2615,7 +2615,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **Tác giả:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **Nguồn:** [Nguồn](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **Đã đăng:** 10 tháng 7, 2026
+- **Đã đăng:** 9 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -3448,7 +3448,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **Tác giả:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **Nguồn:** [Nguồn](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **Đã đăng:** 9 tháng 7, 2026
+- **Đã đăng:** 8 tháng 7, 2026
 - **Ngôn ngữ:** en
 
 **[Dùng prompt này](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -3543,6 +3543,6 @@ Cách đóng góp
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Lịch sử star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Cập nhật lần cuối: 2026-07-09T22:08:21.300Z</sub>
+<sub>Cập nhật lần cuối: 2026-07-09T22:14:18.390Z</sub>
 
 </div>

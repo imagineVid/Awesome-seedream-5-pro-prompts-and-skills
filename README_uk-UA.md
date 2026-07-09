@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Усього промптів | **88** |
 | Відібране | **10** |
-| Останнє оновлення | **четвер, 9 липня 2026 р. о 22:08:21 UTC** |
+| Останнє оновлення | **четвер, 9 липня 2026 р. о 22:14:18 UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Автор:** [@characternexus](https://x.com/characternexus)
 - **Джерело:** [Джерело](https://x.com/characternexus/status/2074920654751592583)
-- **Опубліковано:** 9 липня 2026 р.
+- **Опубліковано:** 8 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Автор:** [@asheem01](https://x.com/asheem01)
 - **Джерело:** [Джерело](https://x.com/asheem01/status/2074941260863811644)
-- **Опубліковано:** 9 липня 2026 р.
+- **Опубліковано:** 8 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **Автор:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Джерело:** [Джерело](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Опубліковано:** 9 липня 2026 р.
+- **Опубліковано:** 8 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Автор:** [@al_tools43377](https://x.com/al_tools43377)
 - **Джерело:** [Джерело](https://x.com/al_tools43377/status/2074971603054502365)
-- **Опубліковано:** 9 липня 2026 р.
+- **Опубліковано:** 8 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Автор:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Джерело:** [Джерело](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Опубліковано:** 9 липня 2026 р.
+- **Опубліковано:** 8 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Автор:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Джерело:** [Джерело](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Опубліковано:** 9 липня 2026 р.
+- **Опубліковано:** 8 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Автор:** [@krea_ai](https://x.com/krea_ai)
 - **Джерело:** [Джерело](https://x.com/krea_ai/status/2074891481832456638)
-- **Опубліковано:** 9 липня 2026 р.
+- **Опубліковано:** 8 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1948,7 +1948,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **Автор:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Джерело:** [Джерело](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Опубліковано:** 9 липня 2026 р.
+- **Опубліковано:** 8 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2135,7 +2135,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Автор:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Джерело:** [Джерело](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Опубліковано:** 9 липня 2026 р.
+- **Опубліковано:** 8 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2168,7 +2168,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Автор:** [@JameFalken](https://x.com/JameFalken)
 - **Джерело:** [Джерело](https://x.com/JameFalken/status/2074959430374867438)
-- **Опубліковано:** 9 липня 2026 р.
+- **Опубліковано:** 8 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2303,7 +2303,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Автор:** [@runwayml](https://x.com/runwayml)
 - **Джерело:** [Джерело](https://x.com/runwayml/status/2074982268175630814)
-- **Опубліковано:** 9 липня 2026 р.
+- **Опубліковано:** 8 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/runwayml/status/2074982268175630814)**
@@ -2376,7 +2376,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Автор:** [@filodyprincess](https://x.com/filodyprincess)
 - **Джерело:** [Джерело](https://x.com/filodyprincess/status/2074916756452483224)
-- **Опубліковано:** 9 липня 2026 р.
+- **Опубліковано:** 8 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2468,7 +2468,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Автор:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Джерело:** [Джерело](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Опубліковано:** 9 липня 2026 р.
+- **Опубліковано:** 8 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2535,7 +2535,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **Автор:** [@asheem01](https://x.com/asheem01)
 - **Джерело:** [Джерело](https://x.com/asheem01/status/2075324671214403879)
-- **Опубліковано:** 10 липня 2026 р.
+- **Опубліковано:** 9 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/asheem01/status/2075324671214403879)**
@@ -2568,7 +2568,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **Автор:** [@Zubnet](https://x.com/Zubnet)
 - **Джерело:** [Джерело](https://x.com/Zubnet/status/2075295691652415799)
-- **Опубліковано:** 10 липня 2026 р.
+- **Опубліковано:** 9 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/Zubnet/status/2075295691652415799)**
@@ -2615,7 +2615,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **Автор:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **Джерело:** [Джерело](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **Опубліковано:** 10 липня 2026 р.
+- **Опубліковано:** 9 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -3448,7 +3448,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **Автор:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **Джерело:** [Джерело](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **Опубліковано:** 9 липня 2026 р.
+- **Опубліковано:** 8 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -3543,6 +3543,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Надіслати промпт](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставити Star репозиторію](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T22:08:21.441Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T22:14:18.568Z</sub>
 
 </div>

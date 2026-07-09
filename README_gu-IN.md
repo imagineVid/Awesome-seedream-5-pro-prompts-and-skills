@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | કુલ prompts | **88** |
 | Featured | **10** |
-| છેલ્લું અપડેટ | **ગુરુવાર, 9 જુલાઈ, 2026 10:08:21 PM UTC** |
+| છેલ્લું અપડેટ | **ગુરુવાર, 9 જુલાઈ, 2026 10:14:18 PM UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **લેખક:** [@characternexus](https://x.com/characternexus)
 - **સ્રોત:** [સ્રોત](https://x.com/characternexus/status/2074920654751592583)
-- **પ્રકાશિત:** 9 જુલાઈ, 2026
+- **પ્રકાશિત:** 8 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **લેખક:** [@asheem01](https://x.com/asheem01)
 - **સ્રોત:** [સ્રોત](https://x.com/asheem01/status/2074941260863811644)
-- **પ્રકાશિત:** 9 જુલાઈ, 2026
+- **પ્રકાશિત:** 8 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **લેખક:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **સ્રોત:** [સ્રોત](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **પ્રકાશિત:** 9 જુલાઈ, 2026
+- **પ્રકાશિત:** 8 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **લેખક:** [@al_tools43377](https://x.com/al_tools43377)
 - **સ્રોત:** [સ્રોત](https://x.com/al_tools43377/status/2074971603054502365)
-- **પ્રકાશિત:** 9 જુલાઈ, 2026
+- **પ્રકાશિત:** 8 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **લેખક:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **સ્રોત:** [સ્રોત](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **પ્રકાશિત:** 9 જુલાઈ, 2026
+- **પ્રકાશિત:** 8 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **લેખક:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **સ્રોત:** [સ્રોત](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **પ્રકાશિત:** 9 જુલાઈ, 2026
+- **પ્રકાશિત:** 8 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **લેખક:** [@krea_ai](https://x.com/krea_ai)
 - **સ્રોત:** [સ્રોત](https://x.com/krea_ai/status/2074891481832456638)
-- **પ્રકાશિત:** 9 જુલાઈ, 2026
+- **પ્રકાશિત:** 8 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1948,7 +1948,7 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **લેખક:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **સ્રોત:** [સ્રોત](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **પ્રકાશિત:** 9 જુલાઈ, 2026
+- **પ્રકાશિત:** 8 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2135,7 +2135,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **લેખક:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **સ્રોત:** [સ્રોત](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **પ્રકાશિત:** 9 જુલાઈ, 2026
+- **પ્રકાશિત:** 8 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2168,7 +2168,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **લેખક:** [@JameFalken](https://x.com/JameFalken)
 - **સ્રોત:** [સ્રોત](https://x.com/JameFalken/status/2074959430374867438)
-- **પ્રકાશિત:** 9 જુલાઈ, 2026
+- **પ્રકાશિત:** 8 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2303,7 +2303,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **લેખક:** [@runwayml](https://x.com/runwayml)
 - **સ્રોત:** [સ્રોત](https://x.com/runwayml/status/2074982268175630814)
-- **પ્રકાશિત:** 9 જુલાઈ, 2026
+- **પ્રકાશિત:** 8 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/runwayml/status/2074982268175630814)**
@@ -2376,7 +2376,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **લેખક:** [@filodyprincess](https://x.com/filodyprincess)
 - **સ્રોત:** [સ્રોત](https://x.com/filodyprincess/status/2074916756452483224)
-- **પ્રકાશિત:** 9 જુલાઈ, 2026
+- **પ્રકાશિત:** 8 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2468,7 +2468,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **લેખક:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **સ્રોત:** [સ્રોત](https://x.com/techxsarfraj/status/2074893823029998052)
-- **પ્રકાશિત:** 9 જુલાઈ, 2026
+- **પ્રકાશિત:** 8 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2535,7 +2535,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **લેખક:** [@asheem01](https://x.com/asheem01)
 - **સ્રોત:** [સ્રોત](https://x.com/asheem01/status/2075324671214403879)
-- **પ્રકાશિત:** 10 જુલાઈ, 2026
+- **પ્રકાશિત:** 9 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/asheem01/status/2075324671214403879)**
@@ -2568,7 +2568,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **લેખક:** [@Zubnet](https://x.com/Zubnet)
 - **સ્રોત:** [સ્રોત](https://x.com/Zubnet/status/2075295691652415799)
-- **પ્રકાશિત:** 10 જુલાઈ, 2026
+- **પ્રકાશિત:** 9 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/Zubnet/status/2075295691652415799)**
@@ -2615,7 +2615,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **લેખક:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **સ્રોત:** [સ્રોત](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **પ્રકાશિત:** 10 જુલાઈ, 2026
+- **પ્રકાશિત:** 9 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -3448,7 +3448,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **લેખક:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **સ્રોત:** [સ્રોત](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **પ્રકાશિત:** 9 જુલાઈ, 2026
+- **પ્રકાશિત:** 8 જુલાઈ, 2026
 - **ભાષાઓ:** en
 
 **[આ prompt વાપરો](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -3543,6 +3543,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt submit કરો](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[આ repo ને Star આપો](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T22:08:21.485Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T22:14:18.634Z</sub>
 
 </div>
