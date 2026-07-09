@@ -1474,60 +1474,6 @@
     }
   },
   {
-    "id": 28,
-    "model": "seedream-5-pro",
-    "title": "Labeled architecture concept board",
-    "description": "An architecture/interior labeling workflow normalized from a public Seedream 5.0 Pro post, aimed at client-ready dense annotations.",
-    "content": "Create a client-facing architecture concept board for a warm modern interior. Combine a central perspective render with dense but readable labels, material callouts, lighting notes, floor-plan snippets, elevation marks, furniture tags, and measurement guides. Keep the drawing conventions professional and the labels aligned to a clean grid.",
-    "sourceLink": "https://x.com/irdh34/status/2074910474609566115",
-    "sourcePublishedAt": "2026-07-08T17:36:21Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HMuQEwNbcAAnL_y.jpg"
-    ],
-    "author": {
-      "name": "@irdh34",
-      "link": "https://x.com/irdh34"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 28,
-    "needReferenceImages": false,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2074910474609566115",
-      "prompt_source": "normalized_from_keyword_related_tweet",
-      "retweetCount": 107,
-      "replyCount": 6,
-      "likeCount": 113,
-      "quoteCount": 0,
-      "viewCount": 9820,
-      "bookmarkCount": 3
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 20,
-          "title": "Architecture & Interior",
-          "slug": "architecture-interior"
-        }
-      ],
-      "styles": [
-        {
-          "id": 42,
-          "title": "Technical Blueprint",
-          "slug": "technical-blueprint"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 55,
-          "title": "Architecture",
-          "slug": "architecture"
-        }
-      ]
-    }
-  },
-  {
     "id": 29,
     "model": "seedream-5-pro",
     "title": "1960s Havana documentary video seed",
@@ -1688,60 +1634,6 @@
           "id": 59,
           "title": "Marketing Layout",
           "slug": "marketing-layout"
-        }
-      ]
-    }
-  },
-  {
-    "id": 32,
-    "model": "seedream-5-pro",
-    "title": "Kids product ad poster",
-    "description": "A product-ad poster workflow normalized from Open Design’s Seedream 5 Pro prompt-template examples.",
-    "content": "Design a playful kids product ad poster with one hero toy or snack pack, bright friendly color, soft rounded shapes, clean shelf-ready lighting, short readable headline, small feature bubbles, and a safe cheerful background. Make it commercial and polished without using real brand logos.",
-    "sourceLink": "https://x.com/OpenDesignHQ/status/2075191295476105374",
-    "sourcePublishedAt": "2026-07-09T12:12:14Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HMyOy6mWoAA1J1M.jpg"
-    ],
-    "author": {
-      "name": "@OpenDesignHQ",
-      "link": "https://x.com/OpenDesignHQ"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 32,
-    "needReferenceImages": false,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2075191295476105374",
-      "prompt_source": "normalized_from_keyword_related_tweet",
-      "retweetCount": 0,
-      "replyCount": 2,
-      "likeCount": 2,
-      "quoteCount": 0,
-      "viewCount": 258,
-      "bookmarkCount": 0
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 15,
-          "title": "Product Campaign",
-          "slug": "product-campaign"
-        }
-      ],
-      "styles": [
-        {
-          "id": 41,
-          "title": "Commercial Photography",
-          "slug": "commercial-photography"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 51,
-          "title": "Product & Props",
-          "slug": "product-props"
         }
       ]
     }
@@ -2669,114 +2561,6 @@
     }
   },
   {
-    "id": 50,
-    "model": "seedream-5-pro",
-    "title": "Panel-by-panel grayscale shot list",
-    "description": "A long-form instruction-following storyboard test normalized from a public Seedream 5.0 Pro post.",
-    "content": "Generate a storyboard sheet from a precise shot list. Use 12 to 16 panels, grayscale production sketch style, panel numbers, camera arrows, brief framing labels, and consistent characters moving through one action sequence. Keep the layout disciplined and the continuity clear from panel to panel.",
-    "sourceLink": "https://x.com/munzxsdv/status/2074865454485483885",
-    "sourcePublishedAt": "2026-07-08T14:37:28Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HMtnIPHa8AAbWpG.jpg"
-    ],
-    "author": {
-      "name": "@munzxsdv",
-      "link": "https://x.com/munzxsdv"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 50,
-    "needReferenceImages": false,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2074865454485483885",
-      "prompt_source": "normalized_from_keyword_related_tweet",
-      "retweetCount": 139,
-      "replyCount": 0,
-      "likeCount": 130,
-      "quoteCount": 0,
-      "viewCount": 6772,
-      "bookmarkCount": 0
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 25,
-          "title": "Storyboard / Video Pipeline",
-          "slug": "storyboard-video-pipeline"
-        }
-      ],
-      "styles": [
-        {
-          "id": 42,
-          "title": "Technical Blueprint",
-          "slug": "technical-blueprint"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 59,
-          "title": "Marketing Layout",
-          "slug": "marketing-layout"
-        }
-      ]
-    }
-  },
-  {
-    "id": 51,
-    "model": "seedream-5-pro",
-    "title": "Thermal receipt typography stress test",
-    "description": "A receipt-rendering benchmark normalized from a public Seedream 5.0 Pro text-layout post.",
-    "content": "Design a realistic thermal receipt as a typography stress test. Include aligned columns, currency values, merchant name, order number, delivery fee line, tiny footer text, a barcode or tracking callout, slightly fading ink near the bottom, and correct spacing. Make it look printed, not typeset in a design app.",
-    "sourceLink": "https://x.com/Hwypanda/status/2074863030362353871",
-    "sourcePublishedAt": "2026-07-08T14:27:50Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HMtk7jVXkAAs4uS.jpg"
-    ],
-    "author": {
-      "name": "@Hwypanda",
-      "link": "https://x.com/Hwypanda"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 51,
-    "needReferenceImages": false,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2074863030362353871",
-      "prompt_source": "normalized_from_keyword_related_tweet",
-      "retweetCount": 148,
-      "replyCount": 0,
-      "likeCount": 138,
-      "quoteCount": 0,
-      "viewCount": 6989,
-      "bookmarkCount": 1
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 17,
-          "title": "Infographic & Typography",
-          "slug": "infographic-typography"
-        }
-      ],
-      "styles": [
-        {
-          "id": 42,
-          "title": "Technical Blueprint",
-          "slug": "technical-blueprint"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 56,
-          "title": "Multilingual Text",
-          "slug": "multilingual-text"
-        }
-      ]
-    }
-  },
-  {
     "id": 52,
     "model": "seedream-5-pro",
     "title": "Data-dense operations dashboard set",
@@ -2886,60 +2670,6 @@
           "id": 31,
           "title": "Human Portrait",
           "slug": "human-portrait"
-        }
-      ]
-    }
-  },
-  {
-    "id": 54,
-    "model": "seedream-5-pro",
-    "title": "E-commerce spec sheet and size chart",
-    "description": "A commerce-production workflow normalized from a public Seedream 5.0 Pro post about dense functional images.",
-    "content": "Create an e-commerce product information sheet with a packaging mockup, product photo, size chart, feature bullets, materials callouts, SKU block, and shipping icons. Keep the design clean and retail-ready, with readable numbers, aligned table rows, and realistic product shadows.",
-    "sourceLink": "https://x.com/Ai_Vaidehi/status/2074881884883210678",
-    "sourcePublishedAt": "2026-07-08T15:42:45Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HMt2EFUbkAAiTqg.jpg"
-    ],
-    "author": {
-      "name": "@Ai_Vaidehi",
-      "link": "https://x.com/Ai_Vaidehi"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 54,
-    "needReferenceImages": false,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2074881884883210678",
-      "prompt_source": "normalized_from_keyword_related_tweet",
-      "retweetCount": 5,
-      "replyCount": 1,
-      "likeCount": 26,
-      "quoteCount": 0,
-      "viewCount": 2245,
-      "bookmarkCount": 5
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 26,
-          "title": "UI / Product Mockup",
-          "slug": "ui-product-mockup"
-        }
-      ],
-      "styles": [
-        {
-          "id": 41,
-          "title": "Commercial Photography",
-          "slug": "commercial-photography"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 51,
-          "title": "Product & Props",
-          "slug": "product-props"
         }
       ]
     }
@@ -3488,114 +3218,6 @@
     }
   },
   {
-    "id": 65,
-    "model": "seedream-5-pro",
-    "title": "APAC multi-market campaign board",
-    "description": "A multilingual market-localization workflow normalized from a public Seedream 5.0 Pro post.",
-    "content": "Create one campaign board with four regional variants: Japanese, Korean, Chinese, and English. Keep product placement and brand identity consistent, but adapt typography, spacing, and cultural visual cues for each market. The copy should look native in every script, not auto-translated.",
-    "sourceLink": "https://x.com/apy_n5/status/2074867864147054934",
-    "sourcePublishedAt": "2026-07-08T14:47:02Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HMtpU6IbEAAfcdb.jpg"
-    ],
-    "author": {
-      "name": "@apy_n5",
-      "link": "https://x.com/apy_n5"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 65,
-    "needReferenceImages": false,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2074867864147054934",
-      "prompt_source": "normalized_from_keyword_related_tweet",
-      "retweetCount": 116,
-      "replyCount": 0,
-      "likeCount": 111,
-      "quoteCount": 0,
-      "viewCount": 7231,
-      "bookmarkCount": 1
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 19,
-          "title": "Multilingual Poster",
-          "slug": "multilingual-poster"
-        }
-      ],
-      "styles": [
-        {
-          "id": 43,
-          "title": "Editorial Poster",
-          "slug": "editorial-poster"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 56,
-          "title": "Multilingual Text",
-          "slug": "multilingual-text"
-        }
-      ]
-    }
-  },
-  {
-    "id": 66,
-    "model": "seedream-5-pro",
-    "title": "Blueprint with terminating dimension lines",
-    "description": "A technical blueprint stress test normalized from a public Seedream 5.0 Pro post.",
-    "content": "Create a technical blueprint with abundant measurement values. Draw dimension lines that terminate precisely on the parts they measure, with arrows, extension lines, labels, scale notes, section markers, and a clean drafting hierarchy. Use a futuristic object or machine part as the subject.",
-    "sourceLink": "https://x.com/LiamEtherson/status/2074862867442962667",
-    "sourcePublishedAt": "2026-07-08T14:27:11Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HMtkx9vWQAAjtnW.jpg"
-    ],
-    "author": {
-      "name": "@LiamEtherson",
-      "link": "https://x.com/LiamEtherson"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 66,
-    "needReferenceImages": false,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2074862867442962667",
-      "prompt_source": "normalized_from_keyword_related_tweet",
-      "retweetCount": 36,
-      "replyCount": 24,
-      "likeCount": 102,
-      "quoteCount": 0,
-      "viewCount": 14476,
-      "bookmarkCount": 10
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 16,
-          "title": "Technical Drawing",
-          "slug": "technical-drawing"
-        }
-      ],
-      "styles": [
-        {
-          "id": 42,
-          "title": "Technical Blueprint",
-          "slug": "technical-blueprint"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 52,
-          "title": "Vehicle",
-          "slug": "vehicle"
-        }
-      ]
-    }
-  },
-  {
     "id": 67,
     "model": "seedream-5-pro",
     "title": "Delivery receipt with tracking callout",
@@ -3645,60 +3267,6 @@
           "id": 56,
           "title": "Multilingual Text",
           "slug": "multilingual-text"
-        }
-      ]
-    }
-  },
-  {
-    "id": 68,
-    "model": "seedream-5-pro",
-    "title": "Restaurant specials board bundle",
-    "description": "A small-business marketing workflow normalized from a public Seedream 5.0 Pro post.",
-    "content": "Create a local restaurant visual bundle: a chalkboard specials menu, a loyalty card, and a delivery hero image. Use correct prices, readable dish names, appetizing food photography, neighborhood warmth, and consistent colors so the assets feel like one campaign.",
-    "sourceLink": "https://x.com/rsraisul_islam/status/2074873384790523920",
-    "sourcePublishedAt": "2026-07-08T15:08:58Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HMtuVffbIAAPMtw.jpg"
-    ],
-    "author": {
-      "name": "@rsraisul_islam",
-      "link": "https://x.com/rsraisul_islam"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 68,
-    "needReferenceImages": false,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2074873384790523920",
-      "prompt_source": "normalized_from_keyword_related_tweet",
-      "retweetCount": 6,
-      "replyCount": 10,
-      "likeCount": 31,
-      "quoteCount": 0,
-      "viewCount": 2128,
-      "bookmarkCount": 0
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 15,
-          "title": "Product Campaign",
-          "slug": "product-campaign"
-        }
-      ],
-      "styles": [
-        {
-          "id": 41,
-          "title": "Commercial Photography",
-          "slug": "commercial-photography"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 53,
-          "title": "Food & Recipe",
-          "slug": "food-recipe"
         }
       ]
     }
@@ -3754,118 +3322,6 @@
           "id": 31,
           "title": "Human Portrait",
           "slug": "human-portrait"
-        }
-      ]
-    }
-  },
-  {
-    "id": 70,
-    "model": "seedream-5-pro",
-    "title": "Markup-driven logo enlargement",
-    "description": "A direct-on-image annotation workflow normalized from a public Seedream 5.0 Pro post.",
-    "content": "Use the uploaded design comp with handwritten markup. If the logo is circled and labeled bigger, enlarge only that logo while preserving its style, placement logic, surrounding spacing, shadows, and background. Treat every handwritten note as an edit instruction, not decoration.",
-    "sourceLink": "https://x.com/Zayan_coder/status/2074909799293305323",
-    "sourcePublishedAt": "2026-07-08T17:33:40Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HMuPcQtbkAA3zUH.jpg",
-      "https://pbs.twimg.com/media/HMuPcrubMAAHS7B.jpg",
-      "https://pbs.twimg.com/media/HMuPdF_a4AA4VtY.jpg",
-      "https://pbs.twimg.com/media/HMuPdjQbMAAKM6J.jpg"
-    ],
-    "author": {
-      "name": "@Zayan_coder",
-      "link": "https://x.com/Zayan_coder"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 70,
-    "needReferenceImages": true,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2074909799293305323",
-      "prompt_source": "normalized_from_keyword_related_tweet",
-      "retweetCount": 23,
-      "replyCount": 10,
-      "likeCount": 29,
-      "quoteCount": 1,
-      "viewCount": 758,
-      "bookmarkCount": 3
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 18,
-          "title": "Precision Editing",
-          "slug": "precision-editing"
-        }
-      ],
-      "styles": [
-        {
-          "id": 43,
-          "title": "Editorial Poster",
-          "slug": "editorial-poster"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 59,
-          "title": "Marketing Layout",
-          "slug": "marketing-layout"
-        }
-      ]
-    }
-  },
-  {
-    "id": 71,
-    "model": "seedream-5-pro",
-    "title": "Six-note living room edit",
-    "description": "A multi-region interior-editing workflow normalized from a public Seedream 5.0 Pro post.",
-    "content": "Use the living-room image with six marked boxes and six notes. Apply each change only inside its target region: furniture, curtains, lighting, decor, wall detail, and floor tone. Preserve room geometry, camera position, natural shadows, and the untouched areas between boxes.",
-    "sourceLink": "https://x.com/Dipanshu_AI/status/2074919074929475587",
-    "sourcePublishedAt": "2026-07-08T18:10:32Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HMuX5aUbgAAltFz.jpg",
-      "https://pbs.twimg.com/media/HMuX5aRaAAABulp.jpg"
-    ],
-    "author": {
-      "name": "@Dipanshu_AI",
-      "link": "https://x.com/Dipanshu_AI"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 71,
-    "needReferenceImages": true,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2074919074929475587",
-      "prompt_source": "normalized_from_keyword_related_tweet",
-      "retweetCount": 6,
-      "replyCount": 3,
-      "likeCount": 31,
-      "quoteCount": 0,
-      "viewCount": 487,
-      "bookmarkCount": 3
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 18,
-          "title": "Precision Editing",
-          "slug": "precision-editing"
-        }
-      ],
-      "styles": [
-        {
-          "id": 41,
-          "title": "Commercial Photography",
-          "slug": "commercial-photography"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 54,
-          "title": "Interior Space",
-          "slug": "interior-space"
         }
       ]
     }
@@ -3978,60 +3434,6 @@
           "id": 59,
           "title": "Marketing Layout",
           "slug": "marketing-layout"
-        }
-      ]
-    }
-  },
-  {
-    "id": 74,
-    "model": "seedream-5-pro",
-    "title": "Mixed-language arrows intent edit",
-    "description": "A multilingual intent-following workflow normalized from a public Seedream 5.0 Pro post.",
-    "content": "Use an image marked with arrows, short notes, and mixed English plus another language. Interpret the intent rather than copying the notes visually. Make the requested localized changes, preserve untouched areas, and ensure any final in-image text uses the correct script and spacing.",
-    "sourceLink": "https://x.com/Sporshamezy/status/2075047697804140914",
-    "sourcePublishedAt": "2026-07-09T02:41:38Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HMwM4D2bQAAVHR-.jpg"
-    ],
-    "author": {
-      "name": "@Sporshamezy",
-      "link": "https://x.com/Sporshamezy"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 74,
-    "needReferenceImages": true,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2075047697804140914",
-      "prompt_source": "normalized_from_keyword_related_tweet",
-      "retweetCount": 15,
-      "replyCount": 6,
-      "likeCount": 15,
-      "quoteCount": 0,
-      "viewCount": 81,
-      "bookmarkCount": 15
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 19,
-          "title": "Multilingual Poster",
-          "slug": "multilingual-poster"
-        }
-      ],
-      "styles": [
-        {
-          "id": 43,
-          "title": "Editorial Poster",
-          "slug": "editorial-poster"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 56,
-          "title": "Multilingual Text",
-          "slug": "multilingual-text"
         }
       ]
     }
@@ -4794,6 +4196,597 @@
           "id": 33,
           "title": "Fashion Creator",
           "slug": "fashion-creator"
+        }
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "model": "seedream-5-pro",
+    "title": "Knight beneath a colossal stone sentinel",
+    "description": "An original public Seedream 5 Pro prompt shared in an X reply, built for oppressive scale, dark-fantasy architecture, and high-contrast cinematic lighting.",
+    "content": "ASPECT RATIO: 16:9\n\nRENDER ENGINE: Unreal Engine 5.4 (Path-Traced, 8K Resolution)\n\nCINEMATIC STYLE: Dark Fantasy, Melancholic Grandeur, High-Contrast Chiaroscuro\n\nAn extreme low-angle, compositionally oppressive shot looking up from behind a battle-worn knight toward a colossal, mountain-sized Stone Sentinel.\n\nThe Knight: Positioned in the lower-third, slightly off-center-left, back to the camera. Wearing intricately detailed, battle-scarred plate armor of blackened steel and tarnished silver filigree. A tattered, ash-stained royal blue surcoat clings to his shoulders, fraying into threads. He rests both hands on the pommel of a massive, notched greatsword planted deep into the cracked, flagstone earth.\n\nThe Colossal Stone Giant: A monolithic entity of basalt and decaying marble, towering three hundred feet into the bruised, twilight sky. Its body is designed like gothic architecture; its ribcage resembles flying buttresses, and its shoulders are overgrown with weeping golden moss and petrified roots. Its head is a featureless, cracked stone monolith, with a single vertical crevice glowing with a cold, dying cosmic gold light.\n\nThe Environment: A ruined cathedral plaza of colossal proportions, half-buried in volcanic ash. In the background, the skeletal remains of a mountain-sized gothic archway frame a bruised, crimson-and-charcoal sky. Thick, low-hanging volumetric fog pools around the giant's massive, pillar-like legs.\n\nLighting and Color: High-contrast chiaroscuro. Strong, directional cold moonlight hits the right side of the giant, while the glowing gold from its face casts a warm, melancholic amber hue onto the wet, reflective armor of the knight below. Cinematic film grain, sub-surface scattering on the moss, and highly detailed dust motes suspended in the air.",
+    "sourceLink": "https://x.com/itsPixieVerse/status/2075253671177404932",
+    "sourcePublishedAt": "2026-07-09T16:20:06Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMyzrXIbYAABGyU.jpg"
+    ],
+    "author": {
+      "name": "@itsPixieVerse",
+      "link": "https://x.com/itsPixieVerse"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075253671177404932",
+      "root_tweet_id": "2075253666412675422",
+      "prompt_source": "reply_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 41,
+      "bookmarkCount": 2
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 57,
+          "title": "Sci-Fi World",
+          "slug": "sci-fi-world"
+        }
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "model": "seedream-5-pro",
+    "title": "Christmas editorial selfie identity edit",
+    "description": "A complete public Seedream 5 Pro image-edit prompt for preserving facial identity while changing hair, wardrobe, pose, and festive editorial styling.",
+    "content": "Use facial identity, facial geometry but not original hair from the reference image. Her new hair is of a two-tone blonde colour, long, flowing and professionally styled. Create a high-fashion editorial Christmas scene featuring a woman flirting with a young and strong man dressed as Santa Claus. The setting is a lived-in indoor festive environment with a deep red carpeted floor, scattered Christmas ornaments, mirrored disco balls, and a partially visible champagne bottle on the floor. The woman is wearing a fitted deep-red, shimmering, metallic mini-dress, thin straps, and natural fabric tension around the waist and hips to accentuate her feminine beauty. Visible healthy skin texture and pores. She is sitting with slightly arched torso, in the lap of a tall and muscly man dressed in loose Santa outfit. One arm resting on Santa's leg, the other holding a champagne glass. Lighting is dramatic, reflections from disco balls, flash-style editorial lighting with strong highlights and defined shadows, realistic reflections on velvet fabric and ornaments. Santa's costume is rich red velvet with white fur trim, textured beard, round glasses catching light naturally. Shot on a full-frame DSLR, 35mm lens, shallow depth of field, crisp focus on faces, cinematic party, editorial style with natural grain.",
+    "sourceLink": "https://x.com/asheem01/status/2075324671214403879",
+    "sourcePublishedAt": "2026-07-09T21:02:13Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM0IxsjX0AEPndA.jpg"
+    ],
+    "author": {
+      "name": "@asheem01",
+      "link": "https://x.com/asheem01"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075324671214403879",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 28,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "model": "seedream-5-pro",
+    "title": "Ethereal librarian on a frozen lake",
+    "description": "A concise public Seedream 5.0 Pro prompt combining a surreal literary subject, frozen landscape, restrained palette, and oil-painted cinematic light.",
+    "content": "Ethereal librarian in flowing velvet robes wandering across a cracked, translucent frozen lake. Ancient, glowing books float mid-air like frozen birds. Surreal cinematic lighting, dark teal and silver palette, oil painting style.",
+    "sourceLink": "https://x.com/Zubnet/status/2075295691652415799",
+    "sourcePublishedAt": "2026-07-09T19:07:04Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMzuJE5WIAAaNpn.jpg"
+    ],
+    "author": {
+      "name": "@Zubnet",
+      "link": "https://x.com/Zubnet"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075295691652415799",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 3,
+      "replyCount": 0,
+      "likeCount": 4,
+      "quoteCount": 0,
+      "viewCount": 30,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 48,
+          "title": "Magical Realism",
+          "slug": "magical-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 34,
+          "title": "Landscape",
+          "slug": "landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "model": "seedream-5-pro",
+    "title": "Backlit street portrait feeding stray cats",
+    "description": "A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid composition, specific styling, natural gestures, and hazy commercial backlight.",
+    "content": "正午（好日头），户外场景，仰拍镜头，正脸看镜头，慵懒外套白内衬。戴项链，戴手表，耳钉，钻石手链，做出可爱的表情，梦幻朦胧感，噪点，逆光，微微过曝，商业修图，日常抓拍，冷白皮，通透，清冷女爱豆，长发半遮面，一半自然披散，在小区楼下蹲着给流浪猫喂零食，猫在吃，她穿着浅灰 oversize 卫衣和浅蓝牛仔短裤，膝盖着地，一手摊着零食、一手比着耶，她头发垂下来挡着半张脸，眼神温柔又小心翼翼，阳光透过树叶投下光斑，背景有缩在角落的小猫、堆着的纸箱。",
+    "sourceLink": "https://x.com/DeepBlueAIX/status/2075062633666089004",
+    "sourcePublishedAt": "2026-07-09T03:40:59Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMwaIg0akAA0106.jpg",
+      "https://pbs.twimg.com/media/HMwaKfVaYAAwPyQ.jpg"
+    ],
+    "author": {
+      "name": "@DeepBlueAIX",
+      "link": "https://x.com/DeepBlueAIX"
+    },
+    "language": "zh",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075062633666089004",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 291,
+      "bookmarkCount": 1
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "model": "seedream-5-pro",
+    "title": "1990s Andalusian home-video still",
+    "description": "A public same-prompt Seedream 5 Pro comparison prompt recreating the imperfect exposure, tape texture, and unpolished framing of a 1990s Spanish home video.",
+    "content": "1990s Spain home video still frame, consumer camcorder (Hi8 / VHS-C), whitewashed Andalusian village street at siesta hour, handheld casual framing, imperfect focus, auto exposure shift, VHS tape noise, interlaced video look, low resolution, faded warm colors, overexposed sunlit walls and deep shade mixed lighting, dry dusty afternoon atmosphere, raw documentary footage look, unpolished realism, no cinematic grading, no stylization, no text, no watermark. Old woman in a dark housecoat sitting on a wooden chair beside her doorway in the shade, a dog lying on the ground at her feet, long shadows down the empty street, unaware of the camera, neutral mood.",
+    "sourceLink": "https://x.com/magnific/status/2075103712448831774",
+    "sourcePublishedAt": "2026-07-09T06:24:13Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMw_09WagAASGSu.jpg"
+    ],
+    "author": {
+      "name": "@magnific",
+      "link": "https://x.com/magnific"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075103712448831774",
+      "collection_context_tweet_id": "2075295512316477684",
+      "prompt_source": "quoted_tweet_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 5,
+      "quoteCount": 0,
+      "viewCount": 220,
+      "bookmarkCount": 2
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 46,
+          "title": "Documentary Realism",
+          "slug": "documentary-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 58,
+          "title": "Historical Scene",
+          "slug": "historical-scene"
+        }
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "model": "seedream-5-pro",
+    "title": "Japanese cinematic magazine cover layout",
+    "description": "A detailed public prompt tested with both GPT Image and Seedream 5.0 Pro, focused on identity preservation and dense Japanese editorial-cover typography.",
+    "content": "你是一位顶级的世界级电影封面设计大师，根据以下需求，将我的图像作品进行顶级电影封面排版任务。\n\n以参考图中的角色为拍摄主体，严格保持人物五官特征、脸部骨相、眼型、鼻唇比例、发型轮廓、肤色质感与整体气质一致，保持画面中角色的真实皮肤纹理、自然毛孔、细微绒毛、高光反射真实可见，不使用过度磨皮，不网红脸，不要 AI 塑料感，保持角色的姿势神态、场景氛围与画面构图不变。\n\n封面主题：KishenArt Cinematic-Style Portraits。顶部超大日文刊名：PHOTO KISHEN DIGITAL。左上角：2026 July Vol.KishenArt002。画面左侧纵向排列摄影专题文字：終極特輯、プロ写真家インタビュー、Netflix 獨家海報、フィルムライクカラー研究。画面右上加入红色圆形贴纸：SPECIAL ISSUE KISHENART VISION。主标题采用超大红色日文字体：Sexy の毒液。副标题采用优雅手写英文：Cinematic Storytelling Vibe。画面底部大面积红色粗体文字覆盖：Netflix。\n\n左下角添加 AI 工具 Logo icon，只需要图标，不需要文字名称：ChatGPT、Grok、Gemini、Dreamina、Kling。工具图标下加入社交媒体 Logo icon：X、Instagram、微博、小红书、抖音、B 站、YouTube、Telegram。左下角添加两排文字：Ideas Without Limits；Video Director | AI Design | Photographer。\n\n整体版式遵循 Netflix 电影摄影海报杂志级别设计逻辑，专业摄影出版物质感，层级丰富但不拥挤，字体无阴影无描边，字体与图片融合自然。Ultra Photorealistic, 8K RAW, Editorial Cover Design, Japanese Magazine Layout, Real Skin Texture, Natural Light, Cinematic Depth of Field, Fine Art Portrait, Premium Print Quality, High Detail, 3:4 Vertical Cover, 4K HD Export.",
+    "sourceLink": "https://x.com/KishenArt/status/2075090846412927134",
+    "sourcePublishedAt": "2026-07-09T05:33:05Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMw0EEybsAA05e3.jpg"
+    ],
+    "author": {
+      "name": "@KishenArt",
+      "link": "https://x.com/KishenArt"
+    },
+    "language": "zh-TW",
+    "featured": false,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075090846412927134",
+      "prompt_tweet_id": "2074754496891379945",
+      "prompt_source": "quoted_tweet_prompt",
+      "retweetCount": 1,
+      "replyCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 490,
+      "bookmarkCount": 2
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "model": "seedream-5-pro",
+    "title": "Extreme close-up portrait camera template",
+    "description": "A reusable public portrait prompt template retested with Seedream 5 Pro, with editable subject, attire, age, eye-color, camera, and shot-distance variables.",
+    "content": "Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. The subject is {age}, with extremely natural skin texture and {eye-color} eyes, exquisite details, natural lighting, shot on a Canon EOS 250D / Rebel SL3 digital SLR camera at f/10. You can change the shot style to a mid shot, wide shot, or full-body shot while preserving the same natural skin detail and photographic realism.",
+    "sourceLink": "https://x.com/madpencil_/status/2075248453173858556",
+    "sourcePublishedAt": "2026-07-09T15:59:22Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMzDBiybUAAlZy1.jpg",
+      "https://pbs.twimg.com/media/HMzDZS0aQAADdDK.jpg"
+    ],
+    "author": {
+      "name": "@madpencil_",
+      "link": "https://x.com/madpencil_"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075248453173858556",
+      "prompt_tweet_id": "1997611133751210142",
+      "prompt_source": "quoted_tweet_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 10,
+      "quoteCount": 0,
+      "viewCount": 490,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "model": "seedream-5-pro",
+    "title": "Bedroom mirror-selfie influencer portrait",
+    "description": "A public same-prompt comparison retested with Seedream 5.0 Pro, specifying pose, wardrobe, accessories, room props, and natural smartphone photography.",
+    "content": "Subject and Pose: Young woman taking a mirror selfie in a bedroom, standing in front of a bed, holding a phone in her right hand at chest level, her left hand holding an iced drink near her lips while sipping through a straw, relaxed casual pose, slight head tilt.\n\nClothing: Fitted cream off-white ribbed knit tank top with thin straps and low scoop neckline, light-wash high-waisted straight-leg denim jeans, showing a small strip of midriff.\n\nAccessories: Olive green New York Yankees baseball cap worn forward, silver over-ear headphones worn over the cap, large chunky gold hoop earrings, delicate gold cross pendant necklace, multiple gold rings, and stacked gold bangle bracelets on both wrists.\n\nItems: iPhone with pink floral rose-pattern phone case, iced matcha green tea latte in a clear plastic cup with dark green straw.\n\nHair and Makeup: Long brown wavy hair flowing past the shoulders, natural glam makeup, nude lip.\n\nBackground: Minimalist white bedroom, white textured bedding, black woven leather shoulder bag lying on the bed, distressed white vintage nightstand with a white ceramic lamp, and a glimpse of a leopard-print pillow.\n\nTechnical: Soft diffused natural window lighting, warm color tones, vertical 9:16 aspect ratio, lifestyle photography, influencer aesthetic, high resolution, shot on iPhone, realistic skin texture.",
+    "sourceLink": "https://x.com/Arminn_Ai/status/2074959192096457130",
+    "sourcePublishedAt": "2026-07-08T20:49:56Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMu8T-YWsAAk5_9.jpg"
+    ],
+    "author": {
+      "name": "@Arminn_Ai",
+      "link": "https://x.com/Arminn_Ai"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074959192096457130",
+      "prompt_tweet_id": "2001257739452916001",
+      "prompt_source": "thread_reply_prompt",
+      "retweetCount": 2,
+      "replyCount": 5,
+      "likeCount": 22,
+      "quoteCount": 0,
+      "viewCount": 1816,
+      "bookmarkCount": 2
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "model": "seedream-5-pro",
+    "title": "Seat-belted car selfie first frame",
+    "description": "A detailed public Chinese same-prompt comparison for a realistic 16:9 in-car selfie, with explicit seat-belt state, camera placement, styling, and negative constraints.",
+    "content": "生成一张真实感车内自拍视频首帧照片，横屏 16:9。画面像固定在副驾驶前方或中控台附近的小型广角相机拍摄，轻微广角，近距离车内第一视角，像社交媒体短视频截图。\n\n主角是一位成年女性，气质清冷、安静、精致，整体像日常车内自拍视频里的主角。她脸型小巧偏鹅蛋脸，五官自然精致，鼻梁挺，嘴唇自然，表情平静、淡淡的，有一点冷感但不夸张。她正面面向镜头或略微看向前方，能清楚看到完整正脸，不低头，不侧脸。她戴细框透明或浅银色眼镜，长直发偏浅棕色，带轻微空气刘海，头发自然垂落在肩侧。穿简洁灰色无袖针织连衣裙或灰色无袖上衣搭配同色下装，造型干净日常、端庄自然。\n\n她坐在驾驶位，安全带已经插好并固定完成：黑色安全带清楚地从肩膀斜跨过上身到腰侧，状态自然贴合身体，不是在拉安全带，也不是正在插卡扣。她一只手自然放在方向盘附近或轻扶方向盘，另一只手放低在座椅边或腿侧，姿态像准备开车前刚坐正的一瞬间。表情专注平静，眼神可以看向镜头，也可以略微看向前方道路。\n\n车内是红棕色真皮座椅和红棕色门板，方向盘在画面右前方形成明显前景，仪表台、车窗边缘和后排座椅可见。车窗外是白天城市道路旁的绿化、树木和轻微模糊的街景，但车子此刻看起来还没有启动，背景相对静止。自然日光从车窗照进来，皮肤质感真实，头发有自然光泽。\n\n整体风格：真实摄影，高质量手机或运动相机车内自拍视频首帧，清晰自然，轻微广角畸变，真实车内空间，社交媒体短视频质感，不像棚拍写真。\n\n避免：低头、侧脸、正在插安全带、正在拉安全带、字幕、文字、水印、多余人物、夸张姿势、夸张摆拍、安全带消失、方向盘变形、手指畸形、眼镜变形、车内结构错乱、背景高速运动、夜景、动漫风、CG 感、塑料皮肤、过度美颜。",
+    "sourceLink": "https://x.com/johnAGI168/status/2074870910469677387",
+    "sourcePublishedAt": "2026-07-08T14:59:08Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMtrgDYXwAArOU6.jpg"
+    ],
+    "author": {
+      "name": "@johnAGI168",
+      "link": "https://x.com/johnAGI168"
+    },
+    "language": "zh",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074870910469677387",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 7,
+      "replyCount": 21,
+      "likeCount": 63,
+      "quoteCount": 3,
+      "viewCount": 67813,
+      "bookmarkCount": 57
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 25,
+          "title": "Storyboard / Video Pipeline",
+          "slug": "storyboard-video-pipeline"
+        }
+      ],
+      "styles": [
+        {
+          "id": 46,
+          "title": "Documentary Realism",
+          "slug": "documentary-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "model": "seedream-5-pro",
+    "title": "Casual cafe-step street portrait",
+    "description": "A complete public blind-test prompt shared with GPT Image 2.0 and Seedream 5.0 Pro, emphasizing authentic smartphone texture and a detailed cafe environment.",
+    "content": "A realistic vertical 3:4 smartphone social-media street photo of a young adult woman sitting on a wooden step outside an urban cafe. Behind her are gray metal window frames and large glass panes showing the cafe interior: warm yellow lights, dining guests, wooden chairs and tables, distressed concrete walls, and tree reflections on the glass. The image should feel like a real casual snapshot, not a clean studio shoot, with natural background clutter, reflections, slight glare, and mild social-media compression.\n\nShe faces the camera while seated in a relaxed, slightly asymmetrical pose. Her body leans a little toward the left side of the frame. One leg bends sideways and the other bends naturally forward, with white socks and chunky black-and-white sneakers visible. One hand is raised near her hair, while the other holds a clear tall glass containing a pink-orange drink with a white straw. A phone with a white case rests on her lap, and a black handbag sits beside her.\n\nShe wears a black-and-white thin-strap cropped camisole with a white base, black trim, black straps, a black-and-white comic graphic, halftone dot texture, a speech bubble, and small bow details near the straps. The hem sits above the waist, revealing a small strip of midriff. Her bottoms are low-rise washed black-gray denim shorts with distressed patches, faded areas, and frayed edges, giving a Y2K streetwear feeling.\n\nHer visible skin includes the shoulders, collarbones, upper chest edge, arms, hands, a small section of midriff, the side hip area partly covered by shorts, thighs, knees, and lower legs; the back and buttocks are not visible. The skin tone is fair with a warm pink undertone, with subtle natural redness on the cheeks and knees. The skin should look fine, soft, semi-matte, and real, with slight texture rather than plastic smoothing. Soft outdoor diffused light illuminates the front, while warm cafe lights behind the glass create faint golden reflections on the hair, shoulders, and arms.\n\nHer styling follows a K-beauty / J-fashion sweet-cool idol-inspired direction: dark brown-black fluffy hair with airy bangs, softly curled ends, loose face-framing strands, and a black-and-white polka-dot hair clip on the left side of the image. Makeup includes a clean fair base, visible aegyo-sal, fine black eyeliner, long lashes, pink blush, and glossy rose lips. She looks into the camera with one eye open and the other playfully winking, lips softly closed with a slight smile and subtle pout.\n\nCamera feel: taken by a friend standing in front of her with a smartphone, using a 26-35mm equivalent lens, front-facing slightly high angle, close environmental portrait framing, seated full-body view with shoes mostly included. Keep a fairly deep depth of field, clear subject, detailed cafe background, natural imperfections, reflections, mild noise, and authentic casual-photo texture.",
+    "sourceLink": "https://x.com/underwoodxie96/status/2075140186992939103",
+    "sourcePublishedAt": "2026-07-09T08:49:09Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMxgfDVb0AADuQW.jpg",
+      "https://pbs.twimg.com/media/HMxgkvibAAARSwa.jpg"
+    ],
+    "author": {
+      "name": "@underwoodxie96",
+      "link": "https://x.com/underwoodxie96"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075140186992939103",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 2,
+      "replyCount": 1,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "viewCount": 1109,
+      "bookmarkCount": 2
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "model": "seedream-5-pro",
+    "title": "Minimal painting replacement iteration test",
+    "description": "A public three-model editing comparison using the same intentionally minimal instruction to measure how quickly repeated edits drift from the source.",
+    "content": "Change the painting.",
+    "sourceLink": "https://x.com/abdoul94_/status/2075229273179279409",
+    "sourcePublishedAt": "2026-07-09T14:43:09Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2075226893171793920/img/AdYm1_YfCCyoqZlX.jpg"
+    ],
+    "author": {
+      "name": "@abdoul94_",
+      "link": "https://x.com/abdoul94_"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075229273179279409",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 71,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 18,
+          "title": "Precision Editing",
+          "slug": "precision-editing"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
         }
       ]
     }

@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | एकूण prompts | **88** |
 | निवडक | **10** |
-| शेवटचे अद्यतन | **गुरुवार, ९ जुलै, २०२६ रोजी ९:१८:२३ PM UTC** |
+| शेवटचे अद्यतन | **गुरुवार, ९ जुलै, २०२६ रोजी १०:०८:२१ PM UTC** |
 
 </div>
 
@@ -250,7 +250,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **लेखक:** [@characternexus](https://x.com/characternexus)
 - **स्रोत:** [स्रोत](https://x.com/characternexus/status/2074920654751592583)
-- **प्रकाशित:** ८ जुलै, २०२६
+- **प्रकाशित:** ९ जुलै, २०२६
 - **भाषा:** en
 
 **[हा prompt वापरा](https://x.com/characternexus/status/2074920654751592583)**
@@ -609,7 +609,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **लेखक:** [@asheem01](https://x.com/asheem01)
 - **स्रोत:** [स्रोत](https://x.com/asheem01/status/2074941260863811644)
-- **प्रकाशित:** ८ जुलै, २०२६
+- **प्रकाशित:** ९ जुलै, २०२६
 - **भाषा:** en
 
 **[हा prompt वापरा](https://x.com/asheem01/status/2074941260863811644)**
@@ -648,7 +648,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 - **लेखक:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **स्रोत:** [स्रोत](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **प्रकाशित:** ८ जुलै, २०२६
+- **प्रकाशित:** ९ जुलै, २०२६
 - **भाषा:** en
 
 **[हा prompt वापरा](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -951,7 +951,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **लेखक:** [@al_tools43377](https://x.com/al_tools43377)
 - **स्रोत:** [स्रोत](https://x.com/al_tools43377/status/2074971603054502365)
-- **प्रकाशित:** ८ जुलै, २०२६
+- **प्रकाशित:** ९ जुलै, २०२६
 - **भाषा:** en
 
 **[हा prompt वापरा](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1002,7 +1002,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **लेखक:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **स्रोत:** [स्रोत](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **प्रकाशित:** ८ जुलै, २०२६
+- **प्रकाशित:** ९ जुलै, २०२६
 - **भाषा:** en
 
 **[हा prompt वापरा](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1042,7 +1042,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **लेखक:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **स्रोत:** [स्रोत](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **प्रकाशित:** ८ जुलै, २०२६
+- **प्रकाशित:** ९ जुलै, २०२६
 - **भाषा:** en
 
 **[हा prompt वापरा](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1144,7 +1144,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **लेखक:** [@krea_ai](https://x.com/krea_ai)
 - **स्रोत:** [स्रोत](https://x.com/krea_ai/status/2074891481832456638)
-- **प्रकाशित:** ८ जुलै, २०२६
+- **प्रकाशित:** ९ जुलै, २०२६
 - **भाषा:** en
 
 **[हा prompt वापरा](https://x.com/krea_ai/status/2074891481832456638)**
@@ -1251,40 +1251,7 @@ Design a workplace safety poster template, then render it in five languages whil
 
 ---
 
-### No. 21: Architecture & Interior - Labeled architecture concept board
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### वर्णन
-
-An architecture/interior labeling workflow normalized from a public Seedream 5.0 Pro post, aimed at client-ready dense annotations.
-
-#### Prompt
-
-```
-Create a client-facing architecture concept board for a warm modern interior. Combine a central perspective render with dense but readable labels, material callouts, lighting notes, floor-plan snippets, elevation marks, furniture tags, and measurement guides. Keep the drawing conventions professional and the labels aligned to a clean grid.
-```
-
-#### निर्मित प्रतिमा
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMuQEwNbcAAnL_y.jpg" width="600" alt="Architecture & Interior - Labeled architecture concept board - Image 1">
-</div>
-
-#### तपशील
-
-- **लेखक:** [@irdh34](https://x.com/irdh34)
-- **स्रोत:** [स्रोत](https://x.com/irdh34/status/2074910474609566115)
-- **प्रकाशित:** ८ जुलै, २०२६
-- **भाषा:** en
-
-**[हा prompt वापरा](https://x.com/irdh34/status/2074910474609566115)**
-
----
-
-### No. 22: Storyboard / Video Pipeline - 1960s Havana documentary video seed
+### No. 21: Storyboard / Video Pipeline - 1960s Havana documentary video seed
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1317,7 +1284,7 @@ Generate a realistic 1960s Havana documentary still as the first frame for video
 
 ---
 
-### No. 23: Cinematic Film Still - San Francisco sunset phone candid
+### No. 22: Cinematic Film Still - San Francisco sunset phone candid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1350,7 +1317,7 @@ Create a candid street photo of a Korean woman in her twenties using her phone i
 
 ---
 
-### No. 24: UI / Product Mockup - Landing page style-transfer mockup
+### No. 23: UI / Product Mockup - Landing page style-transfer mockup
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1402,40 +1369,7 @@ Create a landing-page hero mockup by transferring a supplied visual style into a
 
 ---
 
-### No. 25: Product Campaign - Kids product ad poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### वर्णन
-
-A product-ad poster workflow normalized from Open Design’s Seedream 5 Pro prompt-template examples.
-
-#### Prompt
-
-```
-Design a playful kids product ad poster with one hero toy or snack pack, bright friendly color, soft rounded shapes, clean shelf-ready lighting, short readable headline, small feature bubbles, and a safe cheerful background. Make it commercial and polished without using real brand logos.
-```
-
-#### निर्मित प्रतिमा
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMyOy6mWoAA1J1M.jpg" width="600" alt="Product Campaign - Kids product ad poster - Image 1">
-</div>
-
-#### तपशील
-
-- **लेखक:** [@OpenDesignHQ](https://x.com/OpenDesignHQ)
-- **स्रोत:** [स्रोत](https://x.com/OpenDesignHQ/status/2075191295476105374)
-- **प्रकाशित:** ९ जुलै, २०२६
-- **भाषा:** en
-
-**[हा prompt वापरा](https://x.com/OpenDesignHQ/status/2075191295476105374)**
-
----
-
-### No. 26: Character Design - High-fashion full-body portrait template
+### No. 24: Character Design - High-fashion full-body portrait template
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1480,7 +1414,7 @@ Create a high-fashion full-body portrait on a minimal editorial set. Use dramati
 
 ---
 
-### No. 27: Cinematic Film Still - Noir cigarette ember close-up
+### No. 25: Cinematic Film Still - Noir cigarette ember close-up
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1513,7 +1447,7 @@ Create an extreme noir close-up in near-total darkness. Let a cigarette ember gl
 
 ---
 
-### No. 28: Cinematic Film Still - Courtroom witness hard-key portrait
+### No. 26: Cinematic Film Still - Courtroom witness hard-key portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1546,7 +1480,7 @@ Frame a tense courtroom witness in tight portrait. Half-light the face with a ha
 
 ---
 
-### No. 29: Cinematic Film Still - Mob kitchen sauce-and-threat still
+### No. 27: Cinematic Film Still - Mob kitchen sauce-and-threat still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1579,7 +1513,7 @@ Create a cramped mob-drama kitchen still. Steam rises from a pot of sauce while 
 
 ---
 
-### No. 30: Cinematic Film Still - Family table mob drama wide shot
+### No. 28: Cinematic Film Still - Family table mob drama wide shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1612,7 +1546,7 @@ Compose a wide shot of a cramped family kitchen table crowded with plates. Place
 
 ---
 
-### No. 31: Character Design - Aristocratic alien diplomat portrait
+### No. 29: Character Design - Aristocratic alien diplomat portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1645,7 +1579,7 @@ Design a cinematic portrait of an aristocratic alien diplomat with pale lavender
 
 ---
 
-### No. 32: Cinematic Film Still - Villeneuve-style neutral mask portrait
+### No. 30: Cinematic Film Still - Villeneuve-style neutral mask portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1678,7 +1612,7 @@ Create a close character portrait with very pale skin, light eyes, and an entire
 
 ---
 
-### No. 33: Cinematic Film Still - Ash Country post-apocalypse wanderer
+### No. 31: Cinematic Film Still - Ash Country post-apocalypse wanderer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1711,7 +1645,7 @@ Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray 
 
 ---
 
-### No. 34: Cinematic Film Still - War robot city cannon blast
+### No. 32: Cinematic Film Still - War robot city cannon blast
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1744,7 +1678,7 @@ Create a cinematic sci-fi action still of a massive humanoid war robot firing an
 
 ---
 
-### No. 35: Cinematic Film Still - Natural copper-red close portrait
+### No. 33: Cinematic Film Still - Natural copper-red close portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1777,7 +1711,7 @@ Make a medium-format close portrait of a young European woman with copper-red ha
 
 ---
 
-### No. 36: Cinematic Film Still - Magical realist dry-lake fisherman
+### No. 34: Cinematic Film Still - Magical realist dry-lake fisherman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1810,7 +1744,7 @@ Create a wide low-angle magical-realist film still of an old fisherman kneeling 
 
 ---
 
-### No. 37: Cinematic Film Still - Dense neon-noir city skyline
+### No. 35: Cinematic Film Still - Dense neon-noir city skyline
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1843,7 +1777,7 @@ Render a dense neon-noir dystopian city skyline at night from a high 24mm vantag
 
 ---
 
-### No. 38: Cinematic Film Still - Bleach-bypass thriller pursuit
+### No. 36: Cinematic Film Still - Bleach-bypass thriller pursuit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1876,7 +1810,7 @@ Create a bleach-bypass thriller still with harsh desaturated contrast, blown hig
 
 ---
 
-### No. 39: Product Campaign - Squishcraft kids clay product ad
+### No. 37: Product Campaign - Squishcraft kids clay product ad
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1909,7 +1843,7 @@ Design a cheerful kids craft-product advertisement for a fictional clay set call
 
 ---
 
-### No. 40: Reference Image Edit - Character silhouette to real pudding edit
+### No. 38: Reference Image Edit - Character silhouette to real pudding edit
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1949,7 +1883,7 @@ Use the uploaded character silhouette and surface contours as the shape referenc
 
 ---
 
-### No. 41: Infographic & Typography - Parametric landmark infographic pair
+### No. 39: Infographic & Typography - Parametric landmark infographic pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1988,7 +1922,7 @@ Create a parametric architectural infographic for a famous landmark. Combine a c
 
 ---
 
-### No. 42: Storyboard / Video Pipeline - Sixteen-panel cavalry charge narrative
+### No. 40: Storyboard / Video Pipeline - Sixteen-panel cavalry charge narrative
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2014,80 +1948,14 @@ Create a 16-panel grayscale storyboard of one cavalry charge from preparation to
 
 - **लेखक:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **स्रोत:** [स्रोत](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **प्रकाशित:** ८ जुलै, २०२६
+- **प्रकाशित:** ९ जुलै, २०२६
 - **भाषा:** en
 
 **[हा prompt वापरा](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
 
 ---
 
-### No. 43: Storyboard / Video Pipeline - Panel-by-panel grayscale shot list
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### वर्णन
-
-A long-form instruction-following storyboard test normalized from a public Seedream 5.0 Pro post.
-
-#### Prompt
-
-```
-Generate a storyboard sheet from a precise shot list. Use 12 to 16 panels, grayscale production sketch style, panel numbers, camera arrows, brief framing labels, and consistent characters moving through one action sequence. Keep the layout disciplined and the continuity clear from panel to panel.
-```
-
-#### निर्मित प्रतिमा
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMtnIPHa8AAbWpG.jpg" width="600" alt="Storyboard / Video Pipeline - Panel-by-panel grayscale shot list - Image 1">
-</div>
-
-#### तपशील
-
-- **लेखक:** [@munzxsdv](https://x.com/munzxsdv)
-- **स्रोत:** [स्रोत](https://x.com/munzxsdv/status/2074865454485483885)
-- **प्रकाशित:** ८ जुलै, २०२६
-- **भाषा:** en
-
-**[हा prompt वापरा](https://x.com/munzxsdv/status/2074865454485483885)**
-
----
-
-### No. 44: Infographic & Typography - Thermal receipt typography stress test
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### वर्णन
-
-A receipt-rendering benchmark normalized from a public Seedream 5.0 Pro text-layout post.
-
-#### Prompt
-
-```
-Design a realistic thermal receipt as a typography stress test. Include aligned columns, currency values, merchant name, order number, delivery fee line, tiny footer text, a barcode or tracking callout, slightly fading ink near the bottom, and correct spacing. Make it look printed, not typeset in a design app.
-```
-
-#### निर्मित प्रतिमा
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMtk7jVXkAAs4uS.jpg" width="600" alt="Infographic & Typography - Thermal receipt typography stress test - Image 1">
-</div>
-
-#### तपशील
-
-- **लेखक:** [@Hwypanda](https://x.com/Hwypanda)
-- **स्रोत:** [स्रोत](https://x.com/Hwypanda/status/2074863030362353871)
-- **प्रकाशित:** ८ जुलै, २०२६
-- **भाषा:** en
-
-**[हा prompt वापरा](https://x.com/Hwypanda/status/2074863030362353871)**
-
----
-
-### No. 45: Infographic & Typography - Data-dense operations dashboard set
+### No. 41: Infographic & Typography - Data-dense operations dashboard set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2138,7 +2006,7 @@ Create a set of data-dense visual panels: a global supply chain dashboard, a qua
 
 ---
 
-### No. 46: Reference Image Edit - Makeup identity-preservation comparison
+### No. 42: Reference Image Edit - Makeup identity-preservation comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2190,40 +2058,7 @@ Use the uploaded portrait as the identity anchor. Change only the makeup: add re
 
 ---
 
-### No. 47: UI / Product Mockup - E-commerce spec sheet and size chart
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### वर्णन
-
-A commerce-production workflow normalized from a public Seedream 5.0 Pro post about dense functional images.
-
-#### Prompt
-
-```
-Create an e-commerce product information sheet with a packaging mockup, product photo, size chart, feature bullets, materials callouts, SKU block, and shipping icons. Keep the design clean and retail-ready, with readable numbers, aligned table rows, and realistic product shadows.
-```
-
-#### निर्मित प्रतिमा
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMt2EFUbkAAiTqg.jpg" width="600" alt="UI / Product Mockup - E-commerce spec sheet and size chart - Image 1">
-</div>
-
-#### तपशील
-
-- **लेखक:** [@Ai_Vaidehi](https://x.com/Ai_Vaidehi)
-- **स्रोत:** [स्रोत](https://x.com/Ai_Vaidehi/status/2074881884883210678)
-- **प्रकाशित:** ८ जुलै, २०२६
-- **भाषा:** en
-
-**[हा prompt वापरा](https://x.com/Ai_Vaidehi/status/2074881884883210678)**
-
----
-
-### No. 48: Multilingual Poster - Spanish cultural altar explainer
+### No. 43: Multilingual Poster - Spanish cultural altar explainer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2256,7 +2091,7 @@ Design an authentic Spanish-language classroom infographic explaining a traditio
 
 ---
 
-### No. 49: UI / Product Mockup - Personal trading card generator
+### No. 44: UI / Product Mockup - Personal trading card generator
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2300,14 +2135,14 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **लेखक:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **स्रोत:** [स्रोत](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **प्रकाशित:** ८ जुलै, २०२६
+- **प्रकाशित:** ९ जुलै, २०२६
 - **भाषा:** en
 
 **[हा prompt वापरा](https://x.com/ThinkerSilentH/status/2074940762861814235)**
 
 ---
 
-### No. 50: UI / Product Mockup - Game-ready interface concept sheet
+### No. 45: UI / Product Mockup - Game-ready interface concept sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2333,14 +2168,14 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **लेखक:** [@JameFalken](https://x.com/JameFalken)
 - **स्रोत:** [स्रोत](https://x.com/JameFalken/status/2074959430374867438)
-- **प्रकाशित:** ८ जुलै, २०२६
+- **प्रकाशित:** ९ जुलै, २०२६
 - **भाषा:** en
 
 **[हा prompt वापरा](https://x.com/JameFalken/status/2074959430374867438)**
 
 ---
 
-### No. 51: Precision Editing - Separate-layer design handoff
+### No. 46: Precision Editing - Separate-layer design handoff
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2373,7 +2208,7 @@ Create a design concept that can be separated into editable layers: background, 
 
 ---
 
-### No. 52: Infographic & Typography - Dense infographic with sketch editing
+### No. 47: Infographic & Typography - Dense infographic with sketch editing
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2407,7 +2242,7 @@ Create a dense text-rich infographic from a rough sketch. Follow the sketch stru
 
 ---
 
-### No. 53: Precision Editing - Region edit plus layer separation mockup
+### No. 48: Precision Editing - Region edit plus layer separation mockup
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2441,7 +2276,7 @@ Use the base visual as a production mockup. Perform a precise region edit, then 
 
 ---
 
-### No. 54: Reference Image Edit - Prompt-or-reference detail render
+### No. 49: Reference Image Edit - Prompt-or-reference detail render
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2468,80 +2303,14 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **लेखक:** [@runwayml](https://x.com/runwayml)
 - **स्रोत:** [स्रोत](https://x.com/runwayml/status/2074982268175630814)
-- **प्रकाशित:** ८ जुलै, २०२६
+- **प्रकाशित:** ९ जुलै, २०२६
 - **भाषा:** en
 
 **[हा prompt वापरा](https://x.com/runwayml/status/2074982268175630814)**
 
 ---
 
-### No. 55: Multilingual Poster - APAC multi-market campaign board
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### वर्णन
-
-A multilingual market-localization workflow normalized from a public Seedream 5.0 Pro post.
-
-#### Prompt
-
-```
-Create one campaign board with four regional variants: Japanese, Korean, Chinese, and English. Keep product placement and brand identity consistent, but adapt typography, spacing, and cultural visual cues for each market. The copy should look native in every script, not auto-translated.
-```
-
-#### निर्मित प्रतिमा
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMtpU6IbEAAfcdb.jpg" width="600" alt="Multilingual Poster - APAC multi-market campaign board - Image 1">
-</div>
-
-#### तपशील
-
-- **लेखक:** [@apy_n5](https://x.com/apy_n5)
-- **स्रोत:** [स्रोत](https://x.com/apy_n5/status/2074867864147054934)
-- **प्रकाशित:** ८ जुलै, २०२६
-- **भाषा:** en
-
-**[हा prompt वापरा](https://x.com/apy_n5/status/2074867864147054934)**
-
----
-
-### No. 56: Technical Drawing - Blueprint with terminating dimension lines
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### वर्णन
-
-A technical blueprint stress test normalized from a public Seedream 5.0 Pro post.
-
-#### Prompt
-
-```
-Create a technical blueprint with abundant measurement values. Draw dimension lines that terminate precisely on the parts they measure, with arrows, extension lines, labels, scale notes, section markers, and a clean drafting hierarchy. Use a futuristic object or machine part as the subject.
-```
-
-#### निर्मित प्रतिमा
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMtkx9vWQAAjtnW.jpg" width="600" alt="Technical Drawing - Blueprint with terminating dimension lines - Image 1">
-</div>
-
-#### तपशील
-
-- **लेखक:** [@LiamEtherson](https://x.com/LiamEtherson)
-- **स्रोत:** [स्रोत](https://x.com/LiamEtherson/status/2074862867442962667)
-- **प्रकाशित:** ८ जुलै, २०२६
-- **भाषा:** en
-
-**[हा prompt वापरा](https://x.com/LiamEtherson/status/2074862867442962667)**
-
----
-
-### No. 57: Infographic & Typography - Delivery receipt with tracking callout
+### No. 50: Infographic & Typography - Delivery receipt with tracking callout
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2574,40 +2343,7 @@ Design a realistic delivery receipt with merchant name, order number, itemized r
 
 ---
 
-### No. 58: Product Campaign - Restaurant specials board bundle
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### वर्णन
-
-A small-business marketing workflow normalized from a public Seedream 5.0 Pro post.
-
-#### Prompt
-
-```
-Create a local restaurant visual bundle: a chalkboard specials menu, a loyalty card, and a delivery hero image. Use correct prices, readable dish names, appetizing food photography, neighborhood warmth, and consistent colors so the assets feel like one campaign.
-```
-
-#### निर्मित प्रतिमा
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMtuVffbIAAPMtw.jpg" width="600" alt="Product Campaign - Restaurant specials board bundle - Image 1">
-</div>
-
-#### तपशील
-
-- **लेखक:** [@rsraisul_islam](https://x.com/rsraisul_islam)
-- **स्रोत:** [स्रोत](https://x.com/rsraisul_islam/status/2074873384790523920)
-- **प्रकाशित:** ८ जुलै, २०२६
-- **भाषा:** en
-
-**[हा prompt वापरा](https://x.com/rsraisul_islam/status/2074873384790523920)**
-
----
-
-### No. 59: Precision Editing - Photobomber removal replacement edit
+### No. 51: Precision Editing - Photobomber removal replacement edit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2640,106 +2376,14 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **लेखक:** [@filodyprincess](https://x.com/filodyprincess)
 - **स्रोत:** [स्रोत](https://x.com/filodyprincess/status/2074916756452483224)
-- **प्रकाशित:** ८ जुलै, २०२६
+- **प्रकाशित:** ९ जुलै, २०२६
 - **भाषा:** en
 
 **[हा prompt वापरा](https://x.com/filodyprincess/status/2074916756452483224)**
 
 ---
 
-### No. 60: Precision Editing - Markup-driven logo enlargement
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### वर्णन
-
-A direct-on-image annotation workflow normalized from a public Seedream 5.0 Pro post.
-
-#### Prompt
-
-```
-Use the uploaded design comp with handwritten markup. If the logo is circled and labeled bigger, enlarge only that logo while preserving its style, placement logic, surrounding spacing, shadows, and background. Treat every handwritten note as an edit instruction, not decoration.
-```
-
-#### निर्मित प्रतिमा
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMuPcQtbkAA3zUH.jpg" width="600" alt="Precision Editing - Markup-driven logo enlargement - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMuPcrubMAAHS7B.jpg" width="600" alt="Precision Editing - Markup-driven logo enlargement - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMuPdF_a4AA4VtY.jpg" width="600" alt="Precision Editing - Markup-driven logo enlargement - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMuPdjQbMAAKM6J.jpg" width="600" alt="Precision Editing - Markup-driven logo enlargement - Image 4">
-</div>
-
-#### तपशील
-
-- **लेखक:** [@Zayan_coder](https://x.com/Zayan_coder)
-- **स्रोत:** [स्रोत](https://x.com/Zayan_coder/status/2074909799293305323)
-- **प्रकाशित:** ८ जुलै, २०२६
-- **भाषा:** en
-
-**[हा prompt वापरा](https://x.com/Zayan_coder/status/2074909799293305323)**
-
----
-
-### No. 61: Precision Editing - Six-note living room edit
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### वर्णन
-
-A multi-region interior-editing workflow normalized from a public Seedream 5.0 Pro post.
-
-#### Prompt
-
-```
-Use the living-room image with six marked boxes and six notes. Apply each change only inside its target region: furniture, curtains, lighting, decor, wall detail, and floor tone. Preserve room geometry, camera position, natural shadows, and the untouched areas between boxes.
-```
-
-#### निर्मित प्रतिमा
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMuX5aUbgAAltFz.jpg" width="600" alt="Precision Editing - Six-note living room edit - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMuX5aRaAAABulp.jpg" width="600" alt="Precision Editing - Six-note living room edit - Image 2">
-</div>
-
-#### तपशील
-
-- **लेखक:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
-- **स्रोत:** [स्रोत](https://x.com/Dipanshu_AI/status/2074919074929475587)
-- **प्रकाशित:** ८ जुलै, २०२६
-- **भाषा:** en
-
-**[हा prompt वापरा](https://x.com/Dipanshu_AI/status/2074919074929475587)**
-
----
-
-### No. 62: Precision Editing - Street-to-rainy chase annotation edit
+### No. 52: Precision Editing - Street-to-rainy chase annotation edit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2779,7 +2423,7 @@ Start from a normal street still with markup notes. Transform the scene into a r
 
 ---
 
-### No. 63: Precision Editing - Client feedback revision loop
+### No. 53: Precision Editing - Client feedback revision loop
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2824,48 +2468,14 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **लेखक:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **स्रोत:** [स्रोत](https://x.com/techxsarfraj/status/2074893823029998052)
-- **प्रकाशित:** ८ जुलै, २०२६
+- **प्रकाशित:** ९ जुलै, २०२६
 - **भाषा:** en
 
 **[हा prompt वापरा](https://x.com/techxsarfraj/status/2074893823029998052)**
 
 ---
 
-### No. 64: Multilingual Poster - Mixed-language arrows intent edit
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### वर्णन
-
-A multilingual intent-following workflow normalized from a public Seedream 5.0 Pro post.
-
-#### Prompt
-
-```
-Use an image marked with arrows, short notes, and mixed English plus another language. Interpret the intent rather than copying the notes visually. Make the requested localized changes, preserve untouched areas, and ensure any final in-image text uses the correct script and spacing.
-```
-
-#### निर्मित प्रतिमा
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HMwM4D2bQAAVHR-.jpg" width="600" alt="Multilingual Poster - Mixed-language arrows intent edit - Image 1">
-</div>
-
-#### तपशील
-
-- **लेखक:** [@Sporshamezy](https://x.com/Sporshamezy)
-- **स्रोत:** [स्रोत](https://x.com/Sporshamezy/status/2075047697804140914)
-- **प्रकाशित:** ९ जुलै, २०२६
-- **भाषा:** en
-
-**[हा prompt वापरा](https://x.com/Sporshamezy/status/2075047697804140914)**
-
----
-
-### No. 65: Cinematic Film Still - Worldbuilding anchor frame color grade
+### No. 54: Cinematic Film Still - Worldbuilding anchor frame color grade
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2898,7 +2508,121 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 
 ---
 
-### No. 66: Cinematic Film Still - Sepia documentary portrait study
+### No. 55: Reference Image Edit - Christmas editorial selfie identity edit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### वर्णन
+
+A complete public Seedream 5 Pro image-edit prompt for preserving facial identity while changing hair, wardrobe, pose, and festive editorial styling.
+
+#### Prompt
+
+```
+Use facial identity, facial geometry but not original hair from the reference image. Her new hair is of a two-tone blonde colour, long, flowing and professionally styled. Create a high-fashion editorial Christmas scene featuring a woman flirting with a young and strong man dressed as Santa Claus. The setting is a lived-in indoor festive environment with a deep red carpeted floor, scattered Christmas ornaments, mirrored disco balls, and a partially visible champagne bottle on the floor. The woman is wearing a fitted deep-red, shimmering, metallic mini-dress, thin straps, and natural fabric tension around the waist and hips to accentuate her feminine beauty. Visible healthy skin texture and pores. She is sitting with slightly arched torso, in the lap of a tall and muscly man dressed in loose Santa outfit. One arm resting on Santa's leg, the other holding a champagne glass. Lighting is dramatic, reflections from disco balls, flash-style editorial lighting with strong highlights and defined shadows, realistic reflections on velvet fabric and ornaments. Santa's costume is rich red velvet with white fur trim, textured beard, round glasses catching light naturally. Shot on a full-frame DSLR, 35mm lens, shallow depth of field, crisp focus on faces, cinematic party, editorial style with natural grain.
+```
+
+#### निर्मित प्रतिमा
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HM0IxsjX0AEPndA.jpg" width="600" alt="Reference Image Edit - Christmas editorial selfie identity edit - Image 1">
+</div>
+
+#### तपशील
+
+- **लेखक:** [@asheem01](https://x.com/asheem01)
+- **स्रोत:** [स्रोत](https://x.com/asheem01/status/2075324671214403879)
+- **प्रकाशित:** १० जुलै, २०२६
+- **भाषा:** en
+
+**[हा prompt वापरा](https://x.com/asheem01/status/2075324671214403879)**
+
+---
+
+### No. 56: Cinematic Film Still - Ethereal librarian on a frozen lake
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### वर्णन
+
+A concise public Seedream 5.0 Pro prompt combining a surreal literary subject, frozen landscape, restrained palette, and oil-painted cinematic light.
+
+#### Prompt
+
+```
+Ethereal librarian in flowing velvet robes wandering across a cracked, translucent frozen lake. Ancient, glowing books float mid-air like frozen birds. Surreal cinematic lighting, dark teal and silver palette, oil painting style.
+```
+
+#### निर्मित प्रतिमा
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzuJE5WIAAaNpn.jpg" width="600" alt="Cinematic Film Still - Ethereal librarian on a frozen lake - Image 1">
+</div>
+
+#### तपशील
+
+- **लेखक:** [@Zubnet](https://x.com/Zubnet)
+- **स्रोत:** [स्रोत](https://x.com/Zubnet/status/2075295691652415799)
+- **प्रकाशित:** १० जुलै, २०२६
+- **भाषा:** en
+
+**[हा prompt वापरा](https://x.com/Zubnet/status/2075295691652415799)**
+
+---
+
+### No. 57: Cinematic Film Still - Knight beneath a colossal stone sentinel
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### वर्णन
+
+An original public Seedream 5 Pro prompt shared in an X reply, built for oppressive scale, dark-fantasy architecture, and high-contrast cinematic lighting.
+
+#### Prompt
+
+```
+ASPECT RATIO: 16:9
+
+RENDER ENGINE: Unreal Engine 5.4 (Path-Traced, 8K Resolution)
+
+CINEMATIC STYLE: Dark Fantasy, Melancholic Grandeur, High-Contrast Chiaroscuro
+
+An extreme low-angle, compositionally oppressive shot looking up from behind a battle-worn knight toward a colossal, mountain-sized Stone Sentinel.
+
+The Knight: Positioned in the lower-third, slightly off-center-left, back to the camera. Wearing intricately detailed, battle-scarred plate armor of blackened steel and tarnished silver filigree. A tattered, ash-stained royal blue surcoat clings to his shoulders, fraying into threads. He rests both hands on the pommel of a massive, notched greatsword planted deep into the cracked, flagstone earth.
+
+The Colossal Stone Giant: A monolithic entity of basalt and decaying marble, towering three hundred feet into the bruised, twilight sky. Its body is designed like gothic architecture; its ribcage resembles flying buttresses, and its shoulders are overgrown with weeping golden moss and petrified roots. Its head is a featureless, cracked stone monolith, with a single vertical crevice glowing with a cold, dying cosmic gold light.
+
+The Environment: A ruined cathedral plaza of colossal proportions, half-buried in volcanic ash. In the background, the skeletal remains of a mountain-sized gothic archway frame a bruised, crimson-and-charcoal sky. Thick, low-hanging volumetric fog pools around the giant's massive, pillar-like legs.
+
+Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonlight hits the right side of the giant, while the glowing gold from its face casts a warm, melancholic amber hue onto the wet, reflective armor of the knight below. Cinematic film grain, sub-surface scattering on the moss, and highly detailed dust motes suspended in the air.
+```
+
+#### निर्मित प्रतिमा
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyzrXIbYAABGyU.jpg" width="600" alt="Cinematic Film Still - Knight beneath a colossal stone sentinel - Image 1">
+</div>
+
+#### तपशील
+
+- **लेखक:** [@itsPixieVerse](https://x.com/itsPixieVerse)
+- **स्रोत:** [स्रोत](https://x.com/itsPixieVerse/status/2075253671177404932)
+- **प्रकाशित:** १० जुलै, २०२६
+- **भाषा:** en
+
+**[हा prompt वापरा](https://x.com/itsPixieVerse/status/2075253671177404932)**
+
+---
+
+### No. 58: Cinematic Film Still - Sepia documentary portrait study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2949,7 +2673,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 ---
 
-### No. 67: Product Campaign - Cinematic editorial fashion session
+### No. 59: Product Campaign - Cinematic editorial fashion session
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2988,7 +2712,46 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 ---
 
-### No. 68: Technical Drawing - Exploded engineering diagram layout
+### No. 60: Character Design - Extreme close-up portrait camera template
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### वर्णन
+
+A reusable public portrait prompt template retested with Seedream 5 Pro, with editable subject, attire, age, eye-color, camera, and shot-distance variables.
+
+#### Prompt
+
+```
+Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. The subject is {age}, with extremely natural skin texture and {eye-color} eyes, exquisite details, natural lighting, shot on a Canon EOS 250D / Rebel SL3 digital SLR camera at f/10. You can change the shot style to a mid shot, wide shot, or full-body shot while preserving the same natural skin detail and photographic realism.
+```
+
+#### निर्मित प्रतिमा
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzDBiybUAAlZy1.jpg" width="600" alt="Character Design - Extreme close-up portrait camera template - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzDZS0aQAADdDK.jpg" width="600" alt="Character Design - Extreme close-up portrait camera template - Image 2">
+</div>
+
+#### तपशील
+
+- **लेखक:** [@madpencil_](https://x.com/madpencil_)
+- **स्रोत:** [स्रोत](https://x.com/madpencil_/status/2075248453173858556)
+- **प्रकाशित:** ९ जुलै, २०२६
+- **भाषा:** en
+
+**[हा prompt वापरा](https://x.com/madpencil_/status/2075248453173858556)**
+
+---
+
+### No. 61: Technical Drawing - Exploded engineering diagram layout
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3033,7 +2796,7 @@ Create an exploded technical diagram of a compact high-end AI camera module, eve
 
 ---
 
-### No. 69: Product Campaign - Overdose gold corrupted luxury moodboard
+### No. 62: Product Campaign - Overdose gold corrupted luxury moodboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3084,7 +2847,7 @@ Create an editorial fashion moodboard in the visual style OVERDOSE GOLD. Use a c
 
 ---
 
-### No. 70: Character Design - Master ink art animal study
+### No. 63: Character Design - Master ink art animal study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3117,7 +2880,7 @@ Generate a master-level traditional ink artwork of a mythic crane and pine tree 
 
 ---
 
-### No. 71: Reference Image Edit - Full-body dragon character extension
+### No. 64: Reference Image Edit - Full-body dragon character extension
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3163,7 +2926,7 @@ Using the provided dragon head or partial-body reference, create a full-body cha
 
 ---
 
-### No. 72: Multilingual Poster - Arabic poster typography test
+### No. 65: Multilingual Poster - Arabic poster typography test
 
 ![Language-AR](https://img.shields.io/badge/Language-AR-blue)
 
@@ -3202,7 +2965,7 @@ Design two premium Arabic technology posters for Seedream 5 Pro. Use a dark cine
 
 ---
 
-### No. 73: Character Design - Pancake angel dessert illustration
+### No. 66: Character Design - Pancake angel dessert illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3235,7 +2998,7 @@ Create a delicate pancake angel character sitting on a stack of fluffy pancakes,
 
 ---
 
-### No. 74: Character Design - Soft anime expression pair
+### No. 67: Character Design - Soft anime expression pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3274,7 +3037,41 @@ Generate a paired anime character study of the same young adventurer in two emot
 
 ---
 
-### No. 75: Cinematic Film Still - Afternoon street portrait prompt
+### No. 68: Precision Editing - Minimal painting replacement iteration test
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### वर्णन
+
+A public three-model editing comparison using the same intentionally minimal instruction to measure how quickly repeated edits drift from the source.
+
+#### Prompt
+
+```
+Change the painting.
+```
+
+#### निर्मित प्रतिमा
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075226893171793920/img/AdYm1_YfCCyoqZlX.jpg" width="600" alt="Precision Editing - Minimal painting replacement iteration test - Image 1">
+</div>
+
+#### तपशील
+
+- **लेखक:** [@abdoul94_](https://x.com/abdoul94_)
+- **स्रोत:** [स्रोत](https://x.com/abdoul94_/status/2075229273179279409)
+- **प्रकाशित:** ९ जुलै, २०२६
+- **भाषा:** en
+
+**[हा prompt वापरा](https://x.com/abdoul94_/status/2075229273179279409)**
+
+---
+
+### No. 69: Cinematic Film Still - Afternoon street portrait prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3321,7 +3118,7 @@ A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro
 
 ---
 
-### No. 76: Character Design - Old-money creator turnaround sheet
+### No. 70: Character Design - Old-money creator turnaround sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3372,7 +3169,7 @@ Character design sheet, full body turnaround, 23-year-old tall lean male creator
 
 ---
 
-### No. 77: Cinematic Film Still - Cloud maker fantasy portrait
+### No. 71: Cinematic Film Still - Cloud maker fantasy portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3405,7 +3202,7 @@ Create a magical realist portrait titled The Cloud Maker. Show a solitary figure
 
 ---
 
-### No. 78: Infographic & Typography - Same-prompt model comparison triptych
+### No. 72: Infographic & Typography - Same-prompt model comparison triptych
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3447,6 +3244,257 @@ Create a clean three-panel comparison board for the same visual prompt across th
 - **भाषा:** zh
 
 **[हा prompt वापरा](https://x.com/lukfan/status/2075219606617346357)**
+
+---
+
+### No. 73: Character Design - Casual cafe-step street portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### वर्णन
+
+A complete public blind-test prompt shared with GPT Image 2.0 and Seedream 5.0 Pro, emphasizing authentic smartphone texture and a detailed cafe environment.
+
+#### Prompt
+
+```
+A realistic vertical 3:4 smartphone social-media street photo of a young adult woman sitting on a wooden step outside an urban cafe. Behind her are gray metal window frames and large glass panes showing the cafe interior: warm yellow lights, dining guests, wooden chairs and tables, distressed concrete walls, and tree reflections on the glass. The image should feel like a real casual snapshot, not a clean studio shoot, with natural background clutter, reflections, slight glare, and mild social-media compression.
+
+She faces the camera while seated in a relaxed, slightly asymmetrical pose. Her body leans a little toward the left side of the frame. One leg bends sideways and the other bends naturally forward, with white socks and chunky black-and-white sneakers visible. One hand is raised near her hair, while the other holds a clear tall glass containing a pink-orange drink with a white straw. A phone with a white case rests on her lap, and a black handbag sits beside her.
+
+She wears a black-and-white thin-strap cropped camisole with a white base, black trim, black straps, a black-and-white comic graphic, halftone dot texture, a speech bubble, and small bow details near the straps. The hem sits above the waist, revealing a small strip of midriff. Her bottoms are low-rise washed black-gray denim shorts with distressed patches, faded areas, and frayed edges, giving a Y2K streetwear feeling.
+
+Her visible skin includes the shoulders, collarbones, upper chest edge, arms, hands, a small section of midriff, the side hip area partly covered by shorts, thighs, knees, and lower legs; the back and buttocks are not visible. The skin tone is fair with a warm pink undertone, with subtle natural redness on the cheeks and knees. The skin should look fine, soft, semi-matte, and real, with slight texture rather than plastic smoothing. Soft outdoor diffused light illuminates the front, while warm cafe lights behind the glass create faint golden reflections on the hair, shoulders, and arms.
+
+Her styling follows a K-beauty / J-fashion sweet-cool idol-inspired direction: dark brown-black fluffy hair with airy bangs, softly curled ends, loose face-framing strands, and a black-and-white polka-dot hair clip on the left side of the image. Makeup includes a clean fair base, visible aegyo-sal, fine black eyeliner, long lashes, pink blush, and glossy rose lips. She looks into the camera with one eye open and the other playfully winking, lips softly closed with a slight smile and subtle pout.
+
+Camera feel: taken by a friend standing in front of her with a smartphone, using a 26-35mm equivalent lens, front-facing slightly high angle, close environmental portrait framing, seated full-body view with shoes mostly included. Keep a fairly deep depth of field, clear subject, detailed cafe background, natural imperfections, reflections, mild noise, and authentic casual-photo texture.
+```
+
+#### निर्मित प्रतिमा
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMxgfDVb0AADuQW.jpg" width="600" alt="Character Design - Casual cafe-step street portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMxgkvibAAARSwa.jpg" width="600" alt="Character Design - Casual cafe-step street portrait - Image 2">
+</div>
+
+#### तपशील
+
+- **लेखक:** [@underwoodxie96](https://x.com/underwoodxie96)
+- **स्रोत:** [स्रोत](https://x.com/underwoodxie96/status/2075140186992939103)
+- **प्रकाशित:** ९ जुलै, २०२६
+- **भाषा:** en
+
+**[हा prompt वापरा](https://x.com/underwoodxie96/status/2075140186992939103)**
+
+---
+
+### No. 74: Cinematic Film Still - 1990s Andalusian home-video still
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### वर्णन
+
+A public same-prompt Seedream 5 Pro comparison prompt recreating the imperfect exposure, tape texture, and unpolished framing of a 1990s Spanish home video.
+
+#### Prompt
+
+```
+1990s Spain home video still frame, consumer camcorder (Hi8 / VHS-C), whitewashed Andalusian village street at siesta hour, handheld casual framing, imperfect focus, auto exposure shift, VHS tape noise, interlaced video look, low resolution, faded warm colors, overexposed sunlit walls and deep shade mixed lighting, dry dusty afternoon atmosphere, raw documentary footage look, unpolished realism, no cinematic grading, no stylization, no text, no watermark. Old woman in a dark housecoat sitting on a wooden chair beside her doorway in the shade, a dog lying on the ground at her feet, long shadows down the empty street, unaware of the camera, neutral mood.
+```
+
+#### निर्मित प्रतिमा
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMw_09WagAASGSu.jpg" width="600" alt="Cinematic Film Still - 1990s Andalusian home-video still - Image 1">
+</div>
+
+#### तपशील
+
+- **लेखक:** [@magnific](https://x.com/magnific)
+- **स्रोत:** [स्रोत](https://x.com/magnific/status/2075103712448831774)
+- **प्रकाशित:** ९ जुलै, २०२६
+- **भाषा:** en
+
+**[हा prompt वापरा](https://x.com/magnific/status/2075103712448831774)**
+
+---
+
+### No. 75: Infographic & Typography - Japanese cinematic magazine cover layout
+
+![Language-ZH-TW](https://img.shields.io/badge/Language-ZH-TW-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### वर्णन
+
+A detailed public prompt tested with both GPT Image and Seedream 5.0 Pro, focused on identity preservation and dense Japanese editorial-cover typography.
+
+#### Prompt
+
+```
+你是一位顶级的世界级电影封面设计大师，根据以下需求，将我的图像作品进行顶级电影封面排版任务。
+
+以参考图中的角色为拍摄主体，严格保持人物五官特征、脸部骨相、眼型、鼻唇比例、发型轮廓、肤色质感与整体气质一致，保持画面中角色的真实皮肤纹理、自然毛孔、细微绒毛、高光反射真实可见，不使用过度磨皮，不网红脸，不要 AI 塑料感，保持角色的姿势神态、场景氛围与画面构图不变。
+
+封面主题：KishenArt Cinematic-Style Portraits。顶部超大日文刊名：PHOTO KISHEN DIGITAL。左上角：2026 July Vol.KishenArt002。画面左侧纵向排列摄影专题文字：終極特輯、プロ写真家インタビュー、Netflix 獨家海報、フィルムライクカラー研究。画面右上加入红色圆形贴纸：SPECIAL ISSUE KISHENART VISION。主标题采用超大红色日文字体：Sexy の毒液。副标题采用优雅手写英文：Cinematic Storytelling Vibe。画面底部大面积红色粗体文字覆盖：Netflix。
+
+左下角添加 AI 工具 Logo icon，只需要图标，不需要文字名称：ChatGPT、Grok、Gemini、Dreamina、Kling。工具图标下加入社交媒体 Logo icon：X、Instagram、微博、小红书、抖音、B 站、YouTube、Telegram。左下角添加两排文字：Ideas Without Limits；Video Director | AI Design | Photographer。
+
+整体版式遵循 Netflix 电影摄影海报杂志级别设计逻辑，专业摄影出版物质感，层级丰富但不拥挤，字体无阴影无描边，字体与图片融合自然。Ultra Photorealistic, 8K RAW, Editorial Cover Design, Japanese Magazine Layout, Real Skin Texture, Natural Light, Cinematic Depth of Field, Fine Art Portrait, Premium Print Quality, High Detail, 3:4 Vertical Cover, 4K HD Export.
+```
+
+#### निर्मित प्रतिमा
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMw0EEybsAA05e3.jpg" width="600" alt="Infographic & Typography - Japanese cinematic magazine cover layout - Image 1">
+</div>
+
+#### तपशील
+
+- **लेखक:** [@KishenArt](https://x.com/KishenArt)
+- **स्रोत:** [स्रोत](https://x.com/KishenArt/status/2075090846412927134)
+- **प्रकाशित:** ९ जुलै, २०२६
+- **भाषा:** zh-TW
+
+**[हा prompt वापरा](https://x.com/KishenArt/status/2075090846412927134)**
+
+---
+
+### No. 76: Character Design - Backlit street portrait feeding stray cats
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### वर्णन
+
+A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid composition, specific styling, natural gestures, and hazy commercial backlight.
+
+#### Prompt
+
+```
+正午（好日头），户外场景，仰拍镜头，正脸看镜头，慵懒外套白内衬。戴项链，戴手表，耳钉，钻石手链，做出可爱的表情，梦幻朦胧感，噪点，逆光，微微过曝，商业修图，日常抓拍，冷白皮，通透，清冷女爱豆，长发半遮面，一半自然披散，在小区楼下蹲着给流浪猫喂零食，猫在吃，她穿着浅灰 oversize 卫衣和浅蓝牛仔短裤，膝盖着地，一手摊着零食、一手比着耶，她头发垂下来挡着半张脸，眼神温柔又小心翼翼，阳光透过树叶投下光斑，背景有缩在角落的小猫、堆着的纸箱。
+```
+
+#### निर्मित प्रतिमा
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMwaIg0akAA0106.jpg" width="600" alt="Character Design - Backlit street portrait feeding stray cats - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMwaKfVaYAAwPyQ.jpg" width="600" alt="Character Design - Backlit street portrait feeding stray cats - Image 2">
+</div>
+
+#### तपशील
+
+- **लेखक:** [@DeepBlueAIX](https://x.com/DeepBlueAIX)
+- **स्रोत:** [स्रोत](https://x.com/DeepBlueAIX/status/2075062633666089004)
+- **प्रकाशित:** ९ जुलै, २०२६
+- **भाषा:** zh
+
+**[हा prompt वापरा](https://x.com/DeepBlueAIX/status/2075062633666089004)**
+
+---
+
+### No. 77: Character Design - Bedroom mirror-selfie influencer portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### वर्णन
+
+A public same-prompt comparison retested with Seedream 5.0 Pro, specifying pose, wardrobe, accessories, room props, and natural smartphone photography.
+
+#### Prompt
+
+```
+Subject and Pose: Young woman taking a mirror selfie in a bedroom, standing in front of a bed, holding a phone in her right hand at chest level, her left hand holding an iced drink near her lips while sipping through a straw, relaxed casual pose, slight head tilt.
+
+Clothing: Fitted cream off-white ribbed knit tank top with thin straps and low scoop neckline, light-wash high-waisted straight-leg denim jeans, showing a small strip of midriff.
+
+Accessories: Olive green New York Yankees baseball cap worn forward, silver over-ear headphones worn over the cap, large chunky gold hoop earrings, delicate gold cross pendant necklace, multiple gold rings, and stacked gold bangle bracelets on both wrists.
+
+Items: iPhone with pink floral rose-pattern phone case, iced matcha green tea latte in a clear plastic cup with dark green straw.
+
+Hair and Makeup: Long brown wavy hair flowing past the shoulders, natural glam makeup, nude lip.
+
+Background: Minimalist white bedroom, white textured bedding, black woven leather shoulder bag lying on the bed, distressed white vintage nightstand with a white ceramic lamp, and a glimpse of a leopard-print pillow.
+
+Technical: Soft diffused natural window lighting, warm color tones, vertical 9:16 aspect ratio, lifestyle photography, influencer aesthetic, high resolution, shot on iPhone, realistic skin texture.
+```
+
+#### निर्मित प्रतिमा
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMu8T-YWsAAk5_9.jpg" width="600" alt="Character Design - Bedroom mirror-selfie influencer portrait - Image 1">
+</div>
+
+#### तपशील
+
+- **लेखक:** [@Arminn_Ai](https://x.com/Arminn_Ai)
+- **स्रोत:** [स्रोत](https://x.com/Arminn_Ai/status/2074959192096457130)
+- **प्रकाशित:** ९ जुलै, २०२६
+- **भाषा:** en
+
+**[हा prompt वापरा](https://x.com/Arminn_Ai/status/2074959192096457130)**
+
+---
+
+### No. 78: Storyboard / Video Pipeline - Seat-belted car selfie first frame
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### वर्णन
+
+A detailed public Chinese same-prompt comparison for a realistic 16:9 in-car selfie, with explicit seat-belt state, camera placement, styling, and negative constraints.
+
+#### Prompt
+
+```
+生成一张真实感车内自拍视频首帧照片，横屏 16:9。画面像固定在副驾驶前方或中控台附近的小型广角相机拍摄，轻微广角，近距离车内第一视角，像社交媒体短视频截图。
+
+主角是一位成年女性，气质清冷、安静、精致，整体像日常车内自拍视频里的主角。她脸型小巧偏鹅蛋脸，五官自然精致，鼻梁挺，嘴唇自然，表情平静、淡淡的，有一点冷感但不夸张。她正面面向镜头或略微看向前方，能清楚看到完整正脸，不低头，不侧脸。她戴细框透明或浅银色眼镜，长直发偏浅棕色，带轻微空气刘海，头发自然垂落在肩侧。穿简洁灰色无袖针织连衣裙或灰色无袖上衣搭配同色下装，造型干净日常、端庄自然。
+
+她坐在驾驶位，安全带已经插好并固定完成：黑色安全带清楚地从肩膀斜跨过上身到腰侧，状态自然贴合身体，不是在拉安全带，也不是正在插卡扣。她一只手自然放在方向盘附近或轻扶方向盘，另一只手放低在座椅边或腿侧，姿态像准备开车前刚坐正的一瞬间。表情专注平静，眼神可以看向镜头，也可以略微看向前方道路。
+
+车内是红棕色真皮座椅和红棕色门板，方向盘在画面右前方形成明显前景，仪表台、车窗边缘和后排座椅可见。车窗外是白天城市道路旁的绿化、树木和轻微模糊的街景，但车子此刻看起来还没有启动，背景相对静止。自然日光从车窗照进来，皮肤质感真实，头发有自然光泽。
+
+整体风格：真实摄影，高质量手机或运动相机车内自拍视频首帧，清晰自然，轻微广角畸变，真实车内空间，社交媒体短视频质感，不像棚拍写真。
+
+避免：低头、侧脸、正在插安全带、正在拉安全带、字幕、文字、水印、多余人物、夸张姿势、夸张摆拍、安全带消失、方向盘变形、手指畸形、眼镜变形、车内结构错乱、背景高速运动、夜景、动漫风、CG 感、塑料皮肤、过度美颜。
+```
+
+#### निर्मित प्रतिमा
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtrgDYXwAArOU6.jpg" width="600" alt="Storyboard / Video Pipeline - Seat-belted car selfie first frame - Image 1">
+</div>
+
+#### तपशील
+
+- **लेखक:** [@johnAGI168](https://x.com/johnAGI168)
+- **स्रोत:** [स्रोत](https://x.com/johnAGI168/status/2074870910469677387)
+- **प्रकाशित:** ८ जुलै, २०२६
+- **भाषा:** zh
+
+**[हा prompt वापरा](https://x.com/johnAGI168/status/2074870910469677387)**
 
 ---
 
@@ -3495,6 +3543,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt सबमिट करा](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[या repo ला Star द्या](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T21:18:23.571Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T22:08:21.476Z</sub>
 
 </div>

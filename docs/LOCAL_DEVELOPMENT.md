@@ -19,6 +19,12 @@ pnpm run generate
 
 This reads local structured data from `data/`, renders every supported README locale, and writes `README*.md` in the repository root.
 
+`generate` runs the structural duplicate checks first. To also download the public source media and detect re-uploaded or recompressed duplicate images, install `ffmpeg` and run:
+
+```bash
+pnpm run audit:duplicates
+```
+
 ## Typecheck
 
 ```bash
@@ -58,6 +64,7 @@ pnpm run generate
 ├── scripts/
 │   ├── generate-readme.ts
 │   ├── sync-approved-to-data.ts
+│   ├── validate-data.ts
 │   └── utils/
 ├── public/images/
 └── README*.md
