@@ -4,6 +4,7 @@ import type { Prompt, FilterCategory } from "./cms-client.js";
 import {
   generateMediaTable,
   generateModelIntroduction,
+  getSeedreamProductUrl,
   groupPromptsByWorkflow,
   SUPPORTED_LANGUAGES,
 } from "./markdown-generator.js";
@@ -46,8 +47,25 @@ test("every README locale uses the verified model introduction", () => {
     const markdown = generateModelIntroduction(code);
     assert.doesNotMatch(markdown, /Multi-Image Fusion/i, code);
     assert.doesNotMatch(markdown, /high-end image generation model family/i, code);
-    assert.match(markdown, /imaginevid\.io\/seedream-5-pro/, code);
+    assert.ok(markdown.includes(getSeedreamProductUrl(code)), code);
     assert.match(markdown, /imaginevid\.io\/blog\/best-dreamina-alternatives/, code);
+  }
+});
+
+test("maps README locales only to verified ImagineVid product locales", () => {
+  assert.equal(getSeedreamProductUrl("en"), "https://imaginevid.io/seedream-5-pro");
+  assert.equal(getSeedreamProductUrl("es-419"), "https://imaginevid.io/es/seedream-5-pro");
+  assert.equal(getSeedreamProductUrl("pt-BR"), "https://imaginevid.io/pt/seedream-5-pro");
+  assert.equal(getSeedreamProductUrl("zh-TW"), "https://imaginevid.io/zh/seedream-5-pro");
+  assert.equal(getSeedreamProductUrl("hi-IN"), "https://imaginevid.io/seedream-5-pro");
+
+  const supportedPrefixes = new Set([
+    "ar", "de", "es", "fr", "it", "ja", "ko", "nl", "pl", "pt", "ru", "tr", "zh",
+  ]);
+  for (const { code } of SUPPORTED_LANGUAGES) {
+    const pathname = new URL(getSeedreamProductUrl(code)).pathname;
+    const prefix = pathname.split("/").filter(Boolean)[0];
+    if (prefix !== "seedream-5-pro") assert.ok(supportedPrefixes.has(prefix), code);
   }
 });
 

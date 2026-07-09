@@ -27,7 +27,7 @@
 
 ## Bekijk de gecureerde collectie
 
-**[Blader door de ImagineVid Seedream 5 Pro-promptcollectie](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+**[Blader door de ImagineVid Seedream 5 Pro-promptcollectie](https://imaginevid.io/nl/seedream-5-pro)**
 
 Waarom deze collectie gebruiken?
 
@@ -76,7 +76,7 @@ Waarom deze collectie gebruiken?
 - **Localized and Layered Editing** - Target regions, objects, text, materials, or positions while preserving the wider composition
 - **Reasoning-Assisted Creation** - Use deeper prompt interpretation and context-aware generation for structured creative tasks
 
-**ImagineVid resources:** [Seedream 5 Pro on ImagineVid](https://imaginevid.io/seedream-5-pro) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
+**ImagineVid resources:** [Seedream 5 Pro on ImagineVid](https://imaginevid.io/nl/seedream-5-pro) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
 
 ### Prompt Skill Arguments
 
@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Totaal prompts | **113** |
 | Uitgelicht | **10** |
-| Laatst bijgewerkt | **donderdag 9 juli 2026 om 23:40:04 UTC** |
+| Laatst bijgewerkt | **donderdag 9 juli 2026 om 23:43:15 UTC** |
 
 </div>
 
@@ -141,7 +141,7 @@ Create a hard sci-fi movie still titled AIRLOCK. Frame one white EVA-suit astron
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/karim_yourself/status/2075165434827989207)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -179,7 +179,7 @@ Generate a 1970s European romantic-drama still set inside a tense private moment
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/UnityEagle/status/2075191214601572606)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -212,10 +212,10 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Auteur:** [@characternexus](https://x.com/characternexus)
 - **Bron:** [Bron](https://x.com/characternexus/status/2074920654751592583)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/characternexus/status/2074920654751592583)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -251,7 +251,7 @@ Frame a folk-horror film still from an extreme low angle inside dense wheat. Let
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/karim_yourself/status/2075165437856264581)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -290,7 +290,7 @@ Create a premium sports refreshment campaign image on a locker-room floor or ben
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/bmx_ai13/status/2075082266695582012)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -362,7 +362,7 @@ Source: [Source](https://x.com/AiwithZohaib/status/2074880584107909602)
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/marmaduke091/status/2074866077499105416)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -399,7 +399,7 @@ Create a {argument name="aspect_ratio" default="16:9"} full-bleed editorial acti
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/AI__TSUBAKI/status/2075128188964159539)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -436,7 +436,7 @@ Use the uploaded image as the locked base. Edit exactly the marked area and pres
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/BytePlusGlobal/status/2074878817458606402)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -472,7 +472,7 @@ Create a complex information visualization that combines one diagram, one small 
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/BytePlusGlobal/status/2074878820122005880)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -508,7 +508,7 @@ Generate a localized campaign asset directly in the target language. Respect the
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/BytePlusGlobal/status/2074878830695850276)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -556,10 +556,10 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Auteur:** [@asheem01](https://x.com/asheem01)
 - **Bron:** [Bron](https://x.com/asheem01/status/2074941260863811644)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/asheem01/status/2074941260863811644)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -593,10 +593,10 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Auteur:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Bron:** [Bron](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/ZariaTechAI/status/2074909390650634560)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -632,7 +632,7 @@ Start from a rough product sketch or reference collage. Preserve the original si
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/capcutapp/status/2075230628786970765)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -668,7 +668,7 @@ Use the existing poster or product mockup as the base. Change only the selected 
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/fal/status/2074846830198722944)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -701,10 +701,10 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Auteur:** [@krea_ai](https://x.com/krea_ai)
 - **Bron:** [Bron](https://x.com/krea_ai/status/2074891481832456638)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/krea_ai/status/2074891481832456638)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -741,7 +741,7 @@ Use the uploaded character silhouette and surface contours as the shape referenc
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** ja
 
-**[Gebruik deze prompt](https://x.com/TlanoAI/status/2075024241284837875)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -776,7 +776,7 @@ Create a design concept that can be separated into editable layers: background, 
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/bdsqlsz/status/2074854144469238254)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -812,7 +812,7 @@ Use the base visual as a production mockup. Perform a precise region edit, then 
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/morphic/status/2074851991466205431)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -845,10 +845,10 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Auteur:** [@runwayml](https://x.com/runwayml)
 - **Bron:** [Bron](https://x.com/runwayml/status/2074982268175630814)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/runwayml/status/2074982268175630814)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -882,10 +882,10 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Auteur:** [@filodyprincess](https://x.com/filodyprincess)
 - **Bron:** [Bron](https://x.com/filodyprincess/status/2074916756452483224)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/filodyprincess/status/2074916756452483224)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -922,7 +922,7 @@ Start from a normal street still with markup notes. Transform the scene into a r
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/HarshBisen143/status/2074865604029550886)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -958,10 +958,10 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Auteur:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Bron:** [Bron](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/techxsarfraj/status/2074893823029998052)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -994,10 +994,10 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **Auteur:** [@asheem01](https://x.com/asheem01)
 - **Bron:** [Bron](https://x.com/asheem01/status/2075324671214403879)
-- **Gepubliceerd:** 9 juli 2026
+- **Gepubliceerd:** 10 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/asheem01/status/2075324671214403879)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1035,7 +1035,7 @@ Using the provided dragon head or partial-body reference, create a full-body cha
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/JossMonzoni/status/2075245480108257448)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1072,7 +1072,7 @@ A source-backed tutorial from the original public X post, demonstrating japanese
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** ja-JP
 
-**[Gebruik deze prompt](https://x.com/renataro9/status/2075059699112652908)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1120,7 +1120,7 @@ A source-backed tutorial from the original public X post, demonstrating localize
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** ja-JP
 
-**[Gebruik deze prompt](https://x.com/haruuraeadss/status/2075035201391255593)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1157,7 +1157,7 @@ a pic of my cat, asked for a mecha version
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/JennyAITech/status/2074870477651398972)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1205,10 +1205,10 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Auteur:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Bron:** [Bron](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/ahmetmertugrul/status/2074914214074872162)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1244,7 +1244,7 @@ Create a production-ready enterprise visual asset for {argument name="industry" 
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/BytePlusGlobal/status/2074851378879668708)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1279,7 +1279,7 @@ Create the same clean campaign infographic in 14 language variants. Keep the lay
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/magnific/status/2074843521853636609)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1314,7 +1314,7 @@ Design a workplace safety poster template, then render it in five languages whil
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Echoes999Y/status/2074870172230484301)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1353,7 +1353,7 @@ Create a landing-page hero mockup by transferring a supplied visual style into a
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/OpenDesignHQ/status/2075191289750937758)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1403,7 +1403,7 @@ Source: [Source](https://x.com/Strength04_X/status/2075063250656621054)
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Strength04_X/status/2075063250656621054)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1441,7 +1441,7 @@ Create a set of data-dense visual panels: a global supply chain dashboard, a qua
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/rovvmut_/status/2075194313752088727)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1476,7 +1476,7 @@ Design an authentic Spanish-language classroom infographic explaining a traditio
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/ItsMaryAI/status/2075014028586524836)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1511,10 +1511,10 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Auteur:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Bron:** [Bron](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/ThinkerSilentH/status/2074940762861814235)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1546,10 +1546,10 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Auteur:** [@JameFalken](https://x.com/JameFalken)
 - **Bron:** [Bron](https://x.com/JameFalken/status/2074959430374867438)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/JameFalken/status/2074959430374867438)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1585,7 +1585,7 @@ Create a dense text-rich infographic from a rough sketch. Follow the sketch stru
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/higgsfield/status/2074866864128430179)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1620,7 +1620,7 @@ Design a realistic delivery receipt with merchant name, order number, itemized r
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/noorwithwifi/status/2074872194858205529)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1653,10 +1653,10 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Auteur:** [@westkast](https://x.com/westkast)
 - **Bron:** [Bron](https://x.com/westkast/status/2075250137698324850)
-- **Gepubliceerd:** 9 juli 2026
+- **Gepubliceerd:** 10 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/westkast/status/2075250137698324850)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1694,7 +1694,7 @@ Create an editorial fashion moodboard in the visual style OVERDOSE GOLD. Use a c
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/shikoba_86/status/2075248011525910944)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1730,7 +1730,7 @@ Design two premium Arabic technology posters for Seedream 5 Pro. Use a dark cine
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** ar
 
-**[Gebruik deze prompt](https://x.com/aziz4ai/status/2075242994102419920)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1774,7 +1774,7 @@ A detailed public prompt tested with both GPT Image and Seedream 5.0 Pro, focuse
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** zh-TW
 
-**[Gebruik deze prompt](https://x.com/KishenArt/status/2075090846412927134)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1818,7 +1818,7 @@ Use a premium blue color palette with turquoise gradients, high-end sports brand
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/iamrealsnow/status/2075063569486598281)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1857,7 +1857,7 @@ Semi-transparent glassy spheres with grid textures overlap the foreground, creat
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/ComfyUI/status/2075027793491226677)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1892,7 +1892,7 @@ a full trading terminal — K-lines, order book, bid/ask, volume, timestamps
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/MishikaAI/status/2074879603446026333)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1931,10 +1931,10 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Auteur:** [@al_tools43377](https://x.com/al_tools43377)
 - **Bron:** [Bron](https://x.com/al_tools43377/status/2074971603054502365)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/al_tools43377/status/2074971603054502365)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -1969,7 +1969,7 @@ Generate a realistic 1960s Havana documentary still as the first frame for video
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/techhalla/status/2075170093626011858)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2026,10 +2026,10 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 - **Auteur:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Bron:** [Bron](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2066,7 +2066,7 @@ Create an exploded technical diagram of a compact high-end AI camera module, eve
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Ciri_ai/status/2075248022515294567)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2114,7 +2114,7 @@ Create a wide exterior noir shot of a lonely roadside diner during heavy night r
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/karim_yourself/status/2075165441236803971)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2149,7 +2149,7 @@ Build a fantasy film still titled The Sun Throne. Place a bowed supplicant in so
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/karim_yourself/status/2075165447490535486)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2184,7 +2184,7 @@ Create a survival film still in a total snow whiteout. Reduce the mountaineer to
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/karim_yourself/status/2075165459993784441)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2219,7 +2219,7 @@ Photograph a relaxed adult woman leaning against a kitchen counter in a lived-in
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Digitalwindai/status/2075222988106932645)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2254,7 +2254,7 @@ Create a 1916 Western Front film still at dawn. Show an exhausted young soldier 
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Digitalwindai/status/2075222992515125388)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2289,7 +2289,7 @@ Create an epic Japanese anime key visual of a sorceress mid-incantation. Use a l
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Digitalwindai/status/2075223017127383054)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2339,7 +2339,7 @@ Source: [Source](https://x.com/mattworkman/status/2074850550349222210)
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/mattworkman/status/2074850550349222210)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2374,7 +2374,7 @@ Create an extreme noir close-up in near-total darkness. Let a cigarette ember gl
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/karim_yourself/status/2075165444453876197)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2409,7 +2409,7 @@ Frame a tense courtroom witness in tight portrait. Half-light the face with a ha
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/karim_yourself/status/2075165450674069946)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2444,7 +2444,7 @@ Create a cramped mob-drama kitchen still. Steam rises from a pot of sauce while 
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/karim_yourself/status/2075165453568053713)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2479,7 +2479,7 @@ Compose a wide shot of a cramped family kitchen table crowded with plates. Place
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/karim_yourself/status/2075165456822882498)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2514,7 +2514,7 @@ Design a cinematic portrait of an aristocratic alien diplomat with pale lavender
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/karim_yourself/status/2075165463009501682)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2549,7 +2549,7 @@ Create a close character portrait with very pale skin, light eyes, and an entire
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/karim_yourself/status/2075165466041925663)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2584,7 +2584,7 @@ Create a cinematic sci-fi action still of a massive humanoid war robot firing an
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Digitalwindai/status/2075223008038261027)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2619,7 +2619,7 @@ Make a medium-format close portrait of a young European woman with copper-red ha
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Digitalwindai/status/2075223012589085119)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2654,7 +2654,7 @@ Create a wide low-angle magical-realist film still of an old fisherman kneeling 
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Digitalwindai/status/2075223026656854053)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2689,7 +2689,7 @@ Create a bleach-bypass thriller still with harsh desaturated contrast, blown hig
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Digitalwindai/status/2075223035406070068)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2725,7 +2725,7 @@ Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. 
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/madpencil_/status/2075248453173858556)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2760,7 +2760,7 @@ Generate a master-level traditional ink artwork of a mythic crane and pine tree 
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/renoiseai/status/2075247860770357248)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2795,7 +2795,7 @@ Create a delicate pancake angel character sitting on a stack of fluffy pancakes,
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** ja
 
-**[Gebruik deze prompt](https://x.com/ayumi_t820/status/2075239907006832996)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2831,7 +2831,7 @@ Generate a paired anime character study of the same young adventurer in two emot
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/stargliderbr/status/2075233749805957188)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2866,7 +2866,7 @@ Create a magical realist portrait titled The Cloud Maker. Show a solitary figure
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/higginswerx/status/2075226897085243767)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2912,7 +2912,7 @@ Camera feel: taken by a friend standing in front of her with a smartphone, using
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/underwoodxie96/status/2075140186992939103)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2950,7 +2950,7 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/ChillaiKalan__/status/2075071088137208063)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -2986,7 +2986,7 @@ A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid compos
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** zh
 
-**[Gebruik deze prompt](https://x.com/DeepBlueAIX/status/2075062633666089004)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3034,7 +3034,7 @@ A girl with a sharp bob cut, purple hair with black accent strands, stylized lay
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/asatoucan/status/2075060881067769903)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3081,7 +3081,7 @@ A teenager stands behind a metal chain-link fence in a grassy outdoor area. She 
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** zh
 
-**[Gebruik deze prompt](https://x.com/df_reno/status/2075055332452106476)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3119,7 +3119,7 @@ A beautiful young Japanese woman, natural and effortless beauty, soft glowing sk
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Cia0_exe/status/2075033845032993261)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3158,7 +3158,7 @@ The layout is filled with clean blocks of small white placeholder body text and 
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/ComfyUI/status/2075027810666914062)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3191,10 +3191,10 @@ world's landmarks, melting like wax
 
 - **Auteur:** [@magnific](https://x.com/magnific)
 - **Bron:** [Bron](https://x.com/magnific/status/2074918700709523881)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/magnific/status/2074918700709523881)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3226,10 +3226,10 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 - **Auteur:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **Bron:** [Bron](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/SimplyAnnisa/status/2074900816662774189)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3269,7 +3269,7 @@ Unretouched natural photograph, shot on cinema camera with subtle halation, fine
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/magnific/status/2074872903938846900)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3327,7 +3327,7 @@ Source: [Source](https://x.com/OpenDesignHQ/status/2075191300366733710)
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/BubbleBrain/status/2074856963591290979)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3368,7 +3368,7 @@ Render a massive capital-class spaceship orbiting a fictional alien planet. Use 
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Digitalwindai/status/2075222996810145816)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3403,7 +3403,7 @@ Design a wide anime establishing shot of ancient temple islands floating above a
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Digitalwindai/status/2075223022089154792)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3438,7 +3438,7 @@ Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray 
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/karim_yourself/status/2075165469107949677)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3473,7 +3473,7 @@ Render a dense neon-noir dystopian city skyline at night from a high 24mm vantag
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Digitalwindai/status/2075223031085957564)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3509,7 +3509,7 @@ Create a parametric architectural infographic for a famous landmark. Combine a c
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/ZaraIrahh/status/2075118336783089710)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3544,7 +3544,7 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/diffractstudio/status/2075029719490195858)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3576,10 +3576,10 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **Auteur:** [@Zubnet](https://x.com/Zubnet)
 - **Bron:** [Bron](https://x.com/Zubnet/status/2075295691652415799)
-- **Gepubliceerd:** 9 juli 2026
+- **Gepubliceerd:** 10 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Zubnet/status/2075295691652415799)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3625,10 +3625,10 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **Auteur:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **Bron:** [Bron](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **Gepubliceerd:** 9 juli 2026
+- **Gepubliceerd:** 10 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/itsPixieVerse/status/2075253671177404932)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3676,7 +3676,7 @@ A mountain village built on impossibly tall stone pillars extends far above Eart
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/AllaAisling/status/2075036565147906511)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3708,10 +3708,10 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 - **Auteur:** [@ashen_one](https://x.com/ashen_one)
 - **Bron:** [Bron](https://x.com/ashen_one/status/2074915677815886071)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/ashen_one/status/2074915677815886071)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3749,7 +3749,7 @@ design a bedroom for each MBTI type
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/FloraTechAI/status/2074866317484794131)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3797,7 +3797,7 @@ Design a full-body character sheet for a male creator in avant-garde streetwear.
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Boluwatifeolad7/status/2075191098184442310)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3845,10 +3845,10 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 - **Auteur:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Bron:** [Bron](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Bic_Revelation/status/2074959714366922857)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3887,7 +3887,7 @@ Use the uploaded portrait as the identity anchor. Change only the makeup: add re
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/SeharShinwari/status/2074879382326526377)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3922,10 +3922,10 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Auteur:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Bron:** [Bron](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Gepubliceerd:** 9 juli 2026
+- **Gepubliceerd:** 10 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Chain_Loader/status/2075251821342503352)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -3961,7 +3961,7 @@ Change the painting.
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/abdoul94_/status/2075229273179279409)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4005,7 +4005,7 @@ A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** zh
 
-**[Gebruik deze prompt](https://x.com/johnAGI168/status/2075228822887157932)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4043,7 +4043,7 @@ Character design sheet, full body turnaround, 23-year-old tall lean male creator
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Boluwatifeolad7/status/2075228499653079138)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4080,7 +4080,7 @@ Create a clean three-panel comparison board for the same visual prompt across th
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** zh
 
-**[Gebruik deze prompt](https://x.com/lukfan/status/2075219606617346357)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4115,7 +4115,7 @@ A public same-prompt Seedream 5 Pro comparison prompt recreating the imperfect e
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/magnific/status/2075103712448831774)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4154,7 +4154,7 @@ A source-backed evaluation from the original public X post, demonstrating refere
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** ja-JP
 
-**[Gebruik deze prompt](https://x.com/hasamaru_studio/status/2075052934409375918)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4198,7 +4198,7 @@ Natural skin texture with soft luminosity, gentle sheen on nose and lips, crisp 
 - **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/cso6709/status/2075046425277399261)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4231,10 +4231,10 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 - **Auteur:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **Bron:** [Bron](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/emmanuel_2m/status/2075000114427375742)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4267,10 +4267,10 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 - **Auteur:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **Bron:** [Bron](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/emmanuel_2m/status/2075000101362131350)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4314,10 +4314,10 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **Auteur:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **Bron:** [Bron](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** en
 
-**[Gebruik deze prompt](https://x.com/Arminn_Ai/status/2074959192096457130)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4350,10 +4350,10 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 - **Auteur:** [@liyue_ai](https://x.com/liyue_ai)
 - **Bron:** [Bron](https://x.com/liyue_ai/status/2074890690686005590)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** zh
 
-**[Gebruik deze prompt](https://x.com/liyue_ai/status/2074890690686005590)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4385,10 +4385,10 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 - **Auteur:** [@roco_kn_roco](https://x.com/roco_kn_roco)
 - **Bron:** [Bron](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **Gepubliceerd:** 8 juli 2026
+- **Gepubliceerd:** 9 juli 2026
 - **Talen:** ja-JP
 
-**[Gebruik deze prompt](https://x.com/roco_kn_roco/status/2074890020260094137)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4440,7 +4440,7 @@ A source-backed evaluation from the original public X post, demonstrating chengd
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** zh
 
-**[Gebruik deze prompt](https://x.com/DeepBlueAIX/status/2074872447229419956)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4485,7 +4485,7 @@ A detailed public Chinese same-prompt comparison for a realistic 16:9 in-car sel
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** zh
 
-**[Gebruik deze prompt](https://x.com/johnAGI168/status/2074870910469677387)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4523,7 +4523,7 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 - **Gepubliceerd:** 8 juli 2026
 - **Talen:** zh
 
-**[Gebruik deze prompt](https://x.com/op7418/status/2074862226905948549)**
+**[Gebruik deze prompt](https://imaginevid.io/nl/seedream-5-pro)**
 
 ---
 
@@ -4583,10 +4583,10 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 <div align="center">
 
-**[Bekijk de gecureerde collectie](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)** •
+**[Bekijk de gecureerde collectie](https://imaginevid.io/nl/seedream-5-pro)** •
 **[Prompt indienen](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef deze repo een Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T23:40:04.859Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T23:43:15.951Z</sub>
 
 </div>

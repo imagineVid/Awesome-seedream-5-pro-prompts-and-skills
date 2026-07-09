@@ -27,7 +27,7 @@
 
 ## عرض المجموعة المنسقة
 
-**[تصفح مجموعة تعليمات ImagineVid لـ Seedream 5 Pro](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+**[تصفح مجموعة تعليمات ImagineVid لـ Seedream 5 Pro](https://imaginevid.io/ar/seedream-5-pro)**
 
 لماذا تستخدم هذه المجموعة؟
 
@@ -76,7 +76,7 @@
 - **Localized and Layered Editing** - Target regions, objects, text, materials, or positions while preserving the wider composition
 - **Reasoning-Assisted Creation** - Use deeper prompt interpretation and context-aware generation for structured creative tasks
 
-**ImagineVid resources:** [Seedream 5 Pro on ImagineVid](https://imaginevid.io/seedream-5-pro) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
+**ImagineVid resources:** [Seedream 5 Pro on ImagineVid](https://imaginevid.io/ar/seedream-5-pro) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
 
 ### وسائط مهارة التعليمة
 
@@ -99,7 +99,7 @@ A cinematic poster for "{argument name="product" default="a glass AI camera"}" w
 |--------|-------|
 | إجمالي التعليمات | **113** |
 | مميز | **10** |
-| آخر تحديث | **الخميس، ٩ يوليو ٢٠٢٦ في ١١:٤٠:٠٤ م UTC** |
+| آخر تحديث | **الخميس، ٩ يوليو ٢٠٢٦ في ١١:٤٣:١٥ م UTC** |
 
 </div>
 
@@ -141,7 +141,7 @@ Create a hard sci-fi movie still titled AIRLOCK. Frame one white EVA-suit astron
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/karim_yourself/status/2075165434827989207)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -179,7 +179,7 @@ Generate a 1970s European romantic-drama still set inside a tense private moment
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/UnityEagle/status/2075191214601572606)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -212,10 +212,10 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **المؤلف:** [@characternexus](https://x.com/characternexus)
 - **المصدر:** [المصدر](https://x.com/characternexus/status/2074920654751592583)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/characternexus/status/2074920654751592583)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -251,7 +251,7 @@ Frame a folk-horror film still from an extreme low angle inside dense wheat. Let
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/karim_yourself/status/2075165437856264581)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -290,7 +290,7 @@ Create a premium sports refreshment campaign image on a locker-room floor or ben
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/bmx_ai13/status/2075082266695582012)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -362,7 +362,7 @@ Source: [Source](https://x.com/AiwithZohaib/status/2074880584107909602)
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/marmaduke091/status/2074866077499105416)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -399,7 +399,7 @@ Create a {argument name="aspect_ratio" default="16:9"} full-bleed editorial acti
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/AI__TSUBAKI/status/2075128188964159539)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -436,7 +436,7 @@ Use the uploaded image as the locked base. Edit exactly the marked area and pres
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/BytePlusGlobal/status/2074878817458606402)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -472,7 +472,7 @@ Create a complex information visualization that combines one diagram, one small 
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/BytePlusGlobal/status/2074878820122005880)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -508,7 +508,7 @@ Generate a localized campaign asset directly in the target language. Respect the
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/BytePlusGlobal/status/2074878830695850276)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -556,10 +556,10 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **المؤلف:** [@asheem01](https://x.com/asheem01)
 - **المصدر:** [المصدر](https://x.com/asheem01/status/2074941260863811644)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/asheem01/status/2074941260863811644)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -593,10 +593,10 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **المؤلف:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **المصدر:** [المصدر](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/ZariaTechAI/status/2074909390650634560)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -632,7 +632,7 @@ Start from a rough product sketch or reference collage. Preserve the original si
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/capcutapp/status/2075230628786970765)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -668,7 +668,7 @@ Use the existing poster or product mockup as the base. Change only the selected 
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/fal/status/2074846830198722944)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -701,10 +701,10 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **المؤلف:** [@krea_ai](https://x.com/krea_ai)
 - **المصدر:** [المصدر](https://x.com/krea_ai/status/2074891481832456638)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/krea_ai/status/2074891481832456638)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -741,7 +741,7 @@ Use the uploaded character silhouette and surface contours as the shape referenc
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** ja
 
-**[استخدم هذه التعليمة](https://x.com/TlanoAI/status/2075024241284837875)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -776,7 +776,7 @@ Create a design concept that can be separated into editable layers: background, 
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/bdsqlsz/status/2074854144469238254)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -812,7 +812,7 @@ Use the base visual as a production mockup. Perform a precise region edit, then 
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/morphic/status/2074851991466205431)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -845,10 +845,10 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **المؤلف:** [@runwayml](https://x.com/runwayml)
 - **المصدر:** [المصدر](https://x.com/runwayml/status/2074982268175630814)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/runwayml/status/2074982268175630814)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -882,10 +882,10 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **المؤلف:** [@filodyprincess](https://x.com/filodyprincess)
 - **المصدر:** [المصدر](https://x.com/filodyprincess/status/2074916756452483224)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/filodyprincess/status/2074916756452483224)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -922,7 +922,7 @@ Start from a normal street still with markup notes. Transform the scene into a r
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/HarshBisen143/status/2074865604029550886)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -958,10 +958,10 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **المؤلف:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **المصدر:** [المصدر](https://x.com/techxsarfraj/status/2074893823029998052)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/techxsarfraj/status/2074893823029998052)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -994,10 +994,10 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **المؤلف:** [@asheem01](https://x.com/asheem01)
 - **المصدر:** [المصدر](https://x.com/asheem01/status/2075324671214403879)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ١٠ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/asheem01/status/2075324671214403879)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1035,7 +1035,7 @@ Using the provided dragon head or partial-body reference, create a full-body cha
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/JossMonzoni/status/2075245480108257448)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1072,7 +1072,7 @@ A source-backed tutorial from the original public X post, demonstrating japanese
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** ja-JP
 
-**[استخدم هذه التعليمة](https://x.com/renataro9/status/2075059699112652908)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1120,7 +1120,7 @@ A source-backed tutorial from the original public X post, demonstrating localize
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** ja-JP
 
-**[استخدم هذه التعليمة](https://x.com/haruuraeadss/status/2075035201391255593)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1157,7 +1157,7 @@ a pic of my cat, asked for a mecha version
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/JennyAITech/status/2074870477651398972)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1205,10 +1205,10 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **المؤلف:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **المصدر:** [المصدر](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/ahmetmertugrul/status/2074914214074872162)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1244,7 +1244,7 @@ Create a production-ready enterprise visual asset for {argument name="industry" 
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/BytePlusGlobal/status/2074851378879668708)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1279,7 +1279,7 @@ Create the same clean campaign infographic in 14 language variants. Keep the lay
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/magnific/status/2074843521853636609)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1314,7 +1314,7 @@ Design a workplace safety poster template, then render it in five languages whil
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Echoes999Y/status/2074870172230484301)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1353,7 +1353,7 @@ Create a landing-page hero mockup by transferring a supplied visual style into a
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/OpenDesignHQ/status/2075191289750937758)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1403,7 +1403,7 @@ Source: [Source](https://x.com/Strength04_X/status/2075063250656621054)
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Strength04_X/status/2075063250656621054)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1441,7 +1441,7 @@ Create a set of data-dense visual panels: a global supply chain dashboard, a qua
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/rovvmut_/status/2075194313752088727)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1476,7 +1476,7 @@ Design an authentic Spanish-language classroom infographic explaining a traditio
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/ItsMaryAI/status/2075014028586524836)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1511,10 +1511,10 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **المؤلف:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **المصدر:** [المصدر](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/ThinkerSilentH/status/2074940762861814235)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1546,10 +1546,10 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **المؤلف:** [@JameFalken](https://x.com/JameFalken)
 - **المصدر:** [المصدر](https://x.com/JameFalken/status/2074959430374867438)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/JameFalken/status/2074959430374867438)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1585,7 +1585,7 @@ Create a dense text-rich infographic from a rough sketch. Follow the sketch stru
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/higgsfield/status/2074866864128430179)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1620,7 +1620,7 @@ Design a realistic delivery receipt with merchant name, order number, itemized r
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/noorwithwifi/status/2074872194858205529)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1653,10 +1653,10 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **المؤلف:** [@westkast](https://x.com/westkast)
 - **المصدر:** [المصدر](https://x.com/westkast/status/2075250137698324850)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ١٠ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/westkast/status/2075250137698324850)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1694,7 +1694,7 @@ Create an editorial fashion moodboard in the visual style OVERDOSE GOLD. Use a c
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/shikoba_86/status/2075248011525910944)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1730,7 +1730,7 @@ Design two premium Arabic technology posters for Seedream 5 Pro. Use a dark cine
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** ar
 
-**[استخدم هذه التعليمة](https://x.com/aziz4ai/status/2075242994102419920)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1774,7 +1774,7 @@ A detailed public prompt tested with both GPT Image and Seedream 5.0 Pro, focuse
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** zh-TW
 
-**[استخدم هذه التعليمة](https://x.com/KishenArt/status/2075090846412927134)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1818,7 +1818,7 @@ Use a premium blue color palette with turquoise gradients, high-end sports brand
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/iamrealsnow/status/2075063569486598281)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1857,7 +1857,7 @@ Semi-transparent glassy spheres with grid textures overlap the foreground, creat
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/ComfyUI/status/2075027793491226677)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1892,7 +1892,7 @@ a full trading terminal — K-lines, order book, bid/ask, volume, timestamps
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/MishikaAI/status/2074879603446026333)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1931,10 +1931,10 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **المؤلف:** [@al_tools43377](https://x.com/al_tools43377)
 - **المصدر:** [المصدر](https://x.com/al_tools43377/status/2074971603054502365)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/al_tools43377/status/2074971603054502365)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -1969,7 +1969,7 @@ Generate a realistic 1960s Havana documentary still as the first frame for video
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/techhalla/status/2075170093626011858)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2026,10 +2026,10 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 - **المؤلف:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **المصدر:** [المصدر](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2066,7 +2066,7 @@ Create an exploded technical diagram of a compact high-end AI camera module, eve
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Ciri_ai/status/2075248022515294567)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2114,7 +2114,7 @@ Create a wide exterior noir shot of a lonely roadside diner during heavy night r
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/karim_yourself/status/2075165441236803971)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2149,7 +2149,7 @@ Build a fantasy film still titled The Sun Throne. Place a bowed supplicant in so
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/karim_yourself/status/2075165447490535486)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2184,7 +2184,7 @@ Create a survival film still in a total snow whiteout. Reduce the mountaineer to
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/karim_yourself/status/2075165459993784441)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2219,7 +2219,7 @@ Photograph a relaxed adult woman leaning against a kitchen counter in a lived-in
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Digitalwindai/status/2075222988106932645)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2254,7 +2254,7 @@ Create a 1916 Western Front film still at dawn. Show an exhausted young soldier 
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Digitalwindai/status/2075222992515125388)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2289,7 +2289,7 @@ Create an epic Japanese anime key visual of a sorceress mid-incantation. Use a l
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Digitalwindai/status/2075223017127383054)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2339,7 +2339,7 @@ Source: [Source](https://x.com/mattworkman/status/2074850550349222210)
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/mattworkman/status/2074850550349222210)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2374,7 +2374,7 @@ Create an extreme noir close-up in near-total darkness. Let a cigarette ember gl
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/karim_yourself/status/2075165444453876197)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2409,7 +2409,7 @@ Frame a tense courtroom witness in tight portrait. Half-light the face with a ha
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/karim_yourself/status/2075165450674069946)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2444,7 +2444,7 @@ Create a cramped mob-drama kitchen still. Steam rises from a pot of sauce while 
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/karim_yourself/status/2075165453568053713)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2479,7 +2479,7 @@ Compose a wide shot of a cramped family kitchen table crowded with plates. Place
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/karim_yourself/status/2075165456822882498)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2514,7 +2514,7 @@ Design a cinematic portrait of an aristocratic alien diplomat with pale lavender
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/karim_yourself/status/2075165463009501682)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2549,7 +2549,7 @@ Create a close character portrait with very pale skin, light eyes, and an entire
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/karim_yourself/status/2075165466041925663)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2584,7 +2584,7 @@ Create a cinematic sci-fi action still of a massive humanoid war robot firing an
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Digitalwindai/status/2075223008038261027)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2619,7 +2619,7 @@ Make a medium-format close portrait of a young European woman with copper-red ha
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Digitalwindai/status/2075223012589085119)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2654,7 +2654,7 @@ Create a wide low-angle magical-realist film still of an old fisherman kneeling 
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Digitalwindai/status/2075223026656854053)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2689,7 +2689,7 @@ Create a bleach-bypass thriller still with harsh desaturated contrast, blown hig
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Digitalwindai/status/2075223035406070068)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2725,7 +2725,7 @@ Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. 
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/madpencil_/status/2075248453173858556)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2760,7 +2760,7 @@ Generate a master-level traditional ink artwork of a mythic crane and pine tree 
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/renoiseai/status/2075247860770357248)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2795,7 +2795,7 @@ Create a delicate pancake angel character sitting on a stack of fluffy pancakes,
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** ja
 
-**[استخدم هذه التعليمة](https://x.com/ayumi_t820/status/2075239907006832996)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2831,7 +2831,7 @@ Generate a paired anime character study of the same young adventurer in two emot
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/stargliderbr/status/2075233749805957188)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2866,7 +2866,7 @@ Create a magical realist portrait titled The Cloud Maker. Show a solitary figure
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/higginswerx/status/2075226897085243767)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2912,7 +2912,7 @@ Camera feel: taken by a friend standing in front of her with a smartphone, using
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/underwoodxie96/status/2075140186992939103)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2950,7 +2950,7 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/ChillaiKalan__/status/2075071088137208063)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -2986,7 +2986,7 @@ A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid compos
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** zh
 
-**[استخدم هذه التعليمة](https://x.com/DeepBlueAIX/status/2075062633666089004)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3034,7 +3034,7 @@ A girl with a sharp bob cut, purple hair with black accent strands, stylized lay
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/asatoucan/status/2075060881067769903)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3081,7 +3081,7 @@ A teenager stands behind a metal chain-link fence in a grassy outdoor area. She 
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** zh
 
-**[استخدم هذه التعليمة](https://x.com/df_reno/status/2075055332452106476)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3119,7 +3119,7 @@ A beautiful young Japanese woman, natural and effortless beauty, soft glowing sk
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Cia0_exe/status/2075033845032993261)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3158,7 +3158,7 @@ The layout is filled with clean blocks of small white placeholder body text and 
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/ComfyUI/status/2075027810666914062)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3191,10 +3191,10 @@ world's landmarks, melting like wax
 
 - **المؤلف:** [@magnific](https://x.com/magnific)
 - **المصدر:** [المصدر](https://x.com/magnific/status/2074918700709523881)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/magnific/status/2074918700709523881)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3226,10 +3226,10 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 - **المؤلف:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **المصدر:** [المصدر](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/SimplyAnnisa/status/2074900816662774189)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3269,7 +3269,7 @@ Unretouched natural photograph, shot on cinema camera with subtle halation, fine
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/magnific/status/2074872903938846900)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3327,7 +3327,7 @@ Source: [Source](https://x.com/OpenDesignHQ/status/2075191300366733710)
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/BubbleBrain/status/2074856963591290979)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3368,7 +3368,7 @@ Render a massive capital-class spaceship orbiting a fictional alien planet. Use 
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Digitalwindai/status/2075222996810145816)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3403,7 +3403,7 @@ Design a wide anime establishing shot of ancient temple islands floating above a
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Digitalwindai/status/2075223022089154792)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3438,7 +3438,7 @@ Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray 
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/karim_yourself/status/2075165469107949677)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3473,7 +3473,7 @@ Render a dense neon-noir dystopian city skyline at night from a high 24mm vantag
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Digitalwindai/status/2075223031085957564)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3509,7 +3509,7 @@ Create a parametric architectural infographic for a famous landmark. Combine a c
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/ZaraIrahh/status/2075118336783089710)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3544,7 +3544,7 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/diffractstudio/status/2075029719490195858)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3576,10 +3576,10 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **المؤلف:** [@Zubnet](https://x.com/Zubnet)
 - **المصدر:** [المصدر](https://x.com/Zubnet/status/2075295691652415799)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ١٠ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Zubnet/status/2075295691652415799)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3625,10 +3625,10 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **المؤلف:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **المصدر:** [المصدر](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ١٠ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/itsPixieVerse/status/2075253671177404932)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3676,7 +3676,7 @@ A mountain village built on impossibly tall stone pillars extends far above Eart
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/AllaAisling/status/2075036565147906511)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3708,10 +3708,10 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 - **المؤلف:** [@ashen_one](https://x.com/ashen_one)
 - **المصدر:** [المصدر](https://x.com/ashen_one/status/2074915677815886071)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/ashen_one/status/2074915677815886071)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3749,7 +3749,7 @@ design a bedroom for each MBTI type
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/FloraTechAI/status/2074866317484794131)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3797,7 +3797,7 @@ Design a full-body character sheet for a male creator in avant-garde streetwear.
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Boluwatifeolad7/status/2075191098184442310)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3845,10 +3845,10 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 - **المؤلف:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **المصدر:** [المصدر](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Bic_Revelation/status/2074959714366922857)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3887,7 +3887,7 @@ Use the uploaded portrait as the identity anchor. Change only the makeup: add re
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/SeharShinwari/status/2074879382326526377)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3922,10 +3922,10 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **المؤلف:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **المصدر:** [المصدر](https://x.com/Chain_Loader/status/2075251821342503352)
-- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
+- **تاريخ النشر:** ١٠ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Chain_Loader/status/2075251821342503352)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -3961,7 +3961,7 @@ Change the painting.
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/abdoul94_/status/2075229273179279409)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4005,7 +4005,7 @@ A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** zh
 
-**[استخدم هذه التعليمة](https://x.com/johnAGI168/status/2075228822887157932)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4043,7 +4043,7 @@ Character design sheet, full body turnaround, 23-year-old tall lean male creator
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Boluwatifeolad7/status/2075228499653079138)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4080,7 +4080,7 @@ Create a clean three-panel comparison board for the same visual prompt across th
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** zh
 
-**[استخدم هذه التعليمة](https://x.com/lukfan/status/2075219606617346357)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4115,7 +4115,7 @@ A public same-prompt Seedream 5 Pro comparison prompt recreating the imperfect e
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/magnific/status/2075103712448831774)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4154,7 +4154,7 @@ A source-backed evaluation from the original public X post, demonstrating refere
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** ja-JP
 
-**[استخدم هذه التعليمة](https://x.com/hasamaru_studio/status/2075052934409375918)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4198,7 +4198,7 @@ Natural skin texture with soft luminosity, gentle sheen on nose and lips, crisp 
 - **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/cso6709/status/2075046425277399261)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4231,10 +4231,10 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 - **المؤلف:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **المصدر:** [المصدر](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/emmanuel_2m/status/2075000114427375742)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4267,10 +4267,10 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 - **المؤلف:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **المصدر:** [المصدر](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/emmanuel_2m/status/2075000101362131350)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4314,10 +4314,10 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **المؤلف:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **المصدر:** [المصدر](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
-**[استخدم هذه التعليمة](https://x.com/Arminn_Ai/status/2074959192096457130)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4350,10 +4350,10 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 - **المؤلف:** [@liyue_ai](https://x.com/liyue_ai)
 - **المصدر:** [المصدر](https://x.com/liyue_ai/status/2074890690686005590)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** zh
 
-**[استخدم هذه التعليمة](https://x.com/liyue_ai/status/2074890690686005590)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4385,10 +4385,10 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 - **المؤلف:** [@roco_kn_roco](https://x.com/roco_kn_roco)
 - **المصدر:** [المصدر](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **تاريخ النشر:** ٨ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** ja-JP
 
-**[استخدم هذه التعليمة](https://x.com/roco_kn_roco/status/2074890020260094137)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4440,7 +4440,7 @@ A source-backed evaluation from the original public X post, demonstrating chengd
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** zh
 
-**[استخدم هذه التعليمة](https://x.com/DeepBlueAIX/status/2074872447229419956)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4485,7 +4485,7 @@ A detailed public Chinese same-prompt comparison for a realistic 16:9 in-car sel
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** zh
 
-**[استخدم هذه التعليمة](https://x.com/johnAGI168/status/2074870910469677387)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4523,7 +4523,7 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 - **تاريخ النشر:** ٨ يوليو ٢٠٢٦
 - **اللغات:** zh
 
-**[استخدم هذه التعليمة](https://x.com/op7418/status/2074862226905948549)**
+**[استخدم هذه التعليمة](https://imaginevid.io/ar/seedream-5-pro)**
 
 ---
 
@@ -4583,10 +4583,10 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 <div align="center">
 
-**[عرض المجموعة المنسقة](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)** •
+**[عرض المجموعة المنسقة](https://imaginevid.io/ar/seedream-5-pro)** •
 **[إرسال تعليمة](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمستودع](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-09T23:40:04.785Z</sub>
+<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-09T23:43:15.870Z</sub>
 
 </div>

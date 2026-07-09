@@ -27,7 +27,7 @@
 
 ## Vezi colecția curatoriată
 
-**[Răsfoiește colecția de prompturi ImagineVid Seedream 5 Pro](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+**[Răsfoiește colecția de prompturi ImagineVid Seedream 5 Pro](https://imaginevid.io/seedream-5-pro)**
 
 De ce să folosești această colecție?
 
@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Total prompturi | **113** |
 | Recomandat | **10** |
-| Ultima actualizare | **joi, 9 iulie 2026 la 23:40:04 UTC** |
+| Ultima actualizare | **joi, 9 iulie 2026 la 23:43:16 UTC** |
 
 </div>
 
@@ -141,7 +141,7 @@ Create a hard sci-fi movie still titled AIRLOCK. Frame one white EVA-suit astron
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/karim_yourself/status/2075165434827989207)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -179,7 +179,7 @@ Generate a 1970s European romantic-drama still set inside a tense private moment
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/UnityEagle/status/2075191214601572606)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -212,10 +212,10 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Autor:** [@characternexus](https://x.com/characternexus)
 - **Sursă:** [Sursă](https://x.com/characternexus/status/2074920654751592583)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/characternexus/status/2074920654751592583)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -251,7 +251,7 @@ Frame a folk-horror film still from an extreme low angle inside dense wheat. Let
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/karim_yourself/status/2075165437856264581)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -290,7 +290,7 @@ Create a premium sports refreshment campaign image on a locker-room floor or ben
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/bmx_ai13/status/2075082266695582012)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -362,7 +362,7 @@ Source: [Source](https://x.com/AiwithZohaib/status/2074880584107909602)
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/marmaduke091/status/2074866077499105416)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -399,7 +399,7 @@ Create a {argument name="aspect_ratio" default="16:9"} full-bleed editorial acti
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/AI__TSUBAKI/status/2075128188964159539)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -436,7 +436,7 @@ Use the uploaded image as the locked base. Edit exactly the marked area and pres
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/BytePlusGlobal/status/2074878817458606402)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -472,7 +472,7 @@ Create a complex information visualization that combines one diagram, one small 
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/BytePlusGlobal/status/2074878820122005880)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -508,7 +508,7 @@ Generate a localized campaign asset directly in the target language. Respect the
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/BytePlusGlobal/status/2074878830695850276)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -556,10 +556,10 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Autor:** [@asheem01](https://x.com/asheem01)
 - **Sursă:** [Sursă](https://x.com/asheem01/status/2074941260863811644)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/asheem01/status/2074941260863811644)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -593,10 +593,10 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Autor:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Sursă:** [Sursă](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/ZariaTechAI/status/2074909390650634560)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -632,7 +632,7 @@ Start from a rough product sketch or reference collage. Preserve the original si
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/capcutapp/status/2075230628786970765)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -668,7 +668,7 @@ Use the existing poster or product mockup as the base. Change only the selected 
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/fal/status/2074846830198722944)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -701,10 +701,10 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Autor:** [@krea_ai](https://x.com/krea_ai)
 - **Sursă:** [Sursă](https://x.com/krea_ai/status/2074891481832456638)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/krea_ai/status/2074891481832456638)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -741,7 +741,7 @@ Use the uploaded character silhouette and surface contours as the shape referenc
 - **Publicat:** 9 iulie 2026
 - **Limbi:** ja
 
-**[Folosește acest prompt](https://x.com/TlanoAI/status/2075024241284837875)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -776,7 +776,7 @@ Create a design concept that can be separated into editable layers: background, 
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/bdsqlsz/status/2074854144469238254)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -812,7 +812,7 @@ Use the base visual as a production mockup. Perform a precise region edit, then 
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/morphic/status/2074851991466205431)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -845,10 +845,10 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Autor:** [@runwayml](https://x.com/runwayml)
 - **Sursă:** [Sursă](https://x.com/runwayml/status/2074982268175630814)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/runwayml/status/2074982268175630814)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -882,10 +882,10 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Autor:** [@filodyprincess](https://x.com/filodyprincess)
 - **Sursă:** [Sursă](https://x.com/filodyprincess/status/2074916756452483224)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/filodyprincess/status/2074916756452483224)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -922,7 +922,7 @@ Start from a normal street still with markup notes. Transform the scene into a r
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/HarshBisen143/status/2074865604029550886)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -958,10 +958,10 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Autor:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Sursă:** [Sursă](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/techxsarfraj/status/2074893823029998052)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -994,10 +994,10 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **Autor:** [@asheem01](https://x.com/asheem01)
 - **Sursă:** [Sursă](https://x.com/asheem01/status/2075324671214403879)
-- **Publicat:** 9 iulie 2026
+- **Publicat:** 10 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/asheem01/status/2075324671214403879)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1035,7 +1035,7 @@ Using the provided dragon head or partial-body reference, create a full-body cha
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/JossMonzoni/status/2075245480108257448)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1072,7 +1072,7 @@ A source-backed tutorial from the original public X post, demonstrating japanese
 - **Publicat:** 9 iulie 2026
 - **Limbi:** ja-JP
 
-**[Folosește acest prompt](https://x.com/renataro9/status/2075059699112652908)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1120,7 +1120,7 @@ A source-backed tutorial from the original public X post, demonstrating localize
 - **Publicat:** 9 iulie 2026
 - **Limbi:** ja-JP
 
-**[Folosește acest prompt](https://x.com/haruuraeadss/status/2075035201391255593)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1157,7 +1157,7 @@ a pic of my cat, asked for a mecha version
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/JennyAITech/status/2074870477651398972)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1205,10 +1205,10 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Autor:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Sursă:** [Sursă](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/ahmetmertugrul/status/2074914214074872162)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1244,7 +1244,7 @@ Create a production-ready enterprise visual asset for {argument name="industry" 
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/BytePlusGlobal/status/2074851378879668708)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1279,7 +1279,7 @@ Create the same clean campaign infographic in 14 language variants. Keep the lay
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/magnific/status/2074843521853636609)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1314,7 +1314,7 @@ Design a workplace safety poster template, then render it in five languages whil
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Echoes999Y/status/2074870172230484301)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1353,7 +1353,7 @@ Create a landing-page hero mockup by transferring a supplied visual style into a
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/OpenDesignHQ/status/2075191289750937758)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1403,7 +1403,7 @@ Source: [Source](https://x.com/Strength04_X/status/2075063250656621054)
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Strength04_X/status/2075063250656621054)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1441,7 +1441,7 @@ Create a set of data-dense visual panels: a global supply chain dashboard, a qua
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/rovvmut_/status/2075194313752088727)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1476,7 +1476,7 @@ Design an authentic Spanish-language classroom infographic explaining a traditio
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/ItsMaryAI/status/2075014028586524836)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1511,10 +1511,10 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Autor:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Sursă:** [Sursă](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/ThinkerSilentH/status/2074940762861814235)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1546,10 +1546,10 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Autor:** [@JameFalken](https://x.com/JameFalken)
 - **Sursă:** [Sursă](https://x.com/JameFalken/status/2074959430374867438)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/JameFalken/status/2074959430374867438)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1585,7 +1585,7 @@ Create a dense text-rich infographic from a rough sketch. Follow the sketch stru
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/higgsfield/status/2074866864128430179)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1620,7 +1620,7 @@ Design a realistic delivery receipt with merchant name, order number, itemized r
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/noorwithwifi/status/2074872194858205529)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1653,10 +1653,10 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Autor:** [@westkast](https://x.com/westkast)
 - **Sursă:** [Sursă](https://x.com/westkast/status/2075250137698324850)
-- **Publicat:** 9 iulie 2026
+- **Publicat:** 10 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/westkast/status/2075250137698324850)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1694,7 +1694,7 @@ Create an editorial fashion moodboard in the visual style OVERDOSE GOLD. Use a c
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/shikoba_86/status/2075248011525910944)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1730,7 +1730,7 @@ Design two premium Arabic technology posters for Seedream 5 Pro. Use a dark cine
 - **Publicat:** 9 iulie 2026
 - **Limbi:** ar
 
-**[Folosește acest prompt](https://x.com/aziz4ai/status/2075242994102419920)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1774,7 +1774,7 @@ A detailed public prompt tested with both GPT Image and Seedream 5.0 Pro, focuse
 - **Publicat:** 9 iulie 2026
 - **Limbi:** zh-TW
 
-**[Folosește acest prompt](https://x.com/KishenArt/status/2075090846412927134)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1818,7 +1818,7 @@ Use a premium blue color palette with turquoise gradients, high-end sports brand
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/iamrealsnow/status/2075063569486598281)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1857,7 +1857,7 @@ Semi-transparent glassy spheres with grid textures overlap the foreground, creat
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/ComfyUI/status/2075027793491226677)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1892,7 +1892,7 @@ a full trading terminal — K-lines, order book, bid/ask, volume, timestamps
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/MishikaAI/status/2074879603446026333)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1931,10 +1931,10 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Autor:** [@al_tools43377](https://x.com/al_tools43377)
 - **Sursă:** [Sursă](https://x.com/al_tools43377/status/2074971603054502365)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/al_tools43377/status/2074971603054502365)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -1969,7 +1969,7 @@ Generate a realistic 1960s Havana documentary still as the first frame for video
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/techhalla/status/2075170093626011858)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2026,10 +2026,10 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 - **Autor:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Sursă:** [Sursă](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2066,7 +2066,7 @@ Create an exploded technical diagram of a compact high-end AI camera module, eve
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Ciri_ai/status/2075248022515294567)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2114,7 +2114,7 @@ Create a wide exterior noir shot of a lonely roadside diner during heavy night r
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/karim_yourself/status/2075165441236803971)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2149,7 +2149,7 @@ Build a fantasy film still titled The Sun Throne. Place a bowed supplicant in so
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/karim_yourself/status/2075165447490535486)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2184,7 +2184,7 @@ Create a survival film still in a total snow whiteout. Reduce the mountaineer to
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/karim_yourself/status/2075165459993784441)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2219,7 +2219,7 @@ Photograph a relaxed adult woman leaning against a kitchen counter in a lived-in
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Digitalwindai/status/2075222988106932645)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2254,7 +2254,7 @@ Create a 1916 Western Front film still at dawn. Show an exhausted young soldier 
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Digitalwindai/status/2075222992515125388)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2289,7 +2289,7 @@ Create an epic Japanese anime key visual of a sorceress mid-incantation. Use a l
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Digitalwindai/status/2075223017127383054)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2339,7 +2339,7 @@ Source: [Source](https://x.com/mattworkman/status/2074850550349222210)
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/mattworkman/status/2074850550349222210)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2374,7 +2374,7 @@ Create an extreme noir close-up in near-total darkness. Let a cigarette ember gl
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/karim_yourself/status/2075165444453876197)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2409,7 +2409,7 @@ Frame a tense courtroom witness in tight portrait. Half-light the face with a ha
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/karim_yourself/status/2075165450674069946)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2444,7 +2444,7 @@ Create a cramped mob-drama kitchen still. Steam rises from a pot of sauce while 
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/karim_yourself/status/2075165453568053713)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2479,7 +2479,7 @@ Compose a wide shot of a cramped family kitchen table crowded with plates. Place
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/karim_yourself/status/2075165456822882498)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2514,7 +2514,7 @@ Design a cinematic portrait of an aristocratic alien diplomat with pale lavender
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/karim_yourself/status/2075165463009501682)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2549,7 +2549,7 @@ Create a close character portrait with very pale skin, light eyes, and an entire
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/karim_yourself/status/2075165466041925663)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2584,7 +2584,7 @@ Create a cinematic sci-fi action still of a massive humanoid war robot firing an
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Digitalwindai/status/2075223008038261027)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2619,7 +2619,7 @@ Make a medium-format close portrait of a young European woman with copper-red ha
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Digitalwindai/status/2075223012589085119)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2654,7 +2654,7 @@ Create a wide low-angle magical-realist film still of an old fisherman kneeling 
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Digitalwindai/status/2075223026656854053)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2689,7 +2689,7 @@ Create a bleach-bypass thriller still with harsh desaturated contrast, blown hig
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Digitalwindai/status/2075223035406070068)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2725,7 +2725,7 @@ Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. 
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/madpencil_/status/2075248453173858556)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2760,7 +2760,7 @@ Generate a master-level traditional ink artwork of a mythic crane and pine tree 
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/renoiseai/status/2075247860770357248)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2795,7 +2795,7 @@ Create a delicate pancake angel character sitting on a stack of fluffy pancakes,
 - **Publicat:** 9 iulie 2026
 - **Limbi:** ja
 
-**[Folosește acest prompt](https://x.com/ayumi_t820/status/2075239907006832996)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2831,7 +2831,7 @@ Generate a paired anime character study of the same young adventurer in two emot
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/stargliderbr/status/2075233749805957188)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2866,7 +2866,7 @@ Create a magical realist portrait titled The Cloud Maker. Show a solitary figure
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/higginswerx/status/2075226897085243767)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2912,7 +2912,7 @@ Camera feel: taken by a friend standing in front of her with a smartphone, using
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/underwoodxie96/status/2075140186992939103)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2950,7 +2950,7 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/ChillaiKalan__/status/2075071088137208063)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -2986,7 +2986,7 @@ A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid compos
 - **Publicat:** 9 iulie 2026
 - **Limbi:** zh
 
-**[Folosește acest prompt](https://x.com/DeepBlueAIX/status/2075062633666089004)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3034,7 +3034,7 @@ A girl with a sharp bob cut, purple hair with black accent strands, stylized lay
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/asatoucan/status/2075060881067769903)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3081,7 +3081,7 @@ A teenager stands behind a metal chain-link fence in a grassy outdoor area. She 
 - **Publicat:** 9 iulie 2026
 - **Limbi:** zh
 
-**[Folosește acest prompt](https://x.com/df_reno/status/2075055332452106476)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3119,7 +3119,7 @@ A beautiful young Japanese woman, natural and effortless beauty, soft glowing sk
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Cia0_exe/status/2075033845032993261)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3158,7 +3158,7 @@ The layout is filled with clean blocks of small white placeholder body text and 
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/ComfyUI/status/2075027810666914062)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3191,10 +3191,10 @@ world's landmarks, melting like wax
 
 - **Autor:** [@magnific](https://x.com/magnific)
 - **Sursă:** [Sursă](https://x.com/magnific/status/2074918700709523881)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/magnific/status/2074918700709523881)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3226,10 +3226,10 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 - **Autor:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **Sursă:** [Sursă](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/SimplyAnnisa/status/2074900816662774189)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3269,7 +3269,7 @@ Unretouched natural photograph, shot on cinema camera with subtle halation, fine
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/magnific/status/2074872903938846900)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3327,7 +3327,7 @@ Source: [Source](https://x.com/OpenDesignHQ/status/2075191300366733710)
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/BubbleBrain/status/2074856963591290979)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3368,7 +3368,7 @@ Render a massive capital-class spaceship orbiting a fictional alien planet. Use 
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Digitalwindai/status/2075222996810145816)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3403,7 +3403,7 @@ Design a wide anime establishing shot of ancient temple islands floating above a
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Digitalwindai/status/2075223022089154792)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3438,7 +3438,7 @@ Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray 
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/karim_yourself/status/2075165469107949677)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3473,7 +3473,7 @@ Render a dense neon-noir dystopian city skyline at night from a high 24mm vantag
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Digitalwindai/status/2075223031085957564)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3509,7 +3509,7 @@ Create a parametric architectural infographic for a famous landmark. Combine a c
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/ZaraIrahh/status/2075118336783089710)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3544,7 +3544,7 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/diffractstudio/status/2075029719490195858)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3576,10 +3576,10 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **Autor:** [@Zubnet](https://x.com/Zubnet)
 - **Sursă:** [Sursă](https://x.com/Zubnet/status/2075295691652415799)
-- **Publicat:** 9 iulie 2026
+- **Publicat:** 10 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Zubnet/status/2075295691652415799)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3625,10 +3625,10 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **Autor:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **Sursă:** [Sursă](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **Publicat:** 9 iulie 2026
+- **Publicat:** 10 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/itsPixieVerse/status/2075253671177404932)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3676,7 +3676,7 @@ A mountain village built on impossibly tall stone pillars extends far above Eart
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/AllaAisling/status/2075036565147906511)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3708,10 +3708,10 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 - **Autor:** [@ashen_one](https://x.com/ashen_one)
 - **Sursă:** [Sursă](https://x.com/ashen_one/status/2074915677815886071)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/ashen_one/status/2074915677815886071)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3749,7 +3749,7 @@ design a bedroom for each MBTI type
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/FloraTechAI/status/2074866317484794131)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3797,7 +3797,7 @@ Design a full-body character sheet for a male creator in avant-garde streetwear.
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Boluwatifeolad7/status/2075191098184442310)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3845,10 +3845,10 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 - **Autor:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Sursă:** [Sursă](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Bic_Revelation/status/2074959714366922857)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3887,7 +3887,7 @@ Use the uploaded portrait as the identity anchor. Change only the makeup: add re
 - **Publicat:** 8 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/SeharShinwari/status/2074879382326526377)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3922,10 +3922,10 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Autor:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Sursă:** [Sursă](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Publicat:** 9 iulie 2026
+- **Publicat:** 10 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Chain_Loader/status/2075251821342503352)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -3961,7 +3961,7 @@ Change the painting.
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/abdoul94_/status/2075229273179279409)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4005,7 +4005,7 @@ A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro
 - **Publicat:** 9 iulie 2026
 - **Limbi:** zh
 
-**[Folosește acest prompt](https://x.com/johnAGI168/status/2075228822887157932)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4043,7 +4043,7 @@ Character design sheet, full body turnaround, 23-year-old tall lean male creator
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Boluwatifeolad7/status/2075228499653079138)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4080,7 +4080,7 @@ Create a clean three-panel comparison board for the same visual prompt across th
 - **Publicat:** 9 iulie 2026
 - **Limbi:** zh
 
-**[Folosește acest prompt](https://x.com/lukfan/status/2075219606617346357)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4115,7 +4115,7 @@ A public same-prompt Seedream 5 Pro comparison prompt recreating the imperfect e
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/magnific/status/2075103712448831774)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4154,7 +4154,7 @@ A source-backed evaluation from the original public X post, demonstrating refere
 - **Publicat:** 9 iulie 2026
 - **Limbi:** ja-JP
 
-**[Folosește acest prompt](https://x.com/hasamaru_studio/status/2075052934409375918)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4198,7 +4198,7 @@ Natural skin texture with soft luminosity, gentle sheen on nose and lips, crisp 
 - **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/cso6709/status/2075046425277399261)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4231,10 +4231,10 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 - **Autor:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **Sursă:** [Sursă](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/emmanuel_2m/status/2075000114427375742)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4267,10 +4267,10 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 - **Autor:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **Sursă:** [Sursă](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/emmanuel_2m/status/2075000101362131350)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4314,10 +4314,10 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **Autor:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **Sursă:** [Sursă](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
-**[Folosește acest prompt](https://x.com/Arminn_Ai/status/2074959192096457130)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4350,10 +4350,10 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 - **Autor:** [@liyue_ai](https://x.com/liyue_ai)
 - **Sursă:** [Sursă](https://x.com/liyue_ai/status/2074890690686005590)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** zh
 
-**[Folosește acest prompt](https://x.com/liyue_ai/status/2074890690686005590)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4385,10 +4385,10 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 - **Autor:** [@roco_kn_roco](https://x.com/roco_kn_roco)
 - **Sursă:** [Sursă](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **Publicat:** 8 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** ja-JP
 
-**[Folosește acest prompt](https://x.com/roco_kn_roco/status/2074890020260094137)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4440,7 +4440,7 @@ A source-backed evaluation from the original public X post, demonstrating chengd
 - **Publicat:** 8 iulie 2026
 - **Limbi:** zh
 
-**[Folosește acest prompt](https://x.com/DeepBlueAIX/status/2074872447229419956)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4485,7 +4485,7 @@ A detailed public Chinese same-prompt comparison for a realistic 16:9 in-car sel
 - **Publicat:** 8 iulie 2026
 - **Limbi:** zh
 
-**[Folosește acest prompt](https://x.com/johnAGI168/status/2074870910469677387)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4523,7 +4523,7 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 - **Publicat:** 8 iulie 2026
 - **Limbi:** zh
 
-**[Folosește acest prompt](https://x.com/op7418/status/2074862226905948549)**
+**[Folosește acest prompt](https://imaginevid.io/seedream-5-pro)**
 
 ---
 
@@ -4583,10 +4583,10 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 <div align="center">
 
-**[Vezi colecția curatoriată](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)** •
+**[Vezi colecția curatoriată](https://imaginevid.io/seedream-5-pro)** •
 **[Trimite un prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dă Star acestui repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T23:40:04.966Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T23:43:16.139Z</sub>
 
 </div>

@@ -75,6 +75,32 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
 const MAX_REGULAR_PROMPTS_TO_DISPLAY = 120;
 const REPO = "imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills";
 const REPO_URL = `https://github.com/${REPO}`;
+const SEEDREAM_PRODUCT_URL = "https://imaginevid.io/seedream-5-pro";
+const IMAGINEVID_LOCALE_BY_README: Record<string, string> = {
+  "ar-SA": "ar",
+  "de-DE": "de",
+  "es-419": "es",
+  "es-ES": "es",
+  "fr-FR": "fr",
+  "it-IT": "it",
+  "ja-JP": "ja",
+  "ko-KR": "ko",
+  "nl-NL": "nl",
+  "pl-PL": "pl",
+  "pt-BR": "pt",
+  "pt-PT": "pt",
+  "ru-RU": "ru",
+  "tr-TR": "tr",
+  zh: "zh",
+  "zh-TW": "zh",
+};
+
+export function getSeedreamProductUrl(locale: string): string {
+  const productLocale = IMAGINEVID_LOCALE_BY_README[locale];
+  return productLocale
+    ? `https://imaginevid.io/${productLocale}/seedream-5-pro`
+    : SEEDREAM_PRODUCT_URL;
+}
 
 function cleanPromptContent(content: string): string {
   if (!content) return content;
@@ -154,7 +180,7 @@ function generateLanguageNavigation(currentLocale: string): string {
 function generateCollectionCTA(categories: FilterCategory[], locale: string): string {
   let md = `## ${t("viewInGallery", locale)}
 
-**[${t("browseGallery", locale)}](${REPO_URL})**
+**[${t("browseGallery", locale)}](${getSeedreamProductUrl(locale)})**
 
 ${t("galleryFeatures", locale)}
 
@@ -254,7 +280,7 @@ function generatePromptSection(
   }
   md += `- **${t("published", locale)}:** ${publishedDate}\n`;
   md += `- **${t("languages", locale)}:** ${prompt.language}\n\n`;
-  md += `**[${t("tryItNow", locale)}](${prompt.sourceLink || REPO_URL})**\n\n`;
+  md += `**[${t("tryItNow", locale)}](${getSeedreamProductUrl(locale)})**\n\n`;
   md += "---\n\n";
 
   return md;
@@ -471,7 +497,7 @@ ${t("whatIsIntro", contentLocale)}
 - ${t("preciseControl", contentLocale)}
 - ${t("complexScenes", contentLocale)}
 
-**${sourceLabel}:** [Seedream 5 Pro on ImagineVid](https://imaginevid.io/seedream-5-pro) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
+**${sourceLabel}:** [Seedream 5 Pro on ImagineVid](${getSeedreamProductUrl(locale)}) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
 
 ### ${t("raycastIntegration", locale)}
 
@@ -538,7 +564,7 @@ ${creatorCredits}
 
 <div align="center">
 
-**[${t("viewInGallery", locale)}](${REPO_URL})** •
+**[${t("viewInGallery", locale)}](${getSeedreamProductUrl(locale)})** •
 **[${t("submitPrompt", locale)}](https://github.com/${REPO}/issues/new?template=submit-prompt.yml)** •
 **[${t("starRepo", locale)}](${REPO_URL})**
 
