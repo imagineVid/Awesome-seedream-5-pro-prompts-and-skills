@@ -416,7 +416,7 @@ Group the multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Total Prompts | **113** |
 | Featured | **10** |
-| Last Updated | **Thursday, July 9, 2026 at 10:56:22 PM UTC** |
+| Last Updated | **Thursday, July 9, 2026 at 10:58:36 PM UTC** |
 
 </div>
 
@@ -523,7 +523,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Author:** [@characternexus](https://x.com/characternexus)
 - **Source:** [Source](https://x.com/characternexus/status/2074920654751592583)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/characternexus/status/2074920654751592583)**
@@ -877,7 +877,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Author:** [@asheem01](https://x.com/asheem01)
 - **Source:** [Source](https://x.com/asheem01/status/2074941260863811644)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/asheem01/status/2074941260863811644)**
@@ -926,7 +926,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 - **Author:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Source:** [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -1224,7 +1224,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Author:** [@al_tools43377](https://x.com/al_tools43377)
 - **Source:** [Source](https://x.com/al_tools43377/status/2074971603054502365)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1260,7 +1260,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Author:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Source:** [Source](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1295,7 +1295,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Author:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Source:** [Source](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1397,7 +1397,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Author:** [@krea_ai](https://x.com/krea_ai)
 - **Source:** [Source](https://x.com/krea_ai/status/2074891481832456638)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/krea_ai/status/2074891481832456638)**
@@ -2186,7 +2186,7 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 - **Author:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Source:** [Source](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2328,7 +2328,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Author:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Source:** [Source](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2361,7 +2361,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Author:** [@JameFalken](https://x.com/JameFalken)
 - **Source:** [Source](https://x.com/JameFalken/status/2074959430374867438)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2496,7 +2496,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Author:** [@runwayml](https://x.com/runwayml)
 - **Source:** [Source](https://x.com/runwayml/status/2074982268175630814)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/runwayml/status/2074982268175630814)**
@@ -2564,7 +2564,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Author:** [@filodyprincess](https://x.com/filodyprincess)
 - **Source:** [Source](https://x.com/filodyprincess/status/2074916756452483224)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2636,7 +2636,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Author:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Source:** [Source](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2703,7 +2703,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **Author:** [@asheem01](https://x.com/asheem01)
 - **Source:** [Source](https://x.com/asheem01/status/2075324671214403879)
-- **Published:** July 10, 2026
+- **Published:** July 9, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/asheem01/status/2075324671214403879)**
@@ -2736,7 +2736,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **Author:** [@Zubnet](https://x.com/Zubnet)
 - **Source:** [Source](https://x.com/Zubnet/status/2075295691652415799)
-- **Published:** July 10, 2026
+- **Published:** July 9, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/Zubnet/status/2075295691652415799)**
@@ -2783,7 +2783,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **Author:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **Source:** [Source](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **Published:** July 10, 2026
+- **Published:** July 9, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -2819,7 +2819,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Author:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Source:** [Source](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Published:** July 10, 2026
+- **Published:** July 9, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2853,7 +2853,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Author:** [@westkast](https://x.com/westkast)
 - **Source:** [Source](https://x.com/westkast/status/2075250137698324850)
-- **Published:** July 10, 2026
+- **Published:** July 9, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/westkast/status/2075250137698324850)**
@@ -3980,7 +3980,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 - **Author:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **Source:** [Source](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/emmanuel_2m/status/2075000114427375742)**
@@ -4014,7 +4014,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 - **Author:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **Source:** [Source](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/emmanuel_2m/status/2075000101362131350)**
@@ -4059,7 +4059,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **Author:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **Source:** [Source](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -4093,7 +4093,7 @@ world's landmarks, melting like wax
 
 - **Author:** [@magnific](https://x.com/magnific)
 - **Source:** [Source](https://x.com/magnific/status/2074918700709523881)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/magnific/status/2074918700709523881)**
@@ -4126,7 +4126,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 - **Author:** [@ashen_one](https://x.com/ashen_one)
 - **Source:** [Source](https://x.com/ashen_one/status/2074915677815886071)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/ashen_one/status/2074915677815886071)**
@@ -4159,7 +4159,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 - **Author:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **Source:** [Source](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt](https://x.com/SimplyAnnisa/status/2074900816662774189)**
@@ -4193,7 +4193,7 @@ A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, dem
 
 - **Author:** [@liyue_ai](https://x.com/liyue_ai)
 - **Source:** [Source](https://x.com/liyue_ai/status/2074890690686005590)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** zh
 
 **[Use this prompt](https://x.com/liyue_ai/status/2074890690686005590)**
@@ -4226,7 +4226,7 @@ A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, dem
 
 - **Author:** [@roco_kn_roco](https://x.com/roco_kn_roco)
 - **Source:** [Source](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **Published:** July 9, 2026
+- **Published:** July 8, 2026
 - **Languages:** ja-JP
 
 **[Use this prompt](https://x.com/roco_kn_roco/status/2074890020260094137)**
@@ -4623,6 +4623,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star this repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T22:56:22.583Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T22:58:37.652Z</sub>
 
 </div>

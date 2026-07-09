@@ -396,7 +396,7 @@ Precisely cut out the objects from my seven white-background reference photos an
 |--------|-------|
 | 총 프롬프트 | **113** |
 | 추천 | **10** |
-| 마지막 업데이트 | **2026년 7월 9일 목요일 PM 10시 56분 22초 UTC** |
+| 마지막 업데이트 | **2026년 7월 9일 목요일 오후 10시 58분 37초 UTC** |
 
 </div>
 
@@ -503,7 +503,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **작성자:** [@characternexus](https://x.com/characternexus)
 - **출처:** [출처](https://x.com/characternexus/status/2074920654751592583)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/characternexus/status/2074920654751592583)**
@@ -857,7 +857,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **작성자:** [@asheem01](https://x.com/asheem01)
 - **출처:** [출처](https://x.com/asheem01/status/2074941260863811644)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/asheem01/status/2074941260863811644)**
@@ -906,7 +906,7 @@ With its crystal-clear waters, white sandy beaches, and vibrant coral reefs, the
 
 - **작성자:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **출처:** [출처](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -1204,7 +1204,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **작성자:** [@al_tools43377](https://x.com/al_tools43377)
 - **출처:** [출처](https://x.com/al_tools43377/status/2074971603054502365)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1240,7 +1240,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **작성자:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **출처:** [출처](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1275,7 +1275,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **작성자:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **출처:** [출처](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1377,7 +1377,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **작성자:** [@krea_ai](https://x.com/krea_ai)
 - **출처:** [출처](https://x.com/krea_ai/status/2074891481832456638)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/krea_ai/status/2074891481832456638)**
@@ -2166,7 +2166,7 @@ a shot list — panel-by-panel direction, camera moves, grayscale spec
 
 - **작성자:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **출처:** [출처](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2308,7 +2308,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **작성자:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **출처:** [출처](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2341,7 +2341,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **작성자:** [@JameFalken](https://x.com/JameFalken)
 - **출처:** [출처](https://x.com/JameFalken/status/2074959430374867438)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2476,7 +2476,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **작성자:** [@runwayml](https://x.com/runwayml)
 - **출처:** [출처](https://x.com/runwayml/status/2074982268175630814)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/runwayml/status/2074982268175630814)**
@@ -2544,7 +2544,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **작성자:** [@filodyprincess](https://x.com/filodyprincess)
 - **출처:** [출처](https://x.com/filodyprincess/status/2074916756452483224)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2616,7 +2616,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **작성자:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **출처:** [출처](https://x.com/techxsarfraj/status/2074893823029998052)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2683,7 +2683,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **작성자:** [@asheem01](https://x.com/asheem01)
 - **출처:** [출처](https://x.com/asheem01/status/2075324671214403879)
-- **게시일:** 2026년 7월 10일
+- **게시일:** 2026년 7월 9일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/asheem01/status/2075324671214403879)**
@@ -2716,7 +2716,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **작성자:** [@Zubnet](https://x.com/Zubnet)
 - **출처:** [출처](https://x.com/Zubnet/status/2075295691652415799)
-- **게시일:** 2026년 7월 10일
+- **게시일:** 2026년 7월 9일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/Zubnet/status/2075295691652415799)**
@@ -2763,7 +2763,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **작성자:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **출처:** [출처](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **게시일:** 2026년 7월 10일
+- **게시일:** 2026년 7월 9일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -2799,7 +2799,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **작성자:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **출처:** [출처](https://x.com/Chain_Loader/status/2075251821342503352)
-- **게시일:** 2026년 7월 10일
+- **게시일:** 2026년 7월 9일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2833,7 +2833,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **작성자:** [@westkast](https://x.com/westkast)
 - **출처:** [출처](https://x.com/westkast/status/2075250137698324850)
-- **게시일:** 2026년 7월 10일
+- **게시일:** 2026년 7월 9일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/westkast/status/2075250137698324850)**
@@ -3960,7 +3960,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 - **작성자:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **출처:** [출처](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/emmanuel_2m/status/2075000114427375742)**
@@ -3994,7 +3994,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 - **작성자:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **출처:** [출처](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/emmanuel_2m/status/2075000101362131350)**
@@ -4039,7 +4039,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **작성자:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **출처:** [출처](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -4073,7 +4073,7 @@ world's landmarks, melting like wax
 
 - **작성자:** [@magnific](https://x.com/magnific)
 - **출처:** [출처](https://x.com/magnific/status/2074918700709523881)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/magnific/status/2074918700709523881)**
@@ -4106,7 +4106,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 - **작성자:** [@ashen_one](https://x.com/ashen_one)
 - **출처:** [출처](https://x.com/ashen_one/status/2074915677815886071)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/ashen_one/status/2074915677815886071)**
@@ -4139,7 +4139,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 - **작성자:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **출처:** [출처](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/SimplyAnnisa/status/2074900816662774189)**
@@ -4173,7 +4173,7 @@ A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, dem
 
 - **작성자:** [@liyue_ai](https://x.com/liyue_ai)
 - **출처:** [출처](https://x.com/liyue_ai/status/2074890690686005590)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** zh
 
 **[이 프롬프트 사용](https://x.com/liyue_ai/status/2074890690686005590)**
@@ -4206,7 +4206,7 @@ A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, dem
 
 - **작성자:** [@roco_kn_roco](https://x.com/roco_kn_roco)
 - **출처:** [출처](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **게시일:** 2026년 7월 9일
+- **게시일:** 2026년 7월 8일
 - **언어:** ja-JP
 
 **[이 프롬프트 사용](https://x.com/roco_kn_roco/status/2074890020260094137)**
@@ -4603,6 +4603,6 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 **[프롬프트 제출](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[저장소에 Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-09T22:56:22.615Z</sub>
+<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-09T22:58:37.913Z</sub>
 
 </div>

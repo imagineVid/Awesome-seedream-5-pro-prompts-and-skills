@@ -396,7 +396,7 @@ Precisely cut out the objects from my seven white-background reference photos an
 |--------|-------|
 | ಒಟ್ಟು prompts | **113** |
 | Featured | **10** |
-| ಕೊನೆಯ ಅಪ್ಡೇಟ್ | **ಗುರುವಾರ, ಜುಲೈ 9, 2026 ರಂದು 10:56:22 PM UTC ಸಮಯಕ್ಕೆ** |
+| ಕೊನೆಯ ಅಪ್ಡೇಟ್ | **ಗುರುವಾರ, ಜುಲೈ 9, 2026 ರಂದು 10:58:38 PM UTC ಸಮಯಕ್ಕೆ** |
 
 </div>
 
@@ -503,7 +503,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **ಲೇಖಕ:** [@characternexus](https://x.com/characternexus)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/characternexus/status/2074920654751592583)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/characternexus/status/2074920654751592583)**
@@ -857,7 +857,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **ಲೇಖಕ:** [@asheem01](https://x.com/asheem01)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/asheem01/status/2074941260863811644)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/asheem01/status/2074941260863811644)**
@@ -906,7 +906,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 - **ಲೇಖಕ:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -1204,7 +1204,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **ಲೇಖಕ:** [@al_tools43377](https://x.com/al_tools43377)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/al_tools43377/status/2074971603054502365)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -1240,7 +1240,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **ಲೇಖಕ:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1275,7 +1275,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **ಲೇಖಕ:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -1377,7 +1377,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **ಲೇಖಕ:** [@krea_ai](https://x.com/krea_ai)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/krea_ai/status/2074891481832456638)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/krea_ai/status/2074891481832456638)**
@@ -2166,7 +2166,7 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 - **ಲೇಖಕ:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -2308,7 +2308,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **ಲೇಖಕ:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -2341,7 +2341,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **ಲೇಖಕ:** [@JameFalken](https://x.com/JameFalken)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/JameFalken/status/2074959430374867438)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/JameFalken/status/2074959430374867438)**
@@ -2476,7 +2476,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **ಲೇಖಕ:** [@runwayml](https://x.com/runwayml)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/runwayml/status/2074982268175630814)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/runwayml/status/2074982268175630814)**
@@ -2544,7 +2544,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **ಲೇಖಕ:** [@filodyprincess](https://x.com/filodyprincess)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/filodyprincess/status/2074916756452483224)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -2616,7 +2616,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **ಲೇಖಕ:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/techxsarfraj/status/2074893823029998052)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -2683,7 +2683,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **ಲೇಖಕ:** [@asheem01](https://x.com/asheem01)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/asheem01/status/2075324671214403879)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 10, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/asheem01/status/2075324671214403879)**
@@ -2716,7 +2716,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **ಲೇಖಕ:** [@Zubnet](https://x.com/Zubnet)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/Zubnet/status/2075295691652415799)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 10, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/Zubnet/status/2075295691652415799)**
@@ -2763,7 +2763,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **ಲೇಖಕ:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 10, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -2799,7 +2799,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **ಲೇಖಕ:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/Chain_Loader/status/2075251821342503352)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 10, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2833,7 +2833,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **ಲೇಖಕ:** [@westkast](https://x.com/westkast)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/westkast/status/2075250137698324850)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 10, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/westkast/status/2075250137698324850)**
@@ -3960,7 +3960,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 - **ಲೇಖಕ:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/emmanuel_2m/status/2075000114427375742)**
@@ -3994,7 +3994,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 - **ಲೇಖಕ:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/emmanuel_2m/status/2075000101362131350)**
@@ -4039,7 +4039,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **ಲೇಖಕ:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -4073,7 +4073,7 @@ world's landmarks, melting like wax
 
 - **ಲೇಖಕ:** [@magnific](https://x.com/magnific)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/magnific/status/2074918700709523881)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/magnific/status/2074918700709523881)**
@@ -4106,7 +4106,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 - **ಲೇಖಕ:** [@ashen_one](https://x.com/ashen_one)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/ashen_one/status/2074915677815886071)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/ashen_one/status/2074915677815886071)**
@@ -4139,7 +4139,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 - **ಲೇಖಕ:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/SimplyAnnisa/status/2074900816662774189)**
@@ -4173,7 +4173,7 @@ A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, dem
 
 - **ಲೇಖಕ:** [@liyue_ai](https://x.com/liyue_ai)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/liyue_ai/status/2074890690686005590)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** zh
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/liyue_ai/status/2074890690686005590)**
@@ -4206,7 +4206,7 @@ A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, dem
 
 - **ಲೇಖಕ:** [@roco_kn_roco](https://x.com/roco_kn_roco)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 9, 2026
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** ja-JP
 
 **[ಈ prompt ಬಳಸಿ](https://x.com/roco_kn_roco/status/2074890020260094137)**
@@ -4603,6 +4603,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt submit ಮಾಡಿ](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ಈ repo ಗೆ Star ನೀಡಿ](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T22:56:22.919Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T22:58:38.758Z</sub>
 
 </div>
