@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | סך הפרומפטים | **113** |
 | נבחר | **10** |
-| עודכן לאחרונה | **יום חמישי, 9 ביולי 2026 בשעה 23:55:20 UTC** |
+| עודכן לאחרונה | **יום שישי, 10 ביולי 2026 בשעה 2:28:55 UTC** |
 
 </div>
 
@@ -4587,6 +4587,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[שליחת פרומפט](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[תנו Star לריפו](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T23:55:20.021Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-10T02:28:55.861Z</sub>
 
 </div>
