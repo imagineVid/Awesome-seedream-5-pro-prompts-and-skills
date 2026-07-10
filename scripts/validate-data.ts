@@ -26,6 +26,11 @@ interface StoredPrompt {
   }>;
   sourceLink?: string;
   sourceMedia?: string[];
+  animationPreview?: string;
+  video?: {
+    url?: string;
+    thumbnail?: string;
+  };
   sourceMeta?: {
     tweet_id?: string;
     source?: string;
@@ -139,6 +144,18 @@ function validateStructuralDuplicates(
       errors.push(`Workflow: prompt ${prompt.id} uses an unknown workflow category`);
     } else if (workflowById.get(workflows[0].id || 0)?.slug !== workflows[0].slug) {
       errors.push(`Workflow: prompt ${prompt.id} has a mismatched workflow id and slug`);
+    }
+
+    if (prompt.animationPreview) {
+      const previewPath = path.join(ROOT_DIR, prompt.animationPreview);
+      if (!prompt.animationPreview.startsWith("public/animations/")) {
+        errors.push(`Animation: prompt ${prompt.id} must use a local public/animations asset`);
+      } else if (!fs.existsSync(previewPath) || fs.statSync(previewPath).size === 0) {
+        errors.push(`Animation: prompt ${prompt.id} preview is missing or empty`);
+      }
+    }
+    if (prompt.video?.url && !/^https:\/\/video\.twimg\.com\//.test(prompt.video.url)) {
+      errors.push(`Video: prompt ${prompt.id} must use a direct X video URL`);
     }
   }
 

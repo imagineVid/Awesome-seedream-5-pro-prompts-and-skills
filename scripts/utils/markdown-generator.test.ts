@@ -3,6 +3,7 @@ import test from "node:test";
 import type { Prompt, FilterCategory } from "./cms-client.js";
 import {
   generateMediaTable,
+  generateAnimationPreview,
   generateModelIntroduction,
   getPromptCtaLabel,
   getSeedreamProductUrl,
@@ -30,6 +31,18 @@ test("wraps five images into two table rows without dropping media", () => {
 
   assert.equal((markdown.match(/<tr>/g) || []).length, 2);
   for (const image of images) assert.match(markdown, new RegExp(image));
+});
+
+test("renders a GitHub-compatible animated preview linked to its X source", () => {
+  const markdown = generateAnimationPreview(
+    "public/animations/example-motion.webp",
+    "Example prompt",
+    "https://video.twimg.com/example.mp4"
+  );
+
+  assert.doesNotMatch(markdown, /<video/);
+  assert.match(markdown, /https:\/\/video\.twimg\.com\/example\.mp4/);
+  assert.match(markdown, /public\/animations\/example-motion\.webp/);
 });
 
 test("model introduction is source-backed and distinguishes generation from editing", () => {

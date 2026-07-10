@@ -274,8 +274,21 @@ function generatePromptSection(
   }
 
   if (prompt.sourceMedia && prompt.sourceMedia.length > 0) {
-    md += `${detailHeading} ${t("generatedImages", locale)}\n\n`;
-    md += generateMediaTable(prompt.sourceMedia, prompt.title);
+    if (prompt.video?.url) {
+      md += generateAnimationPreview(
+        prompt.animationPreview || prompt.video.thumbnail || "",
+        prompt.title,
+        prompt.video.url
+      );
+    } else {
+      md += `${detailHeading} ${t("generatedImages", locale)}\n\n`;
+      md += generateMediaTable(prompt.sourceMedia, prompt.title);
+      if (prompt.animationPreview) {
+        md += generateAnimationPreview(prompt.animationPreview, prompt.title);
+      }
+    }
+  } else if (prompt.animationPreview) {
+    md += generateAnimationPreview(prompt.animationPreview, prompt.title);
   }
 
   md += `${detailHeading} ${t("details", locale)}\n\n`;
@@ -439,6 +452,16 @@ export function generateMediaTable(images: string[], title: string): string {
   }
 
   return `<table>\n${rows.join("\n")}\n</table>\n\n`;
+}
+
+export function generateAnimationPreview(
+  url: string,
+  title: string,
+  sourceUrl?: string
+): string {
+  const image = `<img src="${escapeAttribute(url)}" width="100%" alt="${escapeAttribute(title)} - Motion preview">`;
+  const content = sourceUrl ? `<a href="${escapeAttribute(sourceUrl)}">${image}</a>` : image;
+  return `<div align="center">\n${content}\n</div>\n\n`;
 }
 
 function generatePromptVariants(

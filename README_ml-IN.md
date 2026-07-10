@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | ആകെ prompts | **113** |
 | Featured | **10** |
-| അവസാന അപ്ഡേറ്റ് | **2026 ജൂലൈ 10, വെള്ളിയാഴ്‌ച, UTC 4:09:00 AM-ന്** |
+| അവസാന അപ്ഡേറ്റ് | **2026 ജൂലൈ 10, വെള്ളിയാഴ്‌ച, UTC 4:34:32 AM-ന്** |
 
 </div>
 
@@ -421,13 +421,9 @@ A BytePlus official capability thread normalized into a practical prompt skill f
 Use the uploaded image as the locked base. Edit exactly the marked area and preserve everything else: geometry, shadows, background texture, subject identity, and layout. Apply the requested color, material, product, or sketch-guided change only inside the region, then return a production-ready asset with no collateral drift.
 ```
 
-#### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074857777923842048/img/C6W8pXHDpvlnQkNo.jpg" width="100%" alt="Official precise editing control workflow - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074857777923842048/vid/avc1/1280x720/KXa4awduC5vz6QGO.mp4?tag=28"><img src="public/animations/prompt-58-motion.webp" width="100%" alt="Official precise editing control workflow - Motion preview"></a>
+</div>
 
 #### വിവരങ്ങൾ
 
@@ -457,13 +453,9 @@ A BytePlus official capability example normalized into a dense information-desig
 Create a complex information visualization that combines one diagram, one small chart, explanatory labels, icons, and an illustration into a single clear layout. Make the hierarchy obvious, keep the text readable, align every panel to a grid, and avoid decorative clutter that weakens comprehension.
 ```
 
-#### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074858039396749313/img/o-yA1cRnviEaKVQY.jpg" width="100%" alt="Official complex information visualization - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074858039396749313/vid/avc1/1280x720/yLs85cOuUX3ItC7Q.mp4?tag=28"><img src="public/animations/prompt-59-motion.webp" width="100%" alt="Official complex information visualization - Motion preview"></a>
+</div>
 
 #### വിവരങ്ങൾ
 
@@ -493,13 +485,9 @@ A BytePlus official multilingual capability post normalized into a global-market
 Generate a localized campaign asset directly in the target language. Respect the writing system, reading direction, line breaks, punctuation, and local design conventions. Keep the same brand structure across markets while adapting labels, headline length, and composition so the final image feels native rather than translated.
 ```
 
-#### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074858581493743616/img/Go9FvCImntKnogw5.jpg" width="100%" alt="Official native multilingual generation - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074858581493743616/vid/avc1/1280x720/o1wrqX-ohbORtRpU.mp4?tag=28"><img src="public/animations/prompt-60-motion.webp" width="100%" alt="Official native multilingual generation - Motion preview"></a>
+</div>
 
 #### വിവരങ്ങൾ
 
@@ -617,13 +605,9 @@ A Dreamina capability workflow normalized from CapCut’s Seedream 5.0 Pro annou
 Start from a rough product sketch or reference collage. Preserve the original silhouette and intent, then turn it into a polished commercial product visual with clean contours, realistic materials, consistent recoloring, and a simple studio background. Blend any supplied references naturally, edit only the marked regions, and keep unmarked areas stable.
 ```
 
-##### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2075228737575272448/img/Uu4Tti5yl-rohB7a.jpg" width="100%" alt="Sketch-to-polished product visual edit - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075228737575272448/vid/avc1/1280x720/63P-FYHYapJl_Un3.mp4?tag=28"><img src="public/animations/prompt-22-motion.webp" width="100%" alt="Sketch-to-polished product visual edit - Motion preview"></a>
+</div>
 
 ##### വിവരങ്ങൾ
 
@@ -653,13 +637,9 @@ A fal announcement workflow normalized into a reusable production prompt for cha
 Use the existing poster or product mockup as the base. Change only the selected region: replace the hero product color with a new seasonal palette, update the headline language, and leave background composition, shadows, layout spacing, typography style, and surrounding props untouched. Preserve production-ready detail and legible in-image text.
 ```
 
-##### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2074846795377565696/pu/img/TxWQhus9fd-LuXO2.jpg" width="100%" alt="Region-precise product poster edit - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/ext_tw_video/2074846795377565696/pu/vid/avc1/1280x720/kbZa_kGJ93OFLuAc.mp4?tag=12"><img src="public/animations/prompt-23-motion.webp" width="100%" alt="Region-precise product poster edit - Motion preview"></a>
+</div>
 
 ##### വിവരങ്ങൾ
 
@@ -689,13 +669,9 @@ A Krea workflow normalized into a Seedream 5 Pro multi-reference prompt skill fo
 Use up to ten reference images as a brand moodboard: product form, color palette, fabric texture, lighting, background architecture, model pose, typography feel, campaign tone, packaging finish, and negative examples. Generate one coherent hero image that merges those references without collage artifacts. Keep the final asset clean, realistic, brand-safe, and directly usable in a campaign.
 ```
 
-##### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074890722336178177/img/jgoQSoL0vgu3NWqm.jpg" width="100%" alt="Ten-reference brand moodboard fusion - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074890722336178177/vid/avc1/1280x720/2Z_T94P6AxOQrKsm.mp4?tag=28"><img src="public/animations/prompt-24-motion.webp" width="100%" alt="Ten-reference brand moodboard fusion - Motion preview"></a>
+</div>
 
 ##### വിവരങ്ങൾ
 
@@ -761,13 +737,9 @@ A layer-separation workflow normalized from a high-engagement public Seedream 5.
 Create a design concept that can be separated into editable layers: background, subject, product, text, shadows, decorative marks, and callout labels. Keep edges clean, overlaps logical, and every layer visually independent enough for a Photoshop-style handoff.
 ```
 
-##### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2074854109195194368/pu/img/kw1gz03TrGY7dBjD.jpg" width="100%" alt="Separate-layer design handoff - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/ext_tw_video/2074854109195194368/pu/vid/avc1/1280x720/KKPMgT-m9RMO2cHE.mp4?tag=26"><img src="public/animations/prompt-61-motion.webp" width="100%" alt="Separate-layer design handoff - Motion preview"></a>
+</div>
 
 ##### വിവരങ്ങൾ
 
@@ -797,13 +769,9 @@ A Morphic launch post normalized into a precise editing and layer-separation pro
 Use the base visual as a production mockup. Perform a precise region edit, then organize the result as if the background, product, typography, shadows, and accent graphics could be exported separately. Keep multilingual text clean, layout balanced, and every changed element consistent with the original art direction.
 ```
 
-##### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074851748389531648/img/J1NlerZdGdBSd7pK.jpg" width="100%" alt="Region edit plus layer separation mockup - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074851748389531648/vid/avc1/1280x720/7yXUlWTmfuSu3pUp.mp4?tag=28"><img src="public/animations/prompt-63-motion.webp" width="100%" alt="Region edit plus layer separation mockup - Motion preview"></a>
+</div>
 
 ##### വിവരങ്ങൾ
 
@@ -833,13 +801,9 @@ A Runway availability post normalized into a flexible prompt/reference workflow 
 Generate a highly detailed image from either a written prompt or a visual reference. If a reference is provided, preserve the key composition and material cues; if only text is provided, follow the scene description closely. Add readable in-image text in the requested language and keep the final image clean enough for editorial use.
 ```
 
-##### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074981967276187648/img/wTkNqS727wv_OW6O.jpg" width="100%" alt="Prompt-or-reference detail render - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074981967276187648/vid/avc1/1280x720/1lqs6jQPtTV5ygxv.mp4?tag=28"><img src="public/animations/prompt-64-motion.webp" width="100%" alt="Prompt-or-reference detail render - Motion preview"></a>
+</div>
 
 ##### വിവരങ്ങൾ
 
@@ -1065,6 +1029,10 @@ A source-backed tutorial from the original public X post, demonstrating japanese
 </tr>
 </table>
 
+<div align="center">
+<img src="public/animations/prompt-120-japanese-no-makeup-image-edit-instruction.webp" width="100%" alt="Japanese no-makeup image edit instruction - Motion preview">
+</div>
+
 ##### വിവരങ്ങൾ
 
 - **രചയിതാവ്:** [@renataro9](https://x.com/renataro9)
@@ -1229,13 +1197,9 @@ A BytePlus announcement normalized into a broad prompt framework for production-
 Create a production-ready enterprise visual asset for {argument name="industry" default="global logistics"}. The image must combine realistic subject matter, clear information hierarchy, localized headline text, and one precise edited element requested by the art director. Keep the style polished enough for a campaign landing page, with readable annotations, consistent brand colors, and no hallucinated logos.
 ```
 
-##### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074850963991748608/img/BUqDTNDYcIimKWcH.jpg" width="100%" alt="Enterprise visual asset production brief - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074850963991748608/vid/avc1/1280x720/ODhCB80bgpUctSrG.mp4?tag=28"><img src="public/animations/prompt-25-motion.webp" width="100%" alt="Enterprise visual asset production brief - Motion preview"></a>
+</div>
 
 ##### വിവരങ്ങൾ
 
@@ -1264,13 +1228,9 @@ A Magnific availability post normalized into a multilingual infographic prompt f
 Create the same clean campaign infographic in 14 language variants. Keep the layout, icon grid, color palette, spacing, and hierarchy identical while changing only the headline, labels, and call-to-action text. Use short safety, product, or education copy with correct script rendering, readable typography, and no decorative gibberish.
 ```
 
-##### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074843456372166656/img/HbQ47LaowF2sv_y_.jpg" width="100%" alt="Fourteen-language infographic campaign - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074843456372166656/vid/avc1/1280x720/_uuyZ5pwn2kZHFGm.mp4?tag=14"><img src="public/animations/prompt-26-motion.webp" width="100%" alt="Fourteen-language infographic campaign - Motion preview"></a>
+</div>
 
 ##### വിവരങ്ങൾ
 
@@ -1570,13 +1530,9 @@ A Higgsfield availability post normalized into a prompt for dense text-rich visu
 Create a dense text-rich infographic from a rough sketch. Follow the sketch structure, preserve the marked blocks, convert notes into clean labels, and render charts, icons, and subject photography with readable typography. Keep photographic skin and lighting natural where people appear.
 ```
 
-##### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074866663133188096/img/EDQbAT7uYP9E8P_u.jpg" width="100%" alt="Dense infographic with sketch editing - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074866663133188096/vid/avc1/1280x720/-cP-pAl7rThmuMTY.mp4?tag=28"><img src="public/animations/prompt-62-motion.webp" width="100%" alt="Dense infographic with sketch editing - Motion preview"></a>
+</div>
 
 ##### വിവരങ്ങൾ
 
@@ -1954,13 +1910,9 @@ A Seedream + Seedance workflow normalized from a public Magnific thread, designe
 Generate a realistic 1960s Havana documentary still as the first frame for video. Use natural imperfections, handheld street photography, period cars, sun-worn facades, varied faces, humid air, imperfect clothing, and archival film texture. Avoid modern objects, glossy fashion styling, duplicated faces, and over-clean AI skin. Leave enough motion cues for Seedance-style documentary animation.
 ```
 
-##### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2075167807415767040/img/dJKGm7JtAkTHw1p2.jpg" width="100%" alt="1960s Havana documentary video seed - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075167807415767040/vid/avc1/1280x720/U81a7nKFJpaq4PFN.mp4?tag=28"><img src="public/animations/prompt-29-motion.webp" width="100%" alt="1960s Havana documentary video seed - Motion preview"></a>
+</div>
 
 ##### വിവരങ്ങൾ
 
@@ -3529,13 +3481,9 @@ A worldbuilding workflow normalized from a public Seedream 5.0 Pro post about lo
 Create an anchor frame for a worldbuilding project. Establish the environment, hero object, atmosphere, and color grade in one image that future references can follow. Use consistent material language, cinematic depth, clear foreground-midground-background separation, and a palette stable enough to guide later scene generation.
 ```
 
-##### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2075026724396392448/img/rIxJGd5pioPxGtDm.jpg" width="100%" alt="Worldbuilding anchor frame color grade - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075026724396392448/vid/avc1/1280x720/Bu8O6tzxdB4Ch-Ac.mp4?tag=28"><img src="public/animations/prompt-75-motion.webp" width="100%" alt="Worldbuilding anchor frame color grade - Motion preview"></a>
+</div>
 
 ##### വിവരങ്ങൾ
 
@@ -3946,13 +3894,9 @@ A public three-model editing comparison using the same intentionally minimal ins
 Change the painting.
 ```
 
-##### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2075226893171793920/img/AdYm1_YfCCyoqZlX.jpg" width="100%" alt="Minimal painting replacement iteration test - Image 1"></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075226893171793920/vid/avc1/1552x656/xkovrTxbvOg2mk9R.mp4?tag=28"><img src="public/animations/prompt-99-motion.webp" width="100%" alt="Minimal painting replacement iteration test - Motion preview"></a>
+</div>
 
 ##### വിവരങ്ങൾ
 
@@ -4587,6 +4531,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt submit ചെയ്യുക](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ഈ repo-യ്ക്ക് Star നൽകുക](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-10T04:09:00.348Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-10T04:34:32.168Z</sub>
 
 </div>

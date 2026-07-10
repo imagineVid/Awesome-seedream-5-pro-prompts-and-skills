@@ -51,6 +51,7 @@ export interface Prompt {
     url: string;
     thumbnail?: string;
   };
+  animationPreview?: string;
   media?: Media[];
   author: {
     name: string;
@@ -132,7 +133,7 @@ function processPromptImages(item: Prompt): Prompt {
     images = item.media.map((m) => m.url || "").filter(Boolean) as string[];
   } else {
     images = item.sourceMedia || [];
-    if (item.video?.thumbnail) {
+    if (item.video?.thumbnail && !images.includes(item.video.thumbnail)) {
       images.push(item.video.thumbnail);
     }
   }
