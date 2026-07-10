@@ -197,6 +197,12 @@ function validateStructuralDuplicates(
     }
   }
 
+  for (const entry of promptEntries) {
+    if (entry.source && !/^https:\/\/x\.com\/[^/]+\/status\/\d+$/.test(entry.source)) {
+      errors.push(`${entry.owner} must link to a canonical X source, got ${entry.source}`);
+    }
+  }
+
   for (const prompt of prompts) {
     const isXSource = /^https:\/\/x\.com\/[^/]+\/status\/\d+/.test(prompt.sourceLink || "");
     if (!isXSource && prompt.sourceMeta?.source !== "twitterapi.io") continue;
