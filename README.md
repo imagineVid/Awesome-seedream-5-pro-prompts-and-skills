@@ -98,7 +98,6 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 
 > Source-backed launch examples from the official ByteDance Seed release and Volcengine ModelArk documentation. The Twitter/X entries below are treated separately as community prompt cases.
 
-**Official sources:** [ByteDance Seed release](https://seed.bytedance.com/zh/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro) · [Volcengine ModelArk tutorial](https://www.volcengine.com/docs/82379/1824121)
 
 <a id="official-interaction-control"></a>
 
