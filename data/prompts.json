@@ -7135,5 +7135,131 @@
         }
       ]
     }
+  },
+  {
+    "id": 134,
+    "model": "seedream-5-pro",
+    "title": "Snowfall close-up with natural skin texture",
+    "description": "A newly published Seedream 5.0 Pro portrait prompt for realistic winter skin texture, soft rim light, and an intimate over-the-shoulder composition.",
+    "content": "Ultra-realistic close-up portrait of a young woman outdoors during gentle snowfall, looking back over her shoulder at the camera. Long dark brown wavy hair with loose strands blowing across her face, snowflakes resting naturally on her hair and shoulders. Thick charcoal gray knitted scarf wrapped around her neck, black textured winter coat. Soft pink lips, defined natural eyebrows, subtle makeup, light blue-gray eyes with a calm expression. Warm golden winter sunlight creates soft rim lighting against a blurred snowy forest background. Shallow depth of field, cinematic composition, 85mm lens, f/1.8, high dynamic range, photorealistic, DSLR quality. Natural skin texture with visible pores, fine peach fuzz, subtle skin imperfections, realistic subsurface scattering, gentle tonal variation, no plastic skin, no excessive smoothing, no beauty filter, true-to-life complexion, crisp eye detail, lifelike facial features. Cold winter atmosphere, soft bokeh, ultra-detailed, 8K.",
+    "sourceLink": "https://x.com/rovvmut_/status/2075619983837831390",
+    "sourcePublishedAt": "2026-07-10T16:35:41.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM4VX1Ya8AAD_HI.jpg"
+    ],
+    "author": {
+      "name": "@rovvmut_",
+      "link": "https://x.com/rovvmut_"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 76,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075619983837831390",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 2,
+      "replyCount": 20,
+      "likeCount": 50,
+      "quoteCount": 0,
+      "viewCount": 1576,
+      "bookmarkCount": 6,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 135,
+    "model": "seedream-5-pro",
+    "title": "Moonlit engawa cinematic reference edit",
+    "description": "A fresh Seedream 5.0 Pro reference-driven scene prompt for retaining facial identity while placing the subject in a quiet moonlit Japanese veranda shot.",
+    "content": "Long flowing dark hair with soft waves, natural and effortless beauty, soft glowing skin, same facial features exactly as reference. A beautiful young Japanese woman with long flowing dark hair, wearing a fitted black tank top and casual black shorts, relaxed and unposed, sitting casually on the engawa (wooden veranda) of a traditional Japanese house at night, leaning back slightly with one leg bent, looking down softly at her phone or simply resting with a calm, natural gaze not looking at the moon. The full moon glows softly in the background sky above the rooftop, purely as ambient scenery. Cinematic movie-grade shot, shallow depth of field with creamy bokeh, slow dolly-in camera movement, soft moonlight rim lighting mixed with warm ambient glow from paper shoji lanterns inside the house, subtle film grain, volumetric moonlight rays filtering through surrounding trees, color graded like a Denis Villeneuve film with deep indigo and warm amber tones, 35mm anamorphic lens.",
+    "sourceLink": "https://x.com/Cia0_exe/status/2075632375858659717",
+    "sourcePublishedAt": "2026-07-10T17:24:56.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM4goImaQAAdE6P.jpg",
+      "https://pbs.twimg.com/media/HM4gohTa8AEHfrg.jpg",
+      "https://pbs.twimg.com/media/HM4go3RbkAAWPz1.jpg",
+      "https://pbs.twimg.com/media/HM4gpNlbcAABe--.jpg"
+    ],
+    "author": {
+      "name": "@Cia0_exe",
+      "link": "https://x.com/Cia0_exe"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 77,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075632375858659717",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 13,
+      "likeCount": 16,
+      "quoteCount": 1,
+      "viewCount": 1941,
+      "bookmarkCount": 3,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Directed Editing & Input Control",
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    },
+    "needReferenceImages": true
   }
 ]
