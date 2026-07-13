@@ -7511,5 +7511,193 @@
         }
       ]
     }
+  },
+  {
+    "id": 140,
+    "model": "seedream-5-pro",
+    "title": "Doodle-integrated product campaign",
+    "description": "A Seedream 5 Pro commercial prompt that blends a photographed product with expressive black-ink illustration for a clean, scroll-stopping brand composition.",
+    "content": "Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean white background, studio lighting, sharp focus. A real-life photograph of a [BRAND PRODUCT] is physically placed and seamlessly integrated with a hand-drawn black ink cartoon illustration. The drawing is simple, expressive line art with minimal shading — like a quick sketch on paper. A cartoon character is [SCENE], interacting naturally with the real product as if it exists in their world. At the top, the [BRAND] slogan in clean bold sans-serif typography. At the bottom, the real brand logo rendered in full original colors and proportions. Photorealistic product + bold black doodle art, perfect seamless blend between drawn and real elements, witty scroll-stopping brand ad aesthetic, high contrast, minimalist composition, trending creative ad design.",
+    "sourceLink": "https://x.com/ZephyraLeigh/status/2076309161801887774",
+    "sourcePublishedAt": "2026-07-12T14:14:14.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNCIH_KbIAApK_W.jpg",
+      "https://pbs.twimg.com/media/HNCIIzxaQAAeFHw.jpg",
+      "https://pbs.twimg.com/media/HNCIJykaMAEqMAK.jpg",
+      "https://pbs.twimg.com/media/HNCIKrXbcAA9mHR.jpg"
+    ],
+    "author": {
+      "name": "@ZephyraLeigh",
+      "link": "https://x.com/ZephyraLeigh"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 82,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076309161801887774",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 12,
+      "likeCount": 22,
+      "quoteCount": 0,
+      "viewCount": 1055,
+      "bookmarkCount": 6,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 15,
+          "title": "Product Campaign",
+          "slug": "product-campaign"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 51,
+          "title": "Product & Props",
+          "slug": "product-props"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    }
+  },
+  {
+    "id": 141,
+    "model": "seedream-5-pro",
+    "title": "Celestial fox above the mountains",
+    "description": "A cinematic Seedream 5 Pro fantasy scene that anchors a human-scale gesture against a vast cloud-and-light fox spirit.",
+    "content": "A cinematic fantasy scene from a slightly low, over-the-shoulder perspective. A lone young man stands on a weathered stone mountain viewpoint with a rustic wooden railing, seen mostly from behind, wearing a dark olive-green hooded jacket, black pants, and black shoes. He calmly raises one hand to gently touch the nose of an enormous celestial fox spirit descending from the sky. The spirit is an ethereal heavenly guardian made of white clouds, mist, and flowing strands of living light—not a solid fox. It has an elegant elongated face, peaceful closed eyes, a long slender muzzle, a tiny black nose, and two enormous, tall, perfectly upright triangular ears that define its silhouette. Only the head, neck, faint chest, and part of the front legs are visible while the rest of its colossal body dissolves seamlessly into the clouds, sky, and distant mountains. Fine glowing white strands flow naturally from its body into the atmosphere, creating a soft divine aura. Dramatic storm clouds fill the sky with a small opening where the hidden sun casts subtle warm rays and gentle rim light. Towering green karst mountains, drifting mist, and a winding road below. Ultra-realistic, photorealistic, cinematic, atmospheric, mystical, 8K.",
+    "sourceLink": "https://x.com/frametheory058/status/2076341429350404486",
+    "sourcePublishedAt": "2026-07-12T16:22:27.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNCleIRaMAErXnm.jpg",
+      "https://pbs.twimg.com/media/HNClgFZaIAA7gwa.jpg"
+    ],
+    "author": {
+      "name": "@frametheory058",
+      "link": "https://x.com/frametheory058"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 83,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076341429350404486",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 3,
+      "replyCount": 13,
+      "likeCount": 27,
+      "quoteCount": 0,
+      "viewCount": 881,
+      "bookmarkCount": 9,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 142,
+    "model": "seedream-5-pro",
+    "title": "Summer Ferris wheel reference edit",
+    "description": "A reference-preserving Seedream 5 Pro portrait edit that combines a boho summer outfit, bright fairground geometry, and candid smartphone-photo texture.",
+    "content": "Shot from a low-angle perspective. The woman is wearing a boho-chic outfit and standing in front of a giant Ferris wheel with colorful gondolas against a clear blue sky.\nShe is dressed in a light-colored crop top and shorts with pom-pom trim, layered with a fringed denim jacket, a wide leather belt, a white wide-brim hat, and round dark sunglasses. Her long wavy hair is loose.\nShe strikes a dynamic pose: one hand is holding the brim of her hat while the other is extended out to the side.\nThe background is filled with the metal spokes and framework of the Ferris wheel, with the colorful gondolas occupying much of the scene.\nRealistic smartphone photo, taken on a hot summer day in bright direct sunlight, with warm color grading, slightly overexposed highlights, natural shadows, a strong sense of summer heat, natural-looking skin, subtle film grain, slightly sun-faded colors, and the feel of a candid, spontaneous snapshot.\nThe face, identity, appearance, age, and all unique characteristics of the person from the original photo must be preserved exactly. The person is not looking at the camera.",
+    "sourceLink": "https://x.com/ChillaiKalan__/status/2076205946674766094",
+    "sourcePublishedAt": "2026-07-12T07:24:06.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNAqJNHakAAK_NB.jpg",
+      "https://pbs.twimg.com/media/HNAqBqaaIAAVmPu.jpg"
+    ],
+    "author": {
+      "name": "@ChillaiKalan__",
+      "link": "https://x.com/ChillaiKalan__"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 84,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076205946674766094",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 3,
+      "replyCount": 35,
+      "likeCount": 63,
+      "quoteCount": 1,
+      "viewCount": 1920,
+      "bookmarkCount": 10,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Directed Editing & Input Control",
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    }
   }
 ]
