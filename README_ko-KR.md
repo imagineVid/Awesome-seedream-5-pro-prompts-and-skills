@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | 총 프롬프트 | **128** |
 | 추천 | **10** |
-| 마지막 업데이트 | **2026년 7월 17일 금요일 AM 4시 5분 42초 UTC** |
+| 마지막 업데이트 | **2026년 7월 17일 금요일 오전 4시 11분 30초 UTC** |
 
 </div>
 
@@ -5540,6 +5540,6 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 **[프롬프트 제출](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[저장소에 Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-17T04:05:42.734Z</sub>
+<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-17T04:11:30.473Z</sub>
 
 </div>
