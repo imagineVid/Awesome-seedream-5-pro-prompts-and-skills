@@ -8010,5 +8010,134 @@
         }
       ]
     }
+  },
+  {
+    "id": 148,
+    "model": "seedream-5-pro",
+    "title": "Summer train-station coming-of-age portrait",
+    "description": "A multi-shot photoreal coming-of-age sequence shaped by suburban rail details, candid gestures, summer backlight, Portra color, and restrained slice-of-life nostalgia.",
+    "content": "A cinematic coming-of-age portrait of a Japanese high school girl at a suburban train station on a bright summer afternoon, wearing a white sailor-style school uniform with a light blue skirt, carrying a navy school bag and backpack. Natural wind blowing through her shoulder-length black hair, candid expressions, looking out a train window, standing alone on the platform, walking alongside the tracks. Soft golden sunlight, blue sky with fluffy cumulus clouds, railway tracks, overhead power lines, subtle reflections on train glass, shallow depth of field, emotional and nostalgic atmosphere, Japanese slice-of-life anime film aesthetic translated into photorealism, Kodak Portra 400 colors, film grain, cinematic composition, bokeh, realistic skin texture, 35mm photography, low-angle and medium shots, backlighting, highly detailed, ultra-realistic, 8k.\nNegative Prompt\nlow quality, blurry, oversaturated, HDR, CGI, cartoon, extra limbs, extra fingers, deformed face, bad anatomy, duplicate person, watermark, text, logo, artifacts, noisy, overprocessed skin, harsh shadows, cropped head, distorted proportions.",
+    "sourceLink": "https://x.com/Kashberg_0/status/2077421901656572021",
+    "sourcePublishedAt": "2026-07-15T15:55:52.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNR8L1ibkAA88C1.jpg",
+      "https://pbs.twimg.com/media/HNR8MSMbIAAycxr.jpg",
+      "https://pbs.twimg.com/media/HNR8MwPbsAASeRw.jpg",
+      "https://pbs.twimg.com/media/HNR8NNMaEAAxgSa.jpg"
+    ],
+    "author": {
+      "name": "Kashberg",
+      "link": "https://x.com/Kashberg_0"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 90,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2077421901656572021",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 6,
+      "replyCount": 20,
+      "likeCount": 114,
+      "quoteCount": 0,
+      "viewCount": 4082,
+      "bookmarkCount": 68,
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-17"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 149,
+    "model": "seedream-5-pro",
+    "title": "Four-philosopher knowledge-world diorama",
+    "description": "A parameterized 2×2 educational layout that combines miniature cutaway rooms, pop-up books, silhouette infographics, and museum-grade guidebook materials.",
+    "content": "2x2 grid, 16:9, do this for 4 philosophers: <instructions> a = { isometric cutaway miniature rooms, dollhouse compartments, tiny props, toy‑scale figures }\n\nb = { open‑book pop‑up diorama, labeled callouts, accessory diagrams, warm page texture, educational layout }\n\nc = { object‑shaped infographic chart: items arranged in silhouette, axis labels, category progression, grid logic, museum‑data design }\n\nd = { premium collector's pop‑up book: thick cardstock pages, ribbon bookmark, gold foil accents, museum vitrine lighting }\n\nknowledge_world = (a ∩ isometric_base) ∪ (b ∩ book_spread) ∪ (c ∩ silhouette_infographic) ∪ (d ∩ premium_book)\n\nrender $ subject as this composite diorama:\n\n- the silhouette of $ subject is formed by hundreds of tiny room‑like cells, each holding a miniature prop or figure relevant to $ subject's domain.\n\n- the whole piece sits on an open book with cream pages, labeled callouts with thin leader lines, category axes (e.g., timeline, complexity, function) along the sides.\n\n- isometric perspective, soft editorial shadows, materials: matte painted resin, tiny wood, paper, clay.\n\n- palette: warm ivory, muted teal, clay red, ochre, charcoal ink, small gold foil accents.\n\noutput as an 8k macro photo of a premium educational guidebook spread.",
+    "sourceLink": "https://x.com/Gdgtify/status/2077875673763627262",
+    "sourcePublishedAt": "2026-07-16T21:59:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNLgcLtX0AAWtzW.jpg"
+    ],
+    "author": {
+      "name": "Gadgetify",
+      "link": "https://x.com/Gdgtify"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 91,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2077875673763627262",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 179,
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-17"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 42,
+          "title": "Technical Blueprint",
+          "slug": "technical-blueprint"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Diagrams, Technical Art & Storyboards",
+          "slug": "diagrams-technical-storyboards"
+        }
+      ]
+    }
   }
 ]
