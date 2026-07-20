@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | จำนวน prompt ทั้งหมด | **128** |
 | แนะนำ | **10** |
-| อัปเดตล่าสุด | **วันอาทิตย์ที่ 19 กรกฎาคม พ.ศ. 2569 เวลา 20 นาฬิกา 41 นาที 49 วินาที UTC** |
+| อัปเดตล่าสุด | **วันจันทร์ที่ 20 กรกฎาคม พ.ศ. 2569 เวลา 2 นาฬิกา 28 นาที 40 วินาที UTC** |
 
 </div>
 
@@ -5540,6 +5540,6 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ประวัติ Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>อัปเดตล่าสุด: 2026-07-19T20:41:49.167Z</sub>
+<sub>อัปเดตล่าสุด: 2026-07-20T02:28:40.546Z</sub>
 
 </div>
