@@ -8139,5 +8139,140 @@
         }
       ]
     }
+  },
+  {
+    "id": 150,
+    "model": "seedream-5-pro",
+    "title": "Restrained aquarelle sketch of an iconic place",
+    "description": "A location-aware urban watercolor system that controls pedestrian-eye perspective, paper breathing room, focal detail, transparent pigment, and receding scale.",
+    "content": "Create a refined horizontal aquarelle urban sketch of a peaceful, iconic outdoor location in [PLACE], [CITY], using delicate freehand ink, restrained transparent watercolor, and generous areas of warm-white cold-pressed paper.\n\nCOMPOSITION:\nUse a landscape 3:2 composition viewed from natural pedestrian eye level. Place the defining feature of [PLACE] across the left and center-left middle ground. Let the street, promenade, square, riverbank, or pathway recede naturally toward an off-center vanishing point on the right.\n\nKeep the immediate foreground spacious and pale. Show only a broad section of pavement, ground, or walkway with a few thin perspective lines and diluted lavender-blue shadows. Do not place oversized, cropped, or close-up people, trees, benches, furniture, vehicles, or objects against the front edge.\n\nPERSPECTIVE:\nLet paving joints, curbs, railings, pathways, and surrounding architecture converge naturally toward the distance. Reduce the size and spacing of pedestrians, bicycles, vehicles, trees, and buildings with distance. Maintain believable perspective while preserving slight freehand irregularity.\n\nMIDDLE GROUND:\nMake [PLACE] the primary focal area. Include a few relaxed pedestrians, subtle local details, and everyday elements that naturally belong to the location while keeping every figure and object proportionate to the surrounding architecture and landscape.\n\nUse fine blue-black fountain-pen lines with changing pressure, broken contours, searching construction marks, and limited cross-hatching. Concentrate the clearest drawing around the central focal area without creating heavy black outlines.\n\nCOLOR:\nUse transparent warm ochre, pale terracotta, muted coral, dusty sage, cerulean blue, and soft lavender-gray. Adapt the palette subtly to reflect the atmosphere of [CITY] while keeping the watercolor density light to medium. Reserve darker pigment for only a few small shaded areas.\n\nAllow watercolor washes to form subtle blooms, uneven deposits, and dry edges. Use pale blue-violet washes for cast shadows. Let portions of architecture, foliage, clothing, sky, and surrounding details remain entirely unpainted.\n\nBACKGROUND:\nSuggest the surrounding skyline and landscape using thin interrupted lines and highly diluted blue-gray washes. If appropriate, include one recognizable landmark only as a small, distant, softly rendered silhouette naturally integrated into the composition. Do not turn the illustration into a landmark collage.\n\nWHITE SPACE:\nPreserve approximately 45% of the cold-pressed paper. Keep much of the foreground, upper sky, distant background, and one side of the composition lightly painted or entirely unpainted.\n\nTYPOGRAPHY:\nReserve a quiet area of warm-white paper in the upper-right corner. Add the exact city name:\n\n\"[CITY]\"\n\nSet it in refined uppercase editorial lettering in muted blue-gray. Directly beneath it, add a short handwritten poetic tagline related to the city's atmosphere.\n\nKeep the typography crisp, correctly spelled, and unobstructed by architecture, trees, or other objects.\n\nThe strongest detail and color should remain in the middle-ground focal area. The foreground must stay light, open, and secondary. No oversized foreground objects, no dramatic close-up elements, no dense silhouettes, no crowded tourist scenes, no landmark collage, no uniform color filter, no glossy digital watercolor, no CGI.",
+    "sourceLink": "https://x.com/ZaraIrahh/status/2078405764910043477",
+    "sourcePublishedAt": "2026-07-18T09:05:23.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNf69wmXcAAq20T.jpg",
+      "https://pbs.twimg.com/media/HNf6_EFWoAAAM_E.jpg",
+      "https://pbs.twimg.com/media/HNf6__oWwAAZxcb.jpg",
+      "https://pbs.twimg.com/media/HNf7A-iWcAAupDP.jpg"
+    ],
+    "author": {
+      "name": "@ZaraIrahh",
+      "link": "https://x.com/ZaraIrahh"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 150,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2078405764910043477",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 46,
+      "replyCount": 34,
+      "likeCount": 266,
+      "quoteCount": 0,
+      "viewCount": 122373,
+      "bookmarkCount": 59,
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-19",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review."
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 14,
+          "title": "Travel Visual",
+          "slug": "travel-visual"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 34,
+          "title": "Landscape",
+          "slug": "landscape"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 65,
+          "title": "Environments, Architecture & Worldbuilding",
+          "slug": "environments-architecture-worldbuilding"
+        }
+      ]
+    }
+  },
+  {
+    "id": 151,
+    "model": "seedream-5-pro",
+    "title": "Gritty 1980s anime OVA industrial portrait",
+    "description": "A style-locking character shot that forces the figure, wet corridor, lighting, atmosphere, and background to remain fully hand-drawn rather than drifting into live action or 3D.",
+    "content": "1. Anime 1980s-1990s OVA style\n\nPrompt: A rugged man in his 50s inside a wet industrial corridor, facing three-quarter left, silent and tense, eyes focused forward, beard stubble, damp hair, soaked jacket collar, wrinkles drawn with subtle anime linework. Everything in the image is 100% anime: character, corridor, lights, rain, fog, reflections, shadows, textures, and background. Adult 1980s-1990s anime OVA style, gritty hand-drawn cel animation, traditional painted anime background, inked outlines, cel shading, hand-painted industrial environment, muted colors, noir atmosphere. The corridor must be clearly illustrated, with stylized pipes, painted wet concrete, drawn steam, anime lighting, and soft painted bokeh from distant lamps. Cold rim light from back-right, warm painted glow on one cheek, dramatic anime shadows, cinematic anime frame, 16:9. Avoid photorealistic background, avoid live-action realism, avoid 3D render, avoid realistic photography",
+    "sourceLink": "https://x.com/MayorKingAI/status/2075285166248067528",
+    "sourcePublishedAt": "2026-07-09T18:25:15.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMzk2oMaAAAEEAw.jpg",
+      "https://pbs.twimg.com/media/HMzk2zCbYAAEV_d.jpg",
+      "https://pbs.twimg.com/media/HMzk29UbEAAaFQz.jpg",
+      "https://pbs.twimg.com/media/HMzk3HoawAAb_Yz.jpg"
+    ],
+    "author": {
+      "name": "@MayorKingAI",
+      "link": "https://x.com/MayorKingAI"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 151,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075285166248067528",
+      "prompt_source": "thread_reply_prompt",
+      "prompt_tweet_id": "2075285182530342930",
+      "retweetCount": 7,
+      "replyCount": 15,
+      "likeCount": 36,
+      "quoteCount": 1,
+      "viewCount": 26304,
+      "bookmarkCount": 12,
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-19",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review."
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 45,
+          "title": "Anime Key Visual",
+          "slug": "anime-key-visual"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
   }
 ]
