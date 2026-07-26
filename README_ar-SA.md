@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | إجمالي التعليمات | **131** |
 | مميز | **10** |
-| آخر تحديث | **الأحد، ٢٦ يوليو ٢٠٢٦ في ٢:١٢:٣٧ ص UTC** |
+| آخر تحديث | **الأحد، ٢٦ يوليو ٢٠٢٦ في ٦:٣١:٤٤ ص UTC** |
 
 </div>
 
@@ -5655,6 +5655,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[إرسال تعليمة](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمستودع](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-26T02:12:37.487Z</sub>
+<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-26T06:31:44.243Z</sub>
 
 </div>
