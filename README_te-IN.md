@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | మొత్తం prompts | **131** |
 | ప్రత్యేకం | **10** |
-| చివరి నవీకరణ | **27, జులై 2026, సోమవారం 9:05:20 PM UTCకి** |
+| చివరి నవీకరణ | **28, జులై 2026, మంగళవారం 2:01:12 AM UTCకి** |
 
 </div>
 
@@ -5655,6 +5655,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt సమర్పించండి](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ఈ repo కు Star ఇవ్వండి](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-27T21:05:20.304Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-28T02:01:12.256Z</sub>
 
 </div>
