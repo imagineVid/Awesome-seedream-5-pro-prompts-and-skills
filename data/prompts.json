@@ -3822,6 +3822,67 @@
     }
   },
   {
+    "id": 134,
+    "model": "seedream-5-pro",
+    "title": "Snowfall close-up with natural skin texture",
+    "description": "A newly published Seedream 5.0 Pro portrait prompt for realistic winter skin texture, soft rim light, and an intimate over-the-shoulder composition.",
+    "content": "Ultra-realistic close-up portrait of a young woman outdoors during gentle snowfall, looking back over her shoulder at the camera. Long dark brown wavy hair with loose strands blowing across her face, snowflakes resting naturally on her hair and shoulders. Thick charcoal gray knitted scarf wrapped around her neck, black textured winter coat. Soft pink lips, defined natural eyebrows, subtle makeup, light blue-gray eyes with a calm expression. Warm golden winter sunlight creates soft rim lighting against a blurred snowy forest background. Shallow depth of field, cinematic composition, 85mm lens, f/1.8, high dynamic range, photorealistic, DSLR quality. Natural skin texture with visible pores, fine peach fuzz, subtle skin imperfections, realistic subsurface scattering, gentle tonal variation, no plastic skin, no excessive smoothing, no beauty filter, true-to-life complexion, crisp eye detail, lifelike facial features. Cold winter atmosphere, soft bokeh, ultra-detailed, 8K.",
+    "sourceLink": "https://x.com/rovvmut_/status/2075619983837831390",
+    "sourcePublishedAt": "2026-07-10T16:35:41.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM4VX1Ya8AAD_HI.jpg"
+    ],
+    "author": {
+      "name": "@rovvmut_",
+      "link": "https://x.com/rovvmut_"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 76,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075619983837831390",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 2,
+      "replyCount": 20,
+      "likeCount": 50,
+      "quoteCount": 0,
+      "viewCount": 1576,
+      "bookmarkCount": 6,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
     "id": 77,
     "model": "seedream-5-pro",
     "title": "Exploded engineering diagram layout",
@@ -3883,6 +3944,71 @@
         }
       ]
     }
+  },
+  {
+    "id": 135,
+    "model": "seedream-5-pro",
+    "title": "Moonlit engawa cinematic reference edit",
+    "description": "A fresh Seedream 5.0 Pro reference-driven scene prompt for retaining facial identity while placing the subject in a quiet moonlit Japanese veranda shot.",
+    "content": "Long flowing dark hair with soft waves, natural and effortless beauty, soft glowing skin, same facial features exactly as reference. A beautiful young Japanese woman with long flowing dark hair, wearing a fitted black tank top and casual black shorts, relaxed and unposed, sitting casually on the engawa (wooden veranda) of a traditional Japanese house at night, leaning back slightly with one leg bent, looking down softly at her phone or simply resting with a calm, natural gaze not looking at the moon. The full moon glows softly in the background sky above the rooftop, purely as ambient scenery. Cinematic movie-grade shot, shallow depth of field with creamy bokeh, slow dolly-in camera movement, soft moonlight rim lighting mixed with warm ambient glow from paper shoji lanterns inside the house, subtle film grain, volumetric moonlight rays filtering through surrounding trees, color graded like a Denis Villeneuve film with deep indigo and warm amber tones, 35mm anamorphic lens.",
+    "sourceLink": "https://x.com/Cia0_exe/status/2075632375858659717",
+    "sourcePublishedAt": "2026-07-10T17:24:56.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM4goImaQAAdE6P.jpg",
+      "https://pbs.twimg.com/media/HM4gohTa8AEHfrg.jpg",
+      "https://pbs.twimg.com/media/HM4go3RbkAAWPz1.jpg",
+      "https://pbs.twimg.com/media/HM4gpNlbcAABe--.jpg"
+    ],
+    "author": {
+      "name": "@Cia0_exe",
+      "link": "https://x.com/Cia0_exe"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 77,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075632375858659717",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 13,
+      "likeCount": 16,
+      "quoteCount": 1,
+      "viewCount": 1941,
+      "bookmarkCount": 3,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Directed Editing & Input Control",
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    },
+    "needReferenceImages": true
   },
   {
     "id": 78,
@@ -3949,6 +4075,70 @@
     }
   },
   {
+    "id": 136,
+    "model": "seedream-5-pro",
+    "title": "Emerald ICON fashion magazine cover",
+    "description": "A high-engagement Seedream 5 Pro magazine-cover prompt that combines beauty photography with a controlled luxury editorial typography system.",
+    "content": "Ultra-realistic high-fashion editorial magazine cover featuring a stunning female model with flawless porcelain skin, piercing emerald eyes, and matte burgundy lips. She wears an oversized ivory sculptural hat, a sleek black turtleneck, oversized geometric gold earrings, and elegant satin emerald green opera gloves gently framing her face. Minimal luxury makeup, ultra-detailed skin texture, sharp eyebrows, cinematic catchlights, premium beauty photography, Vogue-level styling, perfectly centered composition, shallow depth of field, soft diffused studio lighting, creamy off-white background with subtle shadows. Modern graphic design layout with massive vertical typography reading “ICON” positioned along the left edge in oversized hollow letters with emerald outlines, partially masking the portrait for a layered editorial effect. Add bold horizontal headline “BEYOND BEAUTY” across the lower third in elegant uppercase typography, accompanied by small minimalist captions, thin editorial divider lines, issue number, barcode, and subtle geometric accents. Clean Swiss-inspired magazine design, luxury fashion branding, negative space, premium typography hierarchy, sophisticated balance between portrait and graphics, ultra-sharp focus, realistic fabric textures, cinematic color grading, high-end beauty campaign, 8K, IMAX quality, HDR, photorealistic, award-winning fashion editorial, elegant contemporary magazine cover.",
+    "sourceLink": "https://x.com/iamrealsnow/status/2075797065427529769",
+    "sourcePublishedAt": "2026-07-11T04:19:21.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM62a36awAACg1s.jpg",
+      "https://pbs.twimg.com/media/HM62a35aQAAPljV.jpg",
+      "https://pbs.twimg.com/media/HM62a35acAAF1Jg.jpg",
+      "https://pbs.twimg.com/media/HM62a35aIAAaYZ5.jpg"
+    ],
+    "author": {
+      "name": "@iamrealsnow",
+      "link": "https://x.com/iamrealsnow"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 78,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075797065427529769",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 5,
+      "replyCount": 30,
+      "likeCount": 51,
+      "quoteCount": 0,
+      "viewCount": 1348,
+      "bookmarkCount": 6,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    }
+  },
+  {
     "id": 79,
     "model": "seedream-5-pro",
     "title": "Master ink art animal study",
@@ -3998,6 +4188,70 @@
           "id": 34,
           "title": "Landscape",
           "slug": "landscape"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 137,
+    "model": "seedream-5-pro",
+    "title": "Crimson saree palace portrait at golden hour",
+    "description": "A fresh Seedream 5.0 Pro heritage-fashion portrait prompt with patterned sunlight, detailed silk texture, and an editorial 85mm composition.",
+    "content": "Ultra-realistic cinematic portrait of a beautiful young woman wearing a rich deep crimson red silk saree with a matching sleeveless blouse featuring subtle floral jacquard embroidery and a muted gold border. She is standing beside an intricately carved ivory stone pillar in a heritage palace corridor during golden hour, gazing softly into the distance with a calm, dreamy expression. Her hair is styled in a neat low bun adorned with a single fresh red rose, with a few loose curled strands framing her face. Smooth glowing natural skin, expressive brown eyes, soft pink lips, minimal makeup. Warm sunlight passes through ornate carved jali patterns, casting intricate floral shadows across her face, neck, shoulders, blouse, and saree. Soft cinematic backlight, creamy bokeh, shallow depth of field, luxurious heritage architecture blurred in the background, elegant composition, warm golden color grading, highly detailed silk texture, photorealistic skin, natural facial proportions, HDR, 8K, DSLR quality, 85mm portrait lens, f/1.8, ultra sharp focus on the face, premium editorial fashion photography.",
+    "sourceLink": "https://x.com/aaliya_va/status/2075924410423271453",
+    "sourcePublishedAt": "2026-07-11T12:45:22.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM8qDG0XgAAJWme.jpg",
+      "https://pbs.twimg.com/media/HM8qDGvXwAAZqnN.jpg",
+      "https://pbs.twimg.com/media/HM8qDGwWYAERaDP.jpg",
+      "https://pbs.twimg.com/media/HM8qDGqXYAA3xn1.jpg"
+    ],
+    "author": {
+      "name": "@aaliya_va",
+      "link": "https://x.com/aaliya_va"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 79,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075924410423271453",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 5,
+      "replyCount": 33,
+      "likeCount": 86,
+      "quoteCount": 0,
+      "viewCount": 7232,
+      "bookmarkCount": 8,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
         }
       ],
       "workflows": [
@@ -4072,6 +4326,67 @@
     }
   },
   {
+    "id": 138,
+    "model": "seedream-5-pro",
+    "title": "Low-angle financial district fashion portrait",
+    "description": "A recent Seedream 5.0 Pro street-photography prompt for ambitious city scale, natural curls, and a handheld 20mm editorial perspective.",
+    "content": "Ultra-realistic cinematic street photograph of a confident young woman standing between towering modern skyscrapers in a dense financial district. Captured from an extreme low angle perspective, making the dark glass and steel buildings rise dramatically around her and converge toward the cloudy blue sky. She has shoulder-length curly black hair and wears a deep burgundy leather jacket over a clean white high-neck top. Her expression is serious, calm, and determined as she looks upward toward something beyond the frame. The woman occupies the lower center of the composition while the massive architecture dominates the surrounding space, creating a strong sense of ambition, pressure, and scale. Blurred silhouettes of commuters move through the background, adding natural city energy without distracting from the subject. Cool overcast daylight, deep blue and charcoal tones, subtle warm reflections inside the buildings, soft directional light across her face, realistic skin texture, natural curls, detailed leather grain, authentic fabric folds, atmospheric depth, cinematic shadows, shallow depth of field, 20mm wide-angle lens, f/2.8, slight edge distortion, handheld editorial photography, high dynamic range, subtle film grain, photorealistic full-frame camera quality, no artificial beauty filter, no plastic skin, no CGI appearance, ultra-detailed, 8K.",
+    "sourceLink": "https://x.com/bmx_ai13/status/2075922805573751264",
+    "sourcePublishedAt": "2026-07-11T12:39:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM7WiDfboAAf9gY.jpg"
+    ],
+    "author": {
+      "name": "@bmx_ai13",
+      "link": "https://x.com/bmx_ai13"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 80,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075922805573751264",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 8,
+      "likeCount": 25,
+      "quoteCount": 0,
+      "viewCount": 476,
+      "bookmarkCount": 6,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
     "id": 81,
     "model": "seedream-5-pro",
     "title": "Pancake angel dessert illustration",
@@ -4128,6 +4443,67 @@
           "id": 64,
           "title": "Characters, Cinema & Visual Styles",
           "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 139,
+    "model": "seedream-5-pro",
+    "title": "Retro computer desk with curious squirrel",
+    "description": "A compact Seedream 5 Pro still-life prompt pairing tactile retro computing hardware with a sharply detailed animal subject and outdoor color contrast.",
+    "content": "A curious squirrel perched on a vintage beige computer keyboard connected to a chunky retro monitor, the computer resting on a worn, richly grained wooden desk. In softly diffused matte lighting, the squirrel’s detailed fur and delicate whiskers are clearly visible, as are the tactile keys and vents of the computer. In the softly blurred background, lush saturated green foliage and vivid orange fruit create a natural, slightly surreal outdoor setting that contrasts with the nostalgic technology.",
+    "sourceLink": "https://x.com/heathergreen/status/2076094185149730904",
+    "sourcePublishedAt": "2026-07-12T00:00:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM0scVGX0AEEPll.jpg"
+    ],
+    "author": {
+      "name": "@heathergreen",
+      "link": "https://x.com/heathergreen"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 81,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076094185149730904",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 35,
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 15,
+          "title": "Product Campaign",
+          "slug": "product-campaign"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 51,
+          "title": "Product & Props",
+          "slug": "product-props"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
         }
       ]
     }
@@ -4195,6 +4571,70 @@
     }
   },
   {
+    "id": 140,
+    "model": "seedream-5-pro",
+    "title": "Doodle-integrated product campaign",
+    "description": "A Seedream 5 Pro commercial prompt that blends a photographed product with expressive black-ink illustration for a clean, scroll-stopping brand composition.",
+    "content": "Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean white background, studio lighting, sharp focus. A real-life photograph of a [BRAND PRODUCT] is physically placed and seamlessly integrated with a hand-drawn black ink cartoon illustration. The drawing is simple, expressive line art with minimal shading — like a quick sketch on paper. A cartoon character is [SCENE], interacting naturally with the real product as if it exists in their world. At the top, the [BRAND] slogan in clean bold sans-serif typography. At the bottom, the real brand logo rendered in full original colors and proportions. Photorealistic product + bold black doodle art, perfect seamless blend between drawn and real elements, witty scroll-stopping brand ad aesthetic, high contrast, minimalist composition, trending creative ad design.",
+    "sourceLink": "https://x.com/ZephyraLeigh/status/2076309161801887774",
+    "sourcePublishedAt": "2026-07-12T14:14:14.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNCIH_KbIAApK_W.jpg",
+      "https://pbs.twimg.com/media/HNCIIzxaQAAeFHw.jpg",
+      "https://pbs.twimg.com/media/HNCIJykaMAEqMAK.jpg",
+      "https://pbs.twimg.com/media/HNCIKrXbcAA9mHR.jpg"
+    ],
+    "author": {
+      "name": "@ZephyraLeigh",
+      "link": "https://x.com/ZephyraLeigh"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 82,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076309161801887774",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 12,
+      "likeCount": 22,
+      "quoteCount": 0,
+      "viewCount": 1055,
+      "bookmarkCount": 6,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 15,
+          "title": "Product Campaign",
+          "slug": "product-campaign"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 51,
+          "title": "Product & Props",
+          "slug": "product-props"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    }
+  },
+  {
     "id": 83,
     "model": "seedream-5-pro",
     "title": "Afternoon street portrait prompt",
@@ -4252,6 +4692,68 @@
           "id": 66,
           "title": "Benchmarks & Model Comparisons",
           "slug": "benchmarks-model-comparisons"
+        }
+      ]
+    }
+  },
+  {
+    "id": 141,
+    "model": "seedream-5-pro",
+    "title": "Celestial fox above the mountains",
+    "description": "A cinematic Seedream 5 Pro fantasy scene that anchors a human-scale gesture against a vast cloud-and-light fox spirit.",
+    "content": "A cinematic fantasy scene from a slightly low, over-the-shoulder perspective. A lone young man stands on a weathered stone mountain viewpoint with a rustic wooden railing, seen mostly from behind, wearing a dark olive-green hooded jacket, black pants, and black shoes. He calmly raises one hand to gently touch the nose of an enormous celestial fox spirit descending from the sky. The spirit is an ethereal heavenly guardian made of white clouds, mist, and flowing strands of living light—not a solid fox. It has an elegant elongated face, peaceful closed eyes, a long slender muzzle, a tiny black nose, and two enormous, tall, perfectly upright triangular ears that define its silhouette. Only the head, neck, faint chest, and part of the front legs are visible while the rest of its colossal body dissolves seamlessly into the clouds, sky, and distant mountains. Fine glowing white strands flow naturally from its body into the atmosphere, creating a soft divine aura. Dramatic storm clouds fill the sky with a small opening where the hidden sun casts subtle warm rays and gentle rim light. Towering green karst mountains, drifting mist, and a winding road below. Ultra-realistic, photorealistic, cinematic, atmospheric, mystical, 8K.",
+    "sourceLink": "https://x.com/frametheory058/status/2076341429350404486",
+    "sourcePublishedAt": "2026-07-12T16:22:27.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNCleIRaMAErXnm.jpg",
+      "https://pbs.twimg.com/media/HNClgFZaIAA7gwa.jpg"
+    ],
+    "author": {
+      "name": "@frametheory058",
+      "link": "https://x.com/frametheory058"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 83,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076341429350404486",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 3,
+      "replyCount": 13,
+      "likeCount": 27,
+      "quoteCount": 0,
+      "viewCount": 881,
+      "bookmarkCount": 9,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
         }
       ]
     }
@@ -4321,6 +4823,68 @@
     }
   },
   {
+    "id": 142,
+    "model": "seedream-5-pro",
+    "title": "Summer Ferris wheel reference edit",
+    "description": "A reference-preserving Seedream 5 Pro portrait edit that combines a boho summer outfit, bright fairground geometry, and candid smartphone-photo texture.",
+    "content": "Shot from a low-angle perspective. The woman is wearing a boho-chic outfit and standing in front of a giant Ferris wheel with colorful gondolas against a clear blue sky.\nShe is dressed in a light-colored crop top and shorts with pom-pom trim, layered with a fringed denim jacket, a wide leather belt, a white wide-brim hat, and round dark sunglasses. Her long wavy hair is loose.\nShe strikes a dynamic pose: one hand is holding the brim of her hat while the other is extended out to the side.\nThe background is filled with the metal spokes and framework of the Ferris wheel, with the colorful gondolas occupying much of the scene.\nRealistic smartphone photo, taken on a hot summer day in bright direct sunlight, with warm color grading, slightly overexposed highlights, natural shadows, a strong sense of summer heat, natural-looking skin, subtle film grain, slightly sun-faded colors, and the feel of a candid, spontaneous snapshot.\nThe face, identity, appearance, age, and all unique characteristics of the person from the original photo must be preserved exactly. The person is not looking at the camera.",
+    "sourceLink": "https://x.com/ChillaiKalan__/status/2076205946674766094",
+    "sourcePublishedAt": "2026-07-12T07:24:06.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNAqJNHakAAK_NB.jpg",
+      "https://pbs.twimg.com/media/HNAqBqaaIAAVmPu.jpg"
+    ],
+    "author": {
+      "name": "@ChillaiKalan__",
+      "link": "https://x.com/ChillaiKalan__"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 84,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076205946674766094",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 3,
+      "replyCount": 35,
+      "likeCount": 63,
+      "quoteCount": 1,
+      "viewCount": 1920,
+      "bookmarkCount": 10,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Directed Editing & Input Control",
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    }
+  },
+  {
     "id": 85,
     "model": "seedream-5-pro",
     "title": "Cloud maker fantasy portrait",
@@ -4370,6 +4934,67 @@
           "id": 34,
           "title": "Landscape",
           "slug": "landscape"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 143,
+    "model": "seedream-5-pro",
+    "title": "The Star Ritual manga storyboard",
+    "description": "A Seedream 5 Pro sequential-art prompt that directs a complete black-and-white shrine ritual across eight dramatic manga panels.",
+    "content": "Gritty black-and-white Japanese manga storyboard page, dense ink linework, heavy screentone shading, dramatic cross-hatching, irregular panel grid layout like a professional seinen manga spread, Japanese onomatopoeia sound effects lettering in several panels. Recurring character: a young shrine maiden witch with long brown twin ponytails tied with red ribbons, golden eyes, wearing a white haori robe and red hakama skirt, carrying a golden ceremonial bell staff (kagura suzu). Story: a starlit incantation ritual, titled THE STAR RITUAL. Panel 1: wide shot of the shrine maiden standing on a shrine veranda under a vast starry night sky, ribbons flowing in the wind. Panel 2: close-up of her raising the bell staff high overhead with both hands. Panel 3: extreme close-up of the golden bells on the staff beginning to glow. Panel 4: medium shot, she chants an incantation, eyes closed, mouth open. Panel 5: close-up of her free hand forming a mystic seal gesture, fingers interlaced. Panel 6: wide shot, the stars above swirl together into a glowing magic circle. Panel 7: dynamic burst panel, a beam of light descends from the sky onto the shrine, bold sound effect lettering, radiant light streaks. Panel 8: final shot, she stands calm and serene as glowing petal-like light particles drift down around her, ribbons still fluttering. High contrast dramatic lighting, monochrome ink illustration, no color.",
+    "sourceLink": "https://x.com/renoiseai/status/2076578475700523447",
+    "sourcePublishedAt": "2026-07-13T08:04:24.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNF9Gl6agAE5eab.jpg"
+    ],
+    "author": {
+      "name": "@renoiseai",
+      "link": "https://x.com/renoiseai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 85,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076578475700523447",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 261,
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 45,
+          "title": "Anime Key Visual",
+          "slug": "anime-key-visual"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
         }
       ],
       "workflows": [
@@ -4445,6 +5070,68 @@
     }
   },
   {
+    "id": 144,
+    "model": "seedream-5-pro",
+    "title": "Red-background urban webtoon portrait",
+    "description": "A Seedream 5 Pro character-design prompt for a severe, graphic webtoon portrait with a disciplined red palette and tailored-suit silhouette.",
+    "content": "[Subject], centered in a vertical 2:3 composition, shown from above the knees to the head in a bust-style framing, facing directly forward with a cold and tense expression. Bold solid red background with dramatic brown and dark green shadows created by strong directional lighting. Clean digital illustration style with sharp outlines, smooth gradients, and refined East Asian modern webtoon aesthetics without photorealistic textures. Wearing a black pinstripe or solid black tailored suit with a black shirt, optional black tie or leather choker, silver drop earrings, and a necklace maintained at accurate size and placement. Sharp eyes with a calm, piercing gaze. Hair flows naturally with a red hair tie accent. Flat monochrome background with no foreground objects or surrounding people. Sophisticated urban atmosphere. No photographic rendering or bright pastel colors.",
+    "sourceLink": "https://x.com/ChillaiKalan__/status/2076523680860151863",
+    "sourcePublishedAt": "2026-07-13T04:26:40.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNFLRkVaQAAGkcz.jpg",
+      "https://pbs.twimg.com/media/HNFLRisagAAR20Z.jpg"
+    ],
+    "author": {
+      "name": "@ChillaiKalan__",
+      "link": "https://x.com/ChillaiKalan__"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 86,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076523680860151863",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 35,
+      "likeCount": 52,
+      "quoteCount": 0,
+      "viewCount": 1301,
+      "bookmarkCount": 8,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 45,
+          "title": "Anime Key Visual",
+          "slug": "anime-key-visual"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
     "id": 87,
     "model": "seedream-5-pro",
     "title": "Full-body dragon character extension",
@@ -4503,6 +5190,67 @@
           "id": 61,
           "title": "Directed Editing & Input Control",
           "slug": "directed-editing-input-control"
+        }
+      ]
+    }
+  },
+  {
+    "id": 145,
+    "model": "seedream-5-pro",
+    "title": "Apple blossom spring selfie portrait",
+    "description": "A Seedream 5 Pro portrait prompt that combines a playful eye-level selfie with crisp spring blossoms, natural glam, and warm outdoor light.",
+    "content": "Sunny outdoor selfie-style portrait of a young woman standing beneath a blooming apple tree, white-and-pink blossoms framing and partly covering her face. She tilts her head to rest gently on her own shoulder, gazing at the camera with a soft playful smile. Long sleek hair parted in the middle, falling straight past the shoulders. Fresh natural glam makeup: defined brows, bronze-neutral lids, long lashes, glowing sun-kissed skin, soft glossy nude lips. She wears a white ribbed scoop-neck tank under a cream knit cardigan, chunky gold hoop earrings and a thin gold chain choker. Background: a bright green spring garden with blossoming branches and a clear blue sky. Vertical shot, eye-level angle, bright natural sunlight, warm airy spring aesthetic.",
+    "sourceLink": "https://x.com/dreamydigiarts/status/2076630217180041662",
+    "sourcePublishedAt": "2026-07-13T11:30:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNGF46Oa8AE1N6R.jpg"
+    ],
+    "author": {
+      "name": "@dreamydigiarts",
+      "link": "https://x.com/dreamydigiarts"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 87,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076630217180041662",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 2,
+      "likeCount": 14,
+      "quoteCount": 0,
+      "viewCount": 412,
+      "bookmarkCount": 10,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
         }
       ]
     }
@@ -4570,6 +5318,69 @@
     }
   },
   {
+    "id": 146,
+    "model": "seedream-5-pro",
+    "title": "Dual-character urban fantasy design sheet",
+    "description": "A production-ready character comparison board with opposing visual identities, turnaround poses, weapon callouts, palettes, traits, and a shared abandoned-mall key scene.",
+    "content": "Character comparison design sheet, dual character reference layout,\nmodern urban fantasy anime style, white/light gray background with\nsymmetrical left-right panel structure,\n\nCENTER MAIN ILLUSTRATION:\ntwo full-body anime characters standing face to face in a large abandoned\nmodern shopping mall interior, glass dome skylight ceiling, escalators,\nstore displays, mannequins, scattered debris and fallen mannequin parts,\ncinematic lighting with soft daylight through glass ceiling,\n\nCHARACTER A (left, purple/lavender theme):\nyoung woman with long flowing silver-lavender hair, high ponytail with\ndark flower hair ornament, purple eyes, elegant fantasy streetwear -\nblack crop top, black mini skirt with layered sheer white/purple cape-like\noverlay, gold chain belt details, purple tassel accessories, thigh-high\ngap showing legwarmers, white knee-high heeled boots with gold buckle\ndetails, holding an ornate rapier sword with circular guard and purple\ntassel, confident graceful pose, hand near collarbone,\n\nCHARACTER B (right, red/black theme):\nyoung woman with long black hair streaked with red, high ponytail with\nred ribbon, red eyes, aggressive streetwear - red bandeau top, black\nopen jacket with red trim and asian-inspired patterns, black cargo pants\nwith red straps and chain details, red belt, black and white sneakers,\nfingerless gloves, wielding a large dark scythe with red blade and chain\ntassel over shoulder, confident wild stance, hand on hip,\n\nsmall text label center top: \"ABANDONED DEPARTMENT STORE\" in gray serif\nfont with small decorative slash marks,\n\nLEFT SIDE PANEL (Character A info):\ntop-left bold purple header \"CHARACTER A\" with subtitle traits in caps\n(\"GRACEFUL / CONTROL / SHARP\"),\nbelow: close-up portrait bust shot of character A in bordered box,\nbelow that: \"TURNAROUND\" label with 4 small full-body reference poses\n(front, 3/4, back, side) in a row,\nbelow that: \"WEAPON\" label with weapon name \"RAPIER\" and detailed weapon\nillustration,\nbottom: \"COLOR PALETTE (A)\" with 5 color swatch squares (lavender, dark\npurple, gray, cream, gold),\nnext to it: \"KEY TRAITS (A)\" with 3 small icon badges and labels\n(\"AGILITY\" \"PRECISION\" \"INTELLIGENCE\"),\n\nRIGHT SIDE PANEL (Character B info) - mirrored layout:\ntop-right bold red header \"CHARACTER B\" with subtitle traits in caps\n(\"WILD / AGGRESSIVE / UNBREAKABLE\"),\nclose-up portrait bust shot of character B in bordered box,\n\"TURNAROUND\" label with 4 small full-body reference poses,\n\"WEAPON\" label with weapon name \"SCYTHE\" and detailed weapon illustration,\n\"COLOR PALETTE (B)\" with 5 color swatch squares (red, black, gray, white,\ndark maroon),\n\"KEY TRAITS (B)\" with 3 small icon badges and labels (\"STRENGTH\" \"IMPACT\"\n\"RESILIENCE\"),\n\nSTYLE:\nhigh-detail modern anime illustration, semi-realistic proportions,\nglossy rendering, dramatic character design contrast (elegant/refined vs\nwild/aggressive), professional game character design document layout,\nclean white background panels, thin border boxes, minimalist typography,\ncolor-coded sections (purple for A, red for B),\n\nhigh resolution, polished digital painting, official character design\nsheet presentation",
+    "sourceLink": "https://x.com/renoiseai/status/2076993082587779465",
+    "sourcePublishedAt": "2026-07-14T11:31:54.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNL2In7aMAA07W9.jpg"
+    ],
+    "author": {
+      "name": "Renoise",
+      "link": "https://x.com/renoiseai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 88,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076993082587779465",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 5,
+      "quoteCount": 0,
+      "viewCount": 372,
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-15"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 45,
+          "title": "Anime Key Visual",
+          "slug": "anime-key-visual"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
     "id": 89,
     "model": "seedream-5-pro",
     "title": "Knight beneath a colossal stone sentinel",
@@ -4627,6 +5438,70 @@
           "id": 65,
           "title": "Environments, Architecture & Worldbuilding",
           "slug": "environments-architecture-worldbuilding"
+        }
+      ]
+    }
+  },
+  {
+    "id": 147,
+    "model": "seedream-5-pro",
+    "title": "Low-angle skatepark fashion portrait",
+    "description": "A structured reference-image prompt for preserving facial identity while directing streetwear, a ground-level heroic camera angle, foreground skateboard depth, and hard summer light.",
+    "content": "{\n    \"subject_and_outfit_formula\": \"A stylish young East Asian woman with a confident and cool expression, her dark, shoulder-length hair gently tousled by a light breeze. She is dressed in an oversized, retro-style red athletic jersey with white side panels and bold graphic lettering on the chest. Below, she wears high-waisted light-wash denim shorts featuring aggressive distressing, large ripped panels across the thighs, and raw, frayed hems. Her footwear includes thick white crew socks with classic red and blue stripes at the top, paired with chunky, multi-layered cream and beige platform sneakers that add to her urban, sporty aesthetic.\",\n    \"background_and_environment\": \"The scene is set in a minimalist, sun-drenched outdoor skatepark featuring smooth, sweeping gray concrete ramps and bowls. The backdrop is an expansive, vibrant azure sky dotted with soft, feathered white clouds, suggesting a clear and bright summer afternoon. Intense, direct sunlight originates from a high angle, creating a luminous rim-lighting effect around the subject's silhouette and casting sharp, defined shadows on the concrete surface, evoking a sense of high-energy urban life.\",\n    \"camera_angle_and_composition\": \"An extreme low-angle 'worm's eye view' shot captured from a ground-level perspective looking steeply upward, which emphasizes the subject's height and commanding, heroic presence. A colorful, illustrative skateboard with intricate pop-art graphics and bold 'SKATE' typography is held vertically in the immediate foreground, acting as a powerful visual anchor and creating a strong sense of depth. The composition utilizes a wide-angle perspective to frame the subject against the vastness of the sky, making her the central focal point of the frame.\",\n    \"face_reference\": \"Use the uploaded photo as the primary reference for facial structure and features.\",\n    \"camera_and_vintage_style_settings\": \"Standard high-quality digital photography, crisp and clear.\"\n}",
+    "sourceLink": "https://x.com/Kashberg_0/status/2076518233956622760",
+    "sourcePublishedAt": "2026-07-13T04:05:01.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNFGUR8aEAA_ln7.jpg",
+      "https://pbs.twimg.com/media/HNFGUwza8AALD17.jpg"
+    ],
+    "author": {
+      "name": "Kashberg",
+      "link": "https://x.com/Kashberg_0"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 89,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076518233956622760",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 7,
+      "replyCount": 47,
+      "likeCount": 82,
+      "quoteCount": 1,
+      "viewCount": 2682,
+      "bookmarkCount": 24,
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-15"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 33,
+          "title": "Fashion Creator",
+          "slug": "fashion-creator"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
         }
       ]
     }
@@ -4693,6 +5568,72 @@
     }
   },
   {
+    "id": 148,
+    "model": "seedream-5-pro",
+    "title": "Summer train-station coming-of-age portrait",
+    "description": "A multi-shot photoreal coming-of-age sequence shaped by suburban rail details, candid gestures, summer backlight, Portra color, and restrained slice-of-life nostalgia.",
+    "content": "A cinematic coming-of-age portrait of a Japanese high school girl at a suburban train station on a bright summer afternoon, wearing a white sailor-style school uniform with a light blue skirt, carrying a navy school bag and backpack. Natural wind blowing through her shoulder-length black hair, candid expressions, looking out a train window, standing alone on the platform, walking alongside the tracks. Soft golden sunlight, blue sky with fluffy cumulus clouds, railway tracks, overhead power lines, subtle reflections on train glass, shallow depth of field, emotional and nostalgic atmosphere, Japanese slice-of-life anime film aesthetic translated into photorealism, Kodak Portra 400 colors, film grain, cinematic composition, bokeh, realistic skin texture, 35mm photography, low-angle and medium shots, backlighting, highly detailed, ultra-realistic, 8k.\nNegative Prompt\nlow quality, blurry, oversaturated, HDR, CGI, cartoon, extra limbs, extra fingers, deformed face, bad anatomy, duplicate person, watermark, text, logo, artifacts, noisy, overprocessed skin, harsh shadows, cropped head, distorted proportions.",
+    "sourceLink": "https://x.com/Kashberg_0/status/2077421901656572021",
+    "sourcePublishedAt": "2026-07-15T15:55:52.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNR8L1ibkAA88C1.jpg",
+      "https://pbs.twimg.com/media/HNR8MSMbIAAycxr.jpg",
+      "https://pbs.twimg.com/media/HNR8MwPbsAASeRw.jpg",
+      "https://pbs.twimg.com/media/HNR8NNMaEAAxgSa.jpg"
+    ],
+    "author": {
+      "name": "Kashberg",
+      "link": "https://x.com/Kashberg_0"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 90,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2077421901656572021",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 6,
+      "replyCount": 20,
+      "likeCount": 114,
+      "quoteCount": 0,
+      "viewCount": 4082,
+      "bookmarkCount": 68,
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-17"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
     "id": 91,
     "model": "seedream-5-pro",
     "title": "Ethereal librarian on a frozen lake",
@@ -4749,6 +5690,69 @@
           "id": 65,
           "title": "Environments, Architecture & Worldbuilding",
           "slug": "environments-architecture-worldbuilding"
+        }
+      ]
+    }
+  },
+  {
+    "id": 149,
+    "model": "seedream-5-pro",
+    "title": "Four-philosopher knowledge-world diorama",
+    "description": "A parameterized 2×2 educational layout that combines miniature cutaway rooms, pop-up books, silhouette infographics, and museum-grade guidebook materials.",
+    "content": "2x2 grid, 16:9, do this for 4 philosophers: <instructions> a = { isometric cutaway miniature rooms, dollhouse compartments, tiny props, toy‑scale figures }\n\nb = { open‑book pop‑up diorama, labeled callouts, accessory diagrams, warm page texture, educational layout }\n\nc = { object‑shaped infographic chart: items arranged in silhouette, axis labels, category progression, grid logic, museum‑data design }\n\nd = { premium collector's pop‑up book: thick cardstock pages, ribbon bookmark, gold foil accents, museum vitrine lighting }\n\nknowledge_world = (a ∩ isometric_base) ∪ (b ∩ book_spread) ∪ (c ∩ silhouette_infographic) ∪ (d ∩ premium_book)\n\nrender $ subject as this composite diorama:\n\n- the silhouette of $ subject is formed by hundreds of tiny room‑like cells, each holding a miniature prop or figure relevant to $ subject's domain.\n\n- the whole piece sits on an open book with cream pages, labeled callouts with thin leader lines, category axes (e.g., timeline, complexity, function) along the sides.\n\n- isometric perspective, soft editorial shadows, materials: matte painted resin, tiny wood, paper, clay.\n\n- palette: warm ivory, muted teal, clay red, ochre, charcoal ink, small gold foil accents.\n\noutput as an 8k macro photo of a premium educational guidebook spread.",
+    "sourceLink": "https://x.com/Gdgtify/status/2077875673763627262",
+    "sourcePublishedAt": "2026-07-16T21:59:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNLgcLtX0AAWtzW.jpg"
+    ],
+    "author": {
+      "name": "Gadgetify",
+      "link": "https://x.com/Gdgtify"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 91,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2077875673763627262",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 179,
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-17"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 42,
+          "title": "Technical Blueprint",
+          "slug": "technical-blueprint"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Diagrams, Technical Art & Storyboards",
+          "slug": "diagrams-technical-storyboards"
         }
       ]
     }
@@ -7137,1010 +8141,6 @@
     }
   },
   {
-    "id": 134,
-    "model": "seedream-5-pro",
-    "title": "Snowfall close-up with natural skin texture",
-    "description": "A newly published Seedream 5.0 Pro portrait prompt for realistic winter skin texture, soft rim light, and an intimate over-the-shoulder composition.",
-    "content": "Ultra-realistic close-up portrait of a young woman outdoors during gentle snowfall, looking back over her shoulder at the camera. Long dark brown wavy hair with loose strands blowing across her face, snowflakes resting naturally on her hair and shoulders. Thick charcoal gray knitted scarf wrapped around her neck, black textured winter coat. Soft pink lips, defined natural eyebrows, subtle makeup, light blue-gray eyes with a calm expression. Warm golden winter sunlight creates soft rim lighting against a blurred snowy forest background. Shallow depth of field, cinematic composition, 85mm lens, f/1.8, high dynamic range, photorealistic, DSLR quality. Natural skin texture with visible pores, fine peach fuzz, subtle skin imperfections, realistic subsurface scattering, gentle tonal variation, no plastic skin, no excessive smoothing, no beauty filter, true-to-life complexion, crisp eye detail, lifelike facial features. Cold winter atmosphere, soft bokeh, ultra-detailed, 8K.",
-    "sourceLink": "https://x.com/rovvmut_/status/2075619983837831390",
-    "sourcePublishedAt": "2026-07-10T16:35:41.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HM4VX1Ya8AAD_HI.jpg"
-    ],
-    "author": {
-      "name": "@rovvmut_",
-      "link": "https://x.com/rovvmut_"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 76,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2075619983837831390",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 2,
-      "replyCount": 20,
-      "likeCount": 50,
-      "quoteCount": 0,
-      "viewCount": 1576,
-      "bookmarkCount": 6,
-      "model_evidence": "seedream-5-pro"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 12,
-          "title": "Character Design",
-          "slug": "character-design"
-        }
-      ],
-      "styles": [
-        {
-          "id": 21,
-          "title": "Cinematic Realism",
-          "slug": "cinematic-realism"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 31,
-          "title": "Human Portrait",
-          "slug": "human-portrait"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 64,
-          "title": "Characters, Cinema & Visual Styles",
-          "slug": "characters-cinema-visual-styles"
-        }
-      ]
-    }
-  },
-  {
-    "id": 135,
-    "model": "seedream-5-pro",
-    "title": "Moonlit engawa cinematic reference edit",
-    "description": "A fresh Seedream 5.0 Pro reference-driven scene prompt for retaining facial identity while placing the subject in a quiet moonlit Japanese veranda shot.",
-    "content": "Long flowing dark hair with soft waves, natural and effortless beauty, soft glowing skin, same facial features exactly as reference. A beautiful young Japanese woman with long flowing dark hair, wearing a fitted black tank top and casual black shorts, relaxed and unposed, sitting casually on the engawa (wooden veranda) of a traditional Japanese house at night, leaning back slightly with one leg bent, looking down softly at her phone or simply resting with a calm, natural gaze not looking at the moon. The full moon glows softly in the background sky above the rooftop, purely as ambient scenery. Cinematic movie-grade shot, shallow depth of field with creamy bokeh, slow dolly-in camera movement, soft moonlight rim lighting mixed with warm ambient glow from paper shoji lanterns inside the house, subtle film grain, volumetric moonlight rays filtering through surrounding trees, color graded like a Denis Villeneuve film with deep indigo and warm amber tones, 35mm anamorphic lens.",
-    "sourceLink": "https://x.com/Cia0_exe/status/2075632375858659717",
-    "sourcePublishedAt": "2026-07-10T17:24:56.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HM4goImaQAAdE6P.jpg",
-      "https://pbs.twimg.com/media/HM4gohTa8AEHfrg.jpg",
-      "https://pbs.twimg.com/media/HM4go3RbkAAWPz1.jpg",
-      "https://pbs.twimg.com/media/HM4gpNlbcAABe--.jpg"
-    ],
-    "author": {
-      "name": "@Cia0_exe",
-      "link": "https://x.com/Cia0_exe"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 77,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2075632375858659717",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 0,
-      "replyCount": 13,
-      "likeCount": 16,
-      "quoteCount": 1,
-      "viewCount": 1941,
-      "bookmarkCount": 3,
-      "model_evidence": "seedream-5-pro"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 13,
-          "title": "Reference Image Edit",
-          "slug": "reference-image-edit"
-        }
-      ],
-      "styles": [
-        {
-          "id": 21,
-          "title": "Cinematic Realism",
-          "slug": "cinematic-realism"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 31,
-          "title": "Human Portrait",
-          "slug": "human-portrait"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 61,
-          "title": "Directed Editing & Input Control",
-          "slug": "directed-editing-input-control"
-        }
-      ]
-    },
-    "needReferenceImages": true
-  },
-  {
-    "id": 136,
-    "model": "seedream-5-pro",
-    "title": "Emerald ICON fashion magazine cover",
-    "description": "A high-engagement Seedream 5 Pro magazine-cover prompt that combines beauty photography with a controlled luxury editorial typography system.",
-    "content": "Ultra-realistic high-fashion editorial magazine cover featuring a stunning female model with flawless porcelain skin, piercing emerald eyes, and matte burgundy lips. She wears an oversized ivory sculptural hat, a sleek black turtleneck, oversized geometric gold earrings, and elegant satin emerald green opera gloves gently framing her face. Minimal luxury makeup, ultra-detailed skin texture, sharp eyebrows, cinematic catchlights, premium beauty photography, Vogue-level styling, perfectly centered composition, shallow depth of field, soft diffused studio lighting, creamy off-white background with subtle shadows. Modern graphic design layout with massive vertical typography reading “ICON” positioned along the left edge in oversized hollow letters with emerald outlines, partially masking the portrait for a layered editorial effect. Add bold horizontal headline “BEYOND BEAUTY” across the lower third in elegant uppercase typography, accompanied by small minimalist captions, thin editorial divider lines, issue number, barcode, and subtle geometric accents. Clean Swiss-inspired magazine design, luxury fashion branding, negative space, premium typography hierarchy, sophisticated balance between portrait and graphics, ultra-sharp focus, realistic fabric textures, cinematic color grading, high-end beauty campaign, 8K, IMAX quality, HDR, photorealistic, award-winning fashion editorial, elegant contemporary magazine cover.",
-    "sourceLink": "https://x.com/iamrealsnow/status/2075797065427529769",
-    "sourcePublishedAt": "2026-07-11T04:19:21.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HM62a36awAACg1s.jpg",
-      "https://pbs.twimg.com/media/HM62a35aQAAPljV.jpg",
-      "https://pbs.twimg.com/media/HM62a35acAAF1Jg.jpg",
-      "https://pbs.twimg.com/media/HM62a35aIAAaYZ5.jpg"
-    ],
-    "author": {
-      "name": "@iamrealsnow",
-      "link": "https://x.com/iamrealsnow"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 78,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2075797065427529769",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 5,
-      "replyCount": 30,
-      "likeCount": 51,
-      "quoteCount": 0,
-      "viewCount": 1348,
-      "bookmarkCount": 6,
-      "model_evidence": "seedream-5-pro"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 17,
-          "title": "Infographic & Typography",
-          "slug": "infographic-typography"
-        }
-      ],
-      "styles": [
-        {
-          "id": 43,
-          "title": "Editorial Poster",
-          "slug": "editorial-poster"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 31,
-          "title": "Human Portrait",
-          "slug": "human-portrait"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 62,
-          "title": "Commercial Design, UI & Posters",
-          "slug": "commercial-design-ui-posters"
-        }
-      ]
-    }
-  },
-  {
-    "id": 137,
-    "model": "seedream-5-pro",
-    "title": "Crimson saree palace portrait at golden hour",
-    "description": "A fresh Seedream 5.0 Pro heritage-fashion portrait prompt with patterned sunlight, detailed silk texture, and an editorial 85mm composition.",
-    "content": "Ultra-realistic cinematic portrait of a beautiful young woman wearing a rich deep crimson red silk saree with a matching sleeveless blouse featuring subtle floral jacquard embroidery and a muted gold border. She is standing beside an intricately carved ivory stone pillar in a heritage palace corridor during golden hour, gazing softly into the distance with a calm, dreamy expression. Her hair is styled in a neat low bun adorned with a single fresh red rose, with a few loose curled strands framing her face. Smooth glowing natural skin, expressive brown eyes, soft pink lips, minimal makeup. Warm sunlight passes through ornate carved jali patterns, casting intricate floral shadows across her face, neck, shoulders, blouse, and saree. Soft cinematic backlight, creamy bokeh, shallow depth of field, luxurious heritage architecture blurred in the background, elegant composition, warm golden color grading, highly detailed silk texture, photorealistic skin, natural facial proportions, HDR, 8K, DSLR quality, 85mm portrait lens, f/1.8, ultra sharp focus on the face, premium editorial fashion photography.",
-    "sourceLink": "https://x.com/aaliya_va/status/2075924410423271453",
-    "sourcePublishedAt": "2026-07-11T12:45:22.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HM8qDG0XgAAJWme.jpg",
-      "https://pbs.twimg.com/media/HM8qDGvXwAAZqnN.jpg",
-      "https://pbs.twimg.com/media/HM8qDGwWYAERaDP.jpg",
-      "https://pbs.twimg.com/media/HM8qDGqXYAA3xn1.jpg"
-    ],
-    "author": {
-      "name": "@aaliya_va",
-      "link": "https://x.com/aaliya_va"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 79,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2075924410423271453",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 5,
-      "replyCount": 33,
-      "likeCount": 86,
-      "quoteCount": 0,
-      "viewCount": 7232,
-      "bookmarkCount": 8,
-      "model_evidence": "seedream-5-pro"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 12,
-          "title": "Character Design",
-          "slug": "character-design"
-        }
-      ],
-      "styles": [
-        {
-          "id": 23,
-          "title": "Editorial Fashion",
-          "slug": "editorial-fashion"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 31,
-          "title": "Human Portrait",
-          "slug": "human-portrait"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 64,
-          "title": "Characters, Cinema & Visual Styles",
-          "slug": "characters-cinema-visual-styles"
-        }
-      ]
-    }
-  },
-  {
-    "id": 138,
-    "model": "seedream-5-pro",
-    "title": "Low-angle financial district fashion portrait",
-    "description": "A recent Seedream 5.0 Pro street-photography prompt for ambitious city scale, natural curls, and a handheld 20mm editorial perspective.",
-    "content": "Ultra-realistic cinematic street photograph of a confident young woman standing between towering modern skyscrapers in a dense financial district. Captured from an extreme low angle perspective, making the dark glass and steel buildings rise dramatically around her and converge toward the cloudy blue sky. She has shoulder-length curly black hair and wears a deep burgundy leather jacket over a clean white high-neck top. Her expression is serious, calm, and determined as she looks upward toward something beyond the frame. The woman occupies the lower center of the composition while the massive architecture dominates the surrounding space, creating a strong sense of ambition, pressure, and scale. Blurred silhouettes of commuters move through the background, adding natural city energy without distracting from the subject. Cool overcast daylight, deep blue and charcoal tones, subtle warm reflections inside the buildings, soft directional light across her face, realistic skin texture, natural curls, detailed leather grain, authentic fabric folds, atmospheric depth, cinematic shadows, shallow depth of field, 20mm wide-angle lens, f/2.8, slight edge distortion, handheld editorial photography, high dynamic range, subtle film grain, photorealistic full-frame camera quality, no artificial beauty filter, no plastic skin, no CGI appearance, ultra-detailed, 8K.",
-    "sourceLink": "https://x.com/bmx_ai13/status/2075922805573751264",
-    "sourcePublishedAt": "2026-07-11T12:39:00.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HM7WiDfboAAf9gY.jpg"
-    ],
-    "author": {
-      "name": "@bmx_ai13",
-      "link": "https://x.com/bmx_ai13"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 80,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2075922805573751264",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 1,
-      "replyCount": 8,
-      "likeCount": 25,
-      "quoteCount": 0,
-      "viewCount": 476,
-      "bookmarkCount": 6,
-      "model_evidence": "seedream-5-pro"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 12,
-          "title": "Character Design",
-          "slug": "character-design"
-        }
-      ],
-      "styles": [
-        {
-          "id": 21,
-          "title": "Cinematic Realism",
-          "slug": "cinematic-realism"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 31,
-          "title": "Human Portrait",
-          "slug": "human-portrait"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 64,
-          "title": "Characters, Cinema & Visual Styles",
-          "slug": "characters-cinema-visual-styles"
-        }
-      ]
-    }
-  },
-  {
-    "id": 139,
-    "model": "seedream-5-pro",
-    "title": "Retro computer desk with curious squirrel",
-    "description": "A compact Seedream 5 Pro still-life prompt pairing tactile retro computing hardware with a sharply detailed animal subject and outdoor color contrast.",
-    "content": "A curious squirrel perched on a vintage beige computer keyboard connected to a chunky retro monitor, the computer resting on a worn, richly grained wooden desk. In softly diffused matte lighting, the squirrel’s detailed fur and delicate whiskers are clearly visible, as are the tactile keys and vents of the computer. In the softly blurred background, lush saturated green foliage and vivid orange fruit create a natural, slightly surreal outdoor setting that contrasts with the nostalgic technology.",
-    "sourceLink": "https://x.com/heathergreen/status/2076094185149730904",
-    "sourcePublishedAt": "2026-07-12T00:00:00.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HM0scVGX0AEEPll.jpg"
-    ],
-    "author": {
-      "name": "@heathergreen",
-      "link": "https://x.com/heathergreen"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 81,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2076094185149730904",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 0,
-      "replyCount": 1,
-      "likeCount": 2,
-      "quoteCount": 0,
-      "viewCount": 35,
-      "bookmarkCount": 0,
-      "model_evidence": "seedream-5-pro"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 15,
-          "title": "Product Campaign",
-          "slug": "product-campaign"
-        }
-      ],
-      "styles": [
-        {
-          "id": 41,
-          "title": "Commercial Photography",
-          "slug": "commercial-photography"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 51,
-          "title": "Product & Props",
-          "slug": "product-props"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 62,
-          "title": "Commercial Design, UI & Posters",
-          "slug": "commercial-design-ui-posters"
-        }
-      ]
-    }
-  },
-  {
-    "id": 140,
-    "model": "seedream-5-pro",
-    "title": "Doodle-integrated product campaign",
-    "description": "A Seedream 5 Pro commercial prompt that blends a photographed product with expressive black-ink illustration for a clean, scroll-stopping brand composition.",
-    "content": "Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean white background, studio lighting, sharp focus. A real-life photograph of a [BRAND PRODUCT] is physically placed and seamlessly integrated with a hand-drawn black ink cartoon illustration. The drawing is simple, expressive line art with minimal shading — like a quick sketch on paper. A cartoon character is [SCENE], interacting naturally with the real product as if it exists in their world. At the top, the [BRAND] slogan in clean bold sans-serif typography. At the bottom, the real brand logo rendered in full original colors and proportions. Photorealistic product + bold black doodle art, perfect seamless blend between drawn and real elements, witty scroll-stopping brand ad aesthetic, high contrast, minimalist composition, trending creative ad design.",
-    "sourceLink": "https://x.com/ZephyraLeigh/status/2076309161801887774",
-    "sourcePublishedAt": "2026-07-12T14:14:14.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HNCIH_KbIAApK_W.jpg",
-      "https://pbs.twimg.com/media/HNCIIzxaQAAeFHw.jpg",
-      "https://pbs.twimg.com/media/HNCIJykaMAEqMAK.jpg",
-      "https://pbs.twimg.com/media/HNCIKrXbcAA9mHR.jpg"
-    ],
-    "author": {
-      "name": "@ZephyraLeigh",
-      "link": "https://x.com/ZephyraLeigh"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 82,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2076309161801887774",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 1,
-      "replyCount": 12,
-      "likeCount": 22,
-      "quoteCount": 0,
-      "viewCount": 1055,
-      "bookmarkCount": 6,
-      "model_evidence": "seedream-5-pro"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 15,
-          "title": "Product Campaign",
-          "slug": "product-campaign"
-        }
-      ],
-      "styles": [
-        {
-          "id": 43,
-          "title": "Editorial Poster",
-          "slug": "editorial-poster"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 51,
-          "title": "Product & Props",
-          "slug": "product-props"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 62,
-          "title": "Commercial Design, UI & Posters",
-          "slug": "commercial-design-ui-posters"
-        }
-      ]
-    }
-  },
-  {
-    "id": 141,
-    "model": "seedream-5-pro",
-    "title": "Celestial fox above the mountains",
-    "description": "A cinematic Seedream 5 Pro fantasy scene that anchors a human-scale gesture against a vast cloud-and-light fox spirit.",
-    "content": "A cinematic fantasy scene from a slightly low, over-the-shoulder perspective. A lone young man stands on a weathered stone mountain viewpoint with a rustic wooden railing, seen mostly from behind, wearing a dark olive-green hooded jacket, black pants, and black shoes. He calmly raises one hand to gently touch the nose of an enormous celestial fox spirit descending from the sky. The spirit is an ethereal heavenly guardian made of white clouds, mist, and flowing strands of living light—not a solid fox. It has an elegant elongated face, peaceful closed eyes, a long slender muzzle, a tiny black nose, and two enormous, tall, perfectly upright triangular ears that define its silhouette. Only the head, neck, faint chest, and part of the front legs are visible while the rest of its colossal body dissolves seamlessly into the clouds, sky, and distant mountains. Fine glowing white strands flow naturally from its body into the atmosphere, creating a soft divine aura. Dramatic storm clouds fill the sky with a small opening where the hidden sun casts subtle warm rays and gentle rim light. Towering green karst mountains, drifting mist, and a winding road below. Ultra-realistic, photorealistic, cinematic, atmospheric, mystical, 8K.",
-    "sourceLink": "https://x.com/frametheory058/status/2076341429350404486",
-    "sourcePublishedAt": "2026-07-12T16:22:27.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HNCleIRaMAErXnm.jpg",
-      "https://pbs.twimg.com/media/HNClgFZaIAA7gwa.jpg"
-    ],
-    "author": {
-      "name": "@frametheory058",
-      "link": "https://x.com/frametheory058"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 83,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2076341429350404486",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 3,
-      "replyCount": 13,
-      "likeCount": 27,
-      "quoteCount": 0,
-      "viewCount": 881,
-      "bookmarkCount": 9,
-      "model_evidence": "seedream-5-pro"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 12,
-          "title": "Character Design",
-          "slug": "character-design"
-        }
-      ],
-      "styles": [
-        {
-          "id": 21,
-          "title": "Cinematic Realism",
-          "slug": "cinematic-realism"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 31,
-          "title": "Human Portrait",
-          "slug": "human-portrait"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 64,
-          "title": "Characters, Cinema & Visual Styles",
-          "slug": "characters-cinema-visual-styles"
-        }
-      ]
-    }
-  },
-  {
-    "id": 142,
-    "model": "seedream-5-pro",
-    "title": "Summer Ferris wheel reference edit",
-    "description": "A reference-preserving Seedream 5 Pro portrait edit that combines a boho summer outfit, bright fairground geometry, and candid smartphone-photo texture.",
-    "content": "Shot from a low-angle perspective. The woman is wearing a boho-chic outfit and standing in front of a giant Ferris wheel with colorful gondolas against a clear blue sky.\nShe is dressed in a light-colored crop top and shorts with pom-pom trim, layered with a fringed denim jacket, a wide leather belt, a white wide-brim hat, and round dark sunglasses. Her long wavy hair is loose.\nShe strikes a dynamic pose: one hand is holding the brim of her hat while the other is extended out to the side.\nThe background is filled with the metal spokes and framework of the Ferris wheel, with the colorful gondolas occupying much of the scene.\nRealistic smartphone photo, taken on a hot summer day in bright direct sunlight, with warm color grading, slightly overexposed highlights, natural shadows, a strong sense of summer heat, natural-looking skin, subtle film grain, slightly sun-faded colors, and the feel of a candid, spontaneous snapshot.\nThe face, identity, appearance, age, and all unique characteristics of the person from the original photo must be preserved exactly. The person is not looking at the camera.",
-    "sourceLink": "https://x.com/ChillaiKalan__/status/2076205946674766094",
-    "sourcePublishedAt": "2026-07-12T07:24:06.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HNAqJNHakAAK_NB.jpg",
-      "https://pbs.twimg.com/media/HNAqBqaaIAAVmPu.jpg"
-    ],
-    "author": {
-      "name": "@ChillaiKalan__",
-      "link": "https://x.com/ChillaiKalan__"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 84,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2076205946674766094",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 3,
-      "replyCount": 35,
-      "likeCount": 63,
-      "quoteCount": 1,
-      "viewCount": 1920,
-      "bookmarkCount": 10,
-      "model_evidence": "seedream-5-pro"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 13,
-          "title": "Reference Image Edit",
-          "slug": "reference-image-edit"
-        }
-      ],
-      "styles": [
-        {
-          "id": 23,
-          "title": "Editorial Fashion",
-          "slug": "editorial-fashion"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 31,
-          "title": "Human Portrait",
-          "slug": "human-portrait"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 61,
-          "title": "Directed Editing & Input Control",
-          "slug": "directed-editing-input-control"
-        }
-      ]
-    }
-  },
-  {
-    "id": 143,
-    "model": "seedream-5-pro",
-    "title": "The Star Ritual manga storyboard",
-    "description": "A Seedream 5 Pro sequential-art prompt that directs a complete black-and-white shrine ritual across eight dramatic manga panels.",
-    "content": "Gritty black-and-white Japanese manga storyboard page, dense ink linework, heavy screentone shading, dramatic cross-hatching, irregular panel grid layout like a professional seinen manga spread, Japanese onomatopoeia sound effects lettering in several panels. Recurring character: a young shrine maiden witch with long brown twin ponytails tied with red ribbons, golden eyes, wearing a white haori robe and red hakama skirt, carrying a golden ceremonial bell staff (kagura suzu). Story: a starlit incantation ritual, titled THE STAR RITUAL. Panel 1: wide shot of the shrine maiden standing on a shrine veranda under a vast starry night sky, ribbons flowing in the wind. Panel 2: close-up of her raising the bell staff high overhead with both hands. Panel 3: extreme close-up of the golden bells on the staff beginning to glow. Panel 4: medium shot, she chants an incantation, eyes closed, mouth open. Panel 5: close-up of her free hand forming a mystic seal gesture, fingers interlaced. Panel 6: wide shot, the stars above swirl together into a glowing magic circle. Panel 7: dynamic burst panel, a beam of light descends from the sky onto the shrine, bold sound effect lettering, radiant light streaks. Panel 8: final shot, she stands calm and serene as glowing petal-like light particles drift down around her, ribbons still fluttering. High contrast dramatic lighting, monochrome ink illustration, no color.",
-    "sourceLink": "https://x.com/renoiseai/status/2076578475700523447",
-    "sourcePublishedAt": "2026-07-13T08:04:24.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HNF9Gl6agAE5eab.jpg"
-    ],
-    "author": {
-      "name": "@renoiseai",
-      "link": "https://x.com/renoiseai"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 85,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2076578475700523447",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 0,
-      "replyCount": 1,
-      "likeCount": 1,
-      "quoteCount": 0,
-      "viewCount": 261,
-      "bookmarkCount": 0,
-      "model_evidence": "seedream-5-pro"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 12,
-          "title": "Character Design",
-          "slug": "character-design"
-        }
-      ],
-      "styles": [
-        {
-          "id": 45,
-          "title": "Anime Key Visual",
-          "slug": "anime-key-visual"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 31,
-          "title": "Human Portrait",
-          "slug": "human-portrait"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 64,
-          "title": "Characters, Cinema & Visual Styles",
-          "slug": "characters-cinema-visual-styles"
-        }
-      ]
-    }
-  },
-  {
-    "id": 144,
-    "model": "seedream-5-pro",
-    "title": "Red-background urban webtoon portrait",
-    "description": "A Seedream 5 Pro character-design prompt for a severe, graphic webtoon portrait with a disciplined red palette and tailored-suit silhouette.",
-    "content": "[Subject], centered in a vertical 2:3 composition, shown from above the knees to the head in a bust-style framing, facing directly forward with a cold and tense expression. Bold solid red background with dramatic brown and dark green shadows created by strong directional lighting. Clean digital illustration style with sharp outlines, smooth gradients, and refined East Asian modern webtoon aesthetics without photorealistic textures. Wearing a black pinstripe or solid black tailored suit with a black shirt, optional black tie or leather choker, silver drop earrings, and a necklace maintained at accurate size and placement. Sharp eyes with a calm, piercing gaze. Hair flows naturally with a red hair tie accent. Flat monochrome background with no foreground objects or surrounding people. Sophisticated urban atmosphere. No photographic rendering or bright pastel colors.",
-    "sourceLink": "https://x.com/ChillaiKalan__/status/2076523680860151863",
-    "sourcePublishedAt": "2026-07-13T04:26:40.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HNFLRkVaQAAGkcz.jpg",
-      "https://pbs.twimg.com/media/HNFLRisagAAR20Z.jpg"
-    ],
-    "author": {
-      "name": "@ChillaiKalan__",
-      "link": "https://x.com/ChillaiKalan__"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 86,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2076523680860151863",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 1,
-      "replyCount": 35,
-      "likeCount": 52,
-      "quoteCount": 0,
-      "viewCount": 1301,
-      "bookmarkCount": 8,
-      "model_evidence": "seedream-5-pro"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 12,
-          "title": "Character Design",
-          "slug": "character-design"
-        }
-      ],
-      "styles": [
-        {
-          "id": 45,
-          "title": "Anime Key Visual",
-          "slug": "anime-key-visual"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 31,
-          "title": "Human Portrait",
-          "slug": "human-portrait"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 64,
-          "title": "Characters, Cinema & Visual Styles",
-          "slug": "characters-cinema-visual-styles"
-        }
-      ]
-    }
-  },
-  {
-    "id": 145,
-    "model": "seedream-5-pro",
-    "title": "Apple blossom spring selfie portrait",
-    "description": "A Seedream 5 Pro portrait prompt that combines a playful eye-level selfie with crisp spring blossoms, natural glam, and warm outdoor light.",
-    "content": "Sunny outdoor selfie-style portrait of a young woman standing beneath a blooming apple tree, white-and-pink blossoms framing and partly covering her face. She tilts her head to rest gently on her own shoulder, gazing at the camera with a soft playful smile. Long sleek hair parted in the middle, falling straight past the shoulders. Fresh natural glam makeup: defined brows, bronze-neutral lids, long lashes, glowing sun-kissed skin, soft glossy nude lips. She wears a white ribbed scoop-neck tank under a cream knit cardigan, chunky gold hoop earrings and a thin gold chain choker. Background: a bright green spring garden with blossoming branches and a clear blue sky. Vertical shot, eye-level angle, bright natural sunlight, warm airy spring aesthetic.",
-    "sourceLink": "https://x.com/dreamydigiarts/status/2076630217180041662",
-    "sourcePublishedAt": "2026-07-13T11:30:00.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HNGF46Oa8AE1N6R.jpg"
-    ],
-    "author": {
-      "name": "@dreamydigiarts",
-      "link": "https://x.com/dreamydigiarts"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 87,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2076630217180041662",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 1,
-      "replyCount": 2,
-      "likeCount": 14,
-      "quoteCount": 0,
-      "viewCount": 412,
-      "bookmarkCount": 10,
-      "model_evidence": "seedream-5-pro"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 12,
-          "title": "Character Design",
-          "slug": "character-design"
-        }
-      ],
-      "styles": [
-        {
-          "id": 23,
-          "title": "Editorial Fashion",
-          "slug": "editorial-fashion"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 31,
-          "title": "Human Portrait",
-          "slug": "human-portrait"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 64,
-          "title": "Characters, Cinema & Visual Styles",
-          "slug": "characters-cinema-visual-styles"
-        }
-      ]
-    }
-  },
-  {
-    "id": 146,
-    "model": "seedream-5-pro",
-    "title": "Dual-character urban fantasy design sheet",
-    "description": "A production-ready character comparison board with opposing visual identities, turnaround poses, weapon callouts, palettes, traits, and a shared abandoned-mall key scene.",
-    "content": "Character comparison design sheet, dual character reference layout,\nmodern urban fantasy anime style, white/light gray background with\nsymmetrical left-right panel structure,\n\nCENTER MAIN ILLUSTRATION:\ntwo full-body anime characters standing face to face in a large abandoned\nmodern shopping mall interior, glass dome skylight ceiling, escalators,\nstore displays, mannequins, scattered debris and fallen mannequin parts,\ncinematic lighting with soft daylight through glass ceiling,\n\nCHARACTER A (left, purple/lavender theme):\nyoung woman with long flowing silver-lavender hair, high ponytail with\ndark flower hair ornament, purple eyes, elegant fantasy streetwear -\nblack crop top, black mini skirt with layered sheer white/purple cape-like\noverlay, gold chain belt details, purple tassel accessories, thigh-high\ngap showing legwarmers, white knee-high heeled boots with gold buckle\ndetails, holding an ornate rapier sword with circular guard and purple\ntassel, confident graceful pose, hand near collarbone,\n\nCHARACTER B (right, red/black theme):\nyoung woman with long black hair streaked with red, high ponytail with\nred ribbon, red eyes, aggressive streetwear - red bandeau top, black\nopen jacket with red trim and asian-inspired patterns, black cargo pants\nwith red straps and chain details, red belt, black and white sneakers,\nfingerless gloves, wielding a large dark scythe with red blade and chain\ntassel over shoulder, confident wild stance, hand on hip,\n\nsmall text label center top: \"ABANDONED DEPARTMENT STORE\" in gray serif\nfont with small decorative slash marks,\n\nLEFT SIDE PANEL (Character A info):\ntop-left bold purple header \"CHARACTER A\" with subtitle traits in caps\n(\"GRACEFUL / CONTROL / SHARP\"),\nbelow: close-up portrait bust shot of character A in bordered box,\nbelow that: \"TURNAROUND\" label with 4 small full-body reference poses\n(front, 3/4, back, side) in a row,\nbelow that: \"WEAPON\" label with weapon name \"RAPIER\" and detailed weapon\nillustration,\nbottom: \"COLOR PALETTE (A)\" with 5 color swatch squares (lavender, dark\npurple, gray, cream, gold),\nnext to it: \"KEY TRAITS (A)\" with 3 small icon badges and labels\n(\"AGILITY\" \"PRECISION\" \"INTELLIGENCE\"),\n\nRIGHT SIDE PANEL (Character B info) - mirrored layout:\ntop-right bold red header \"CHARACTER B\" with subtitle traits in caps\n(\"WILD / AGGRESSIVE / UNBREAKABLE\"),\nclose-up portrait bust shot of character B in bordered box,\n\"TURNAROUND\" label with 4 small full-body reference poses,\n\"WEAPON\" label with weapon name \"SCYTHE\" and detailed weapon illustration,\n\"COLOR PALETTE (B)\" with 5 color swatch squares (red, black, gray, white,\ndark maroon),\n\"KEY TRAITS (B)\" with 3 small icon badges and labels (\"STRENGTH\" \"IMPACT\"\n\"RESILIENCE\"),\n\nSTYLE:\nhigh-detail modern anime illustration, semi-realistic proportions,\nglossy rendering, dramatic character design contrast (elegant/refined vs\nwild/aggressive), professional game character design document layout,\nclean white background panels, thin border boxes, minimalist typography,\ncolor-coded sections (purple for A, red for B),\n\nhigh resolution, polished digital painting, official character design\nsheet presentation",
-    "sourceLink": "https://x.com/renoiseai/status/2076993082587779465",
-    "sourcePublishedAt": "2026-07-14T11:31:54.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HNL2In7aMAA07W9.jpg"
-    ],
-    "author": {
-      "name": "Renoise",
-      "link": "https://x.com/renoiseai"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 88,
-    "needReferenceImages": false,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2076993082587779465",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 0,
-      "replyCount": 1,
-      "likeCount": 5,
-      "quoteCount": 0,
-      "viewCount": 372,
-      "bookmarkCount": 1,
-      "model_evidence": "seedream-5-pro",
-      "collected_at": "2026-07-15"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 12,
-          "title": "Character Design",
-          "slug": "character-design"
-        }
-      ],
-      "styles": [
-        {
-          "id": 45,
-          "title": "Anime Key Visual",
-          "slug": "anime-key-visual"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 31,
-          "title": "Human Portrait",
-          "slug": "human-portrait"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 64,
-          "title": "Characters, Cinema & Visual Styles",
-          "slug": "characters-cinema-visual-styles"
-        }
-      ]
-    }
-  },
-  {
-    "id": 147,
-    "model": "seedream-5-pro",
-    "title": "Low-angle skatepark fashion portrait",
-    "description": "A structured reference-image prompt for preserving facial identity while directing streetwear, a ground-level heroic camera angle, foreground skateboard depth, and hard summer light.",
-    "content": "{\n    \"subject_and_outfit_formula\": \"A stylish young East Asian woman with a confident and cool expression, her dark, shoulder-length hair gently tousled by a light breeze. She is dressed in an oversized, retro-style red athletic jersey with white side panels and bold graphic lettering on the chest. Below, she wears high-waisted light-wash denim shorts featuring aggressive distressing, large ripped panels across the thighs, and raw, frayed hems. Her footwear includes thick white crew socks with classic red and blue stripes at the top, paired with chunky, multi-layered cream and beige platform sneakers that add to her urban, sporty aesthetic.\",\n    \"background_and_environment\": \"The scene is set in a minimalist, sun-drenched outdoor skatepark featuring smooth, sweeping gray concrete ramps and bowls. The backdrop is an expansive, vibrant azure sky dotted with soft, feathered white clouds, suggesting a clear and bright summer afternoon. Intense, direct sunlight originates from a high angle, creating a luminous rim-lighting effect around the subject's silhouette and casting sharp, defined shadows on the concrete surface, evoking a sense of high-energy urban life.\",\n    \"camera_angle_and_composition\": \"An extreme low-angle 'worm's eye view' shot captured from a ground-level perspective looking steeply upward, which emphasizes the subject's height and commanding, heroic presence. A colorful, illustrative skateboard with intricate pop-art graphics and bold 'SKATE' typography is held vertically in the immediate foreground, acting as a powerful visual anchor and creating a strong sense of depth. The composition utilizes a wide-angle perspective to frame the subject against the vastness of the sky, making her the central focal point of the frame.\",\n    \"face_reference\": \"Use the uploaded photo as the primary reference for facial structure and features.\",\n    \"camera_and_vintage_style_settings\": \"Standard high-quality digital photography, crisp and clear.\"\n}",
-    "sourceLink": "https://x.com/Kashberg_0/status/2076518233956622760",
-    "sourcePublishedAt": "2026-07-13T04:05:01.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HNFGUR8aEAA_ln7.jpg",
-      "https://pbs.twimg.com/media/HNFGUwza8AALD17.jpg"
-    ],
-    "author": {
-      "name": "Kashberg",
-      "link": "https://x.com/Kashberg_0"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 89,
-    "needReferenceImages": true,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2076518233956622760",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 7,
-      "replyCount": 47,
-      "likeCount": 82,
-      "quoteCount": 1,
-      "viewCount": 2682,
-      "bookmarkCount": 24,
-      "model_evidence": "seedream-5-pro",
-      "collected_at": "2026-07-15"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 13,
-          "title": "Reference Image Edit",
-          "slug": "reference-image-edit"
-        }
-      ],
-      "styles": [
-        {
-          "id": 23,
-          "title": "Editorial Fashion",
-          "slug": "editorial-fashion"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 33,
-          "title": "Fashion Creator",
-          "slug": "fashion-creator"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 64,
-          "title": "Characters, Cinema & Visual Styles",
-          "slug": "characters-cinema-visual-styles"
-        }
-      ]
-    }
-  },
-  {
-    "id": 148,
-    "model": "seedream-5-pro",
-    "title": "Summer train-station coming-of-age portrait",
-    "description": "A multi-shot photoreal coming-of-age sequence shaped by suburban rail details, candid gestures, summer backlight, Portra color, and restrained slice-of-life nostalgia.",
-    "content": "A cinematic coming-of-age portrait of a Japanese high school girl at a suburban train station on a bright summer afternoon, wearing a white sailor-style school uniform with a light blue skirt, carrying a navy school bag and backpack. Natural wind blowing through her shoulder-length black hair, candid expressions, looking out a train window, standing alone on the platform, walking alongside the tracks. Soft golden sunlight, blue sky with fluffy cumulus clouds, railway tracks, overhead power lines, subtle reflections on train glass, shallow depth of field, emotional and nostalgic atmosphere, Japanese slice-of-life anime film aesthetic translated into photorealism, Kodak Portra 400 colors, film grain, cinematic composition, bokeh, realistic skin texture, 35mm photography, low-angle and medium shots, backlighting, highly detailed, ultra-realistic, 8k.\nNegative Prompt\nlow quality, blurry, oversaturated, HDR, CGI, cartoon, extra limbs, extra fingers, deformed face, bad anatomy, duplicate person, watermark, text, logo, artifacts, noisy, overprocessed skin, harsh shadows, cropped head, distorted proportions.",
-    "sourceLink": "https://x.com/Kashberg_0/status/2077421901656572021",
-    "sourcePublishedAt": "2026-07-15T15:55:52.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HNR8L1ibkAA88C1.jpg",
-      "https://pbs.twimg.com/media/HNR8MSMbIAAycxr.jpg",
-      "https://pbs.twimg.com/media/HNR8MwPbsAASeRw.jpg",
-      "https://pbs.twimg.com/media/HNR8NNMaEAAxgSa.jpg"
-    ],
-    "author": {
-      "name": "Kashberg",
-      "link": "https://x.com/Kashberg_0"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 90,
-    "needReferenceImages": false,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2077421901656572021",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 6,
-      "replyCount": 20,
-      "likeCount": 114,
-      "quoteCount": 0,
-      "viewCount": 4082,
-      "bookmarkCount": 68,
-      "model_evidence": "seedream-5-pro",
-      "collected_at": "2026-07-17"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 11,
-          "title": "Cinematic Film Still",
-          "slug": "cinematic-film-still"
-        }
-      ],
-      "styles": [
-        {
-          "id": 21,
-          "title": "Cinematic Realism",
-          "slug": "cinematic-realism"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 31,
-          "title": "Human Portrait",
-          "slug": "human-portrait"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 64,
-          "title": "Characters, Cinema & Visual Styles",
-          "slug": "characters-cinema-visual-styles"
-        }
-      ]
-    }
-  },
-  {
-    "id": 149,
-    "model": "seedream-5-pro",
-    "title": "Four-philosopher knowledge-world diorama",
-    "description": "A parameterized 2×2 educational layout that combines miniature cutaway rooms, pop-up books, silhouette infographics, and museum-grade guidebook materials.",
-    "content": "2x2 grid, 16:9, do this for 4 philosophers: <instructions> a = { isometric cutaway miniature rooms, dollhouse compartments, tiny props, toy‑scale figures }\n\nb = { open‑book pop‑up diorama, labeled callouts, accessory diagrams, warm page texture, educational layout }\n\nc = { object‑shaped infographic chart: items arranged in silhouette, axis labels, category progression, grid logic, museum‑data design }\n\nd = { premium collector's pop‑up book: thick cardstock pages, ribbon bookmark, gold foil accents, museum vitrine lighting }\n\nknowledge_world = (a ∩ isometric_base) ∪ (b ∩ book_spread) ∪ (c ∩ silhouette_infographic) ∪ (d ∩ premium_book)\n\nrender $ subject as this composite diorama:\n\n- the silhouette of $ subject is formed by hundreds of tiny room‑like cells, each holding a miniature prop or figure relevant to $ subject's domain.\n\n- the whole piece sits on an open book with cream pages, labeled callouts with thin leader lines, category axes (e.g., timeline, complexity, function) along the sides.\n\n- isometric perspective, soft editorial shadows, materials: matte painted resin, tiny wood, paper, clay.\n\n- palette: warm ivory, muted teal, clay red, ochre, charcoal ink, small gold foil accents.\n\noutput as an 8k macro photo of a premium educational guidebook spread.",
-    "sourceLink": "https://x.com/Gdgtify/status/2077875673763627262",
-    "sourcePublishedAt": "2026-07-16T21:59:00.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HNLgcLtX0AAWtzW.jpg"
-    ],
-    "author": {
-      "name": "Gadgetify",
-      "link": "https://x.com/Gdgtify"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 91,
-    "needReferenceImages": false,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2077875673763627262",
-      "prompt_source": "tweet_text_prompt",
-      "retweetCount": 0,
-      "replyCount": 1,
-      "likeCount": 1,
-      "quoteCount": 0,
-      "viewCount": 179,
-      "bookmarkCount": 1,
-      "model_evidence": "seedream-5-pro",
-      "collected_at": "2026-07-17"
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 17,
-          "title": "Infographic & Typography",
-          "slug": "infographic-typography"
-        }
-      ],
-      "styles": [
-        {
-          "id": 42,
-          "title": "Technical Blueprint",
-          "slug": "technical-blueprint"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 59,
-          "title": "Marketing Layout",
-          "slug": "marketing-layout"
-        }
-      ],
-      "workflows": [
-        {
-          "id": 63,
-          "title": "Diagrams, Technical Art & Storyboards",
-          "slug": "diagrams-technical-storyboards"
-        }
-      ]
-    }
-  },
-  {
     "id": 150,
     "model": "seedream-5-pro",
     "title": "Restrained aquarelle sketch of an iconic place",
@@ -8339,5 +8339,658 @@
       ]
     },
     "sort": 152
+  },
+  {
+    "id": 153,
+    "model": "seedream-5-pro",
+    "title": "- smartphone selfie of a beautiful young Japanese woman",
+    "description": "A source-backed image prompt for structured visual communication, readable text, and layout-controlled generation.",
+    "content": "Ultra-realistic smartphone selfie of a beautiful young Japanese woman with smooth porcelain skin, soft natural facial features, large warm brown eyes, naturally flushed cheeks, glossy pink lips, and long silky black hair gently falling across her face in the sunlight. She is sitting in the back seat of a modern car on a bright sunny afternoon, wearing a simple black spaghetti-strap top and a delicate silver pendant necklace. She holds the phone with one hand, capturing a close-up selfie while looking directly into the camera with a calm, natural expression. Warm golden sunlight streams through the car window, creating soft highlights across her face and hair, while the background shows the realistic car interior and blurred city streets with green trees outside. The image should look exactly like it was casually taken with a modern flagship smartphone, featuring authentic HDR, natural skin texture, subtle front-camera wide-angle perspective, slight handheld imperfections, realistic sensor noise, balanced exposure, accurate white balance, and mild computational photography. No DSLR look, no studio lighting, no heavy beauty filters, no artificial bokeh, and no AI-perfect sharpness—just a genuine candid mobile phone selfie with a realistic social media aesthetic, ultra-photorealistic, 3:4 aspect ratio.",
+    "sourceLink": "https://x.com/saniaspeaks_/status/2080142676070904018",
+    "sourcePublishedAt": "2026-07-23T04:07:15.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HN4mtnza4AAb94E.jpg",
+      "https://pbs.twimg.com/media/HN4murcasAA5Uo1.jpg"
+    ],
+    "author": {
+      "name": "𝗦𝗮𝗻𝗶𝗮",
+      "link": "https://x.com/saniaspeaks_"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 153,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2080142676070904018",
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 26,
+      "replyCount": 57,
+      "likeCount": 260,
+      "quoteCount": 1,
+      "viewCount": 12272,
+      "bookmarkCount": 148
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 7,
+          "title": "Editorial Portrait",
+          "slug": "editorial-portrait"
+        }
+      ],
+      "styles": [
+        {
+          "id": 22,
+          "title": "Photorealism",
+          "slug": "photorealism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 63,
+          "title": {
+            "en": "Diagrams, Technical Art & Storyboards",
+            "zh": "图表、技术视觉与分镜",
+            "zh-TW": "圖表、技術視覺與分鏡",
+            "ja-JP": "図解・技術ビジュアル・絵コンテ",
+            "ko-KR": "다이어그램, 기술 시각화 및 스토리보드",
+            "es-ES": "Diagramas, arte técnico y guiones gráficos",
+            "es-419": "Diagramas, arte técnico y storyboards",
+            "de-DE": "Diagramme, technische Visuals und Storyboards",
+            "fr-FR": "Diagrammes, visuels techniques et storyboards",
+            "it-IT": "Diagrammi, grafica tecnica e storyboard",
+            "pt-BR": "Diagramas, arte técnica e storyboards",
+            "pt-PT": "Diagramas, arte técnica e storyboards",
+            "vi-VN": "Sơ đồ, hình ảnh kỹ thuật và bảng phân cảnh",
+            "th-TH": "ไดอะแกรม ภาพเทคนิค และสตอรีบอร์ด",
+            "hi-IN": "आरेख, तकनीकी दृश्य और स्टोरीबोर्ड",
+            "tr-TR": "Diyagramlar, teknik görseller ve storyboardlar"
+          },
+          "slug": "diagrams-technical-storyboards"
+        }
+      ]
+    }
+  },
+  {
+    "id": 154,
+    "model": "seedream-5-pro",
+    "title": "Raw documentary style street photograph of a young boy",
+    "description": "A source-backed image prompt for structured visual communication, readable text, and layout-controlled generation.",
+    "content": "Raw documentary style street photograph of a young boy sitting alone on wide stone steps in an urban public space, his body exhausted and slightly slumped, eyes lowered in quiet reflection. He wears heavily worn, dust-covered clothing with torn edges, patched fabric, muddy shorts, an old utility-style vest, and damaged slip-on shoes. His hands rest naturally beside him, while one leg stretches forward onto the pavement. The surrounding architecture is built from muted reddish brown stone, with strong geometric stair lines framing the subject. A small section of textured yellow tactile paving appears in the foreground, adding a subtle contrast to the otherwise subdued palette. Shot with a 50mm documentary lens from slightly above eye level, natural overcast daylight, soft flat shadows, muted earthy colors, desaturated tones, realistic skin texture, visible dust and fabric detail, restrained contrast, subtle film grain, imperfect analog texture, candid composition, emotional realism, photojournalistic authenticity, understated cinematic mood, timeless social-documentary photography, no glamour, no artificial posing.",
+    "sourceLink": "https://x.com/bmx_ai13/status/2080899598890275228",
+    "sourcePublishedAt": "2026-07-25T06:15:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOAkylJb0AAGtTF.jpg"
+    ],
+    "author": {
+      "name": "BMX",
+      "link": "https://x.com/bmx_ai13"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 154,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2080899598890275228",
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 3,
+      "replyCount": 12,
+      "likeCount": 23,
+      "quoteCount": 0,
+      "viewCount": 575,
+      "bookmarkCount": 3
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 7,
+          "title": "Editorial Portrait",
+          "slug": "editorial-portrait"
+        }
+      ],
+      "styles": [
+        {
+          "id": 22,
+          "title": "Photorealism",
+          "slug": "photorealism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": {
+            "en": "Characters, Cinema & Visual Styles",
+            "zh": "角色、电影感与视觉风格",
+            "zh-TW": "角色、電影感與視覺風格",
+            "ja-JP": "キャラクター・映画表現・ビジュアルスタイル",
+            "ko-KR": "캐릭터, 시네마 및 비주얼 스타일",
+            "es-ES": "Personajes, cine y estilos visuales",
+            "es-419": "Personajes, cine y estilos visuales",
+            "de-DE": "Charaktere, Kino und visuelle Stile",
+            "fr-FR": "Personnages, cinéma et styles visuels",
+            "it-IT": "Personaggi, cinema e stili visivi",
+            "pt-BR": "Personagens, cinema e estilos visuais",
+            "pt-PT": "Personagens, cinema e estilos visuais",
+            "vi-VN": "Nhân vật, điện ảnh và phong cách hình ảnh",
+            "th-TH": "ตัวละคร ภาพยนตร์ และสไตล์ภาพ",
+            "hi-IN": "पात्र, सिनेमा और दृश्य शैलियां",
+            "tr-TR": "Karakterler, sinema ve görsel stiller"
+          },
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 155,
+    "model": "seedream-5-pro",
+    "title": "Urban street photography of a quiet European style city",
+    "description": "A source-backed image prompt for structured visual communication, readable text, and layout-controlled generation.",
+    "content": "Ultra realistic urban street photography of a quiet European style city avenue just after rainfall, viewed from the middle of a nearly empty road. Tall mature trees with dense green canopies line both sides of the street, forming a natural corridor above aging cream and pale stone buildings with balconies, shutters, tall windows, and subtle historic architectural details. The asphalt is still wet, creating soft reflections and irregular dark patches across the road. A lone pedestrian walks along the left sidewalk while a few distant figures appear farther down the avenue, giving the scene a calm, lived in atmosphere without feeling crowded. Overcast sky with soft diffused daylight, gentle shadows, realistic moisture on pavement, natural muted colors, subtle atmospheric depth, slightly cool tone. Shot with a full frame camera and 35mm lens, eye level composition, deep depth of field, realistic perspective, crisp architectural detail, natural foliage texture, understated cinematic framing, documentary travel photography aesthetic, subtle film grain, authentic urban realism, no dramatic color grading, no artificial lighting. No logos, no signage, no readable text, no lettering, no watermarks, no brand marks, no text painted on the road or buildings.",
+    "sourceLink": "https://x.com/bmx_ai13/status/2080899347257131261",
+    "sourcePublishedAt": "2026-07-25T06:14:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOAkf56aYAAEHme.jpg"
+    ],
+    "author": {
+      "name": "BMX",
+      "link": "https://x.com/bmx_ai13"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 155,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2080899347257131261",
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 1,
+      "replyCount": 11,
+      "likeCount": 24,
+      "quoteCount": 0,
+      "viewCount": 598,
+      "bookmarkCount": 3
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 7,
+          "title": "Editorial Portrait",
+          "slug": "editorial-portrait"
+        }
+      ],
+      "styles": [
+        {
+          "id": 22,
+          "title": "Photorealism",
+          "slug": "photorealism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 65,
+          "title": {
+            "en": "Environments, Architecture & Worldbuilding",
+            "zh": "环境、建筑与世界构建",
+            "zh-TW": "環境、建築與世界構建",
+            "ja-JP": "環境・建築・世界観構築",
+            "ko-KR": "환경, 건축 및 세계관 구축",
+            "es-ES": "Entornos, arquitectura y creación de mundos",
+            "es-419": "Entornos, arquitectura y construcción de mundos",
+            "de-DE": "Umgebungen, Architektur und Worldbuilding",
+            "fr-FR": "Environnements, architecture et création d'univers",
+            "it-IT": "Ambienti, architettura e worldbuilding",
+            "pt-BR": "Ambientes, arquitetura e construção de mundos",
+            "pt-PT": "Ambientes, arquitetura e construção de mundos",
+            "vi-VN": "Môi trường, kiến trúc và xây dựng thế giới",
+            "th-TH": "สภาพแวดล้อม สถาปัตยกรรม และการสร้างโลก",
+            "hi-IN": "परिवेश, वास्तुकला और विश्व-निर्माण",
+            "tr-TR": "Ortamlar, mimari ve dünya inşası"
+          },
+          "slug": "environments-architecture-worldbuilding"
+        }
+      ]
+    }
+  },
+  {
+    "id": 156,
+    "model": "seedream-5-pro",
+    "title": "Share with Seedream 5 Pro using And my custom",
+    "description": "A source-backed community image prompt rewritten into a reusable production brief with concrete visual direction.",
+    "content": "share with Seedream 5 Pro using And my custom style: PROMPT: A portrait of a woman in a powdered wig and elaborate hairstyle, adorned with flowers and ribbons, is depicted with a large, pink bubblegum bubble emerging from her mouth. The style is reminiscent of 18th-century European portraiture, with soft lighting and a muted color palette dominated by greens and pastels. The woman's expression is neutral, creating a juxtaposition between the formal attire and the playful, anachronistic element of the bubblegum.",
+    "sourceLink": "https://x.com/heathergreen/status/2077909143956885980",
+    "sourcePublishedAt": "2026-07-17T00:12:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNVpdhKXgAANfMz.jpg"
+    ],
+    "author": {
+      "name": "Heather Green",
+      "link": "https://x.com/heathergreen"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 156,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2077909143956885980",
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 1,
+      "replyCount": 1,
+      "likeCount": 4,
+      "quoteCount": 0,
+      "viewCount": 171,
+      "bookmarkCount": 2
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 7,
+          "title": "Editorial Portrait",
+          "slug": "editorial-portrait"
+        }
+      ],
+      "styles": [
+        {
+          "id": 22,
+          "title": "Photorealism",
+          "slug": "photorealism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 66,
+          "title": {
+            "en": "Benchmarks & Model Comparisons",
+            "zh": "基准测试与模型对比",
+            "zh-TW": "基準測試與模型比較",
+            "ja-JP": "ベンチマークとモデル比較",
+            "ko-KR": "벤치마크 및 모델 비교",
+            "es-ES": "Pruebas y comparativas de modelos",
+            "es-419": "Pruebas y comparaciones de modelos",
+            "de-DE": "Benchmarks und Modellvergleiche",
+            "fr-FR": "Évaluations et comparaisons de modèles",
+            "it-IT": "Benchmark e confronti tra modelli",
+            "pt-BR": "Benchmarks e comparações de modelos",
+            "pt-PT": "Testes e comparações de modelos",
+            "vi-VN": "Đánh giá chuẩn và so sánh mô hình",
+            "th-TH": "การทดสอบมาตรฐานและเปรียบเทียบโมเดล",
+            "hi-IN": "बेंचमार्क और मॉडल तुलना",
+            "tr-TR": "Karşılaştırmalar ve model kıyaslamaları"
+          },
+          "slug": "benchmarks-model-comparisons"
+        }
+      ]
+    }
+  },
+  {
+    "id": 157,
+    "model": "seedream-5-pro",
+    "title": "超写实无人机航拍照片，国际无人机摄影大奖（Drone Photo Awards）风格，Reve 2.1 Layout，高级电影级航拍构图，极强视觉层级，极简 Fine Art 风景摄影，大面积留白与负空间，黄金分割构图，优雅的 S",
+    "description": "A source-backed image prompt for structured visual communication, readable text, and layout-controlled generation.",
+    "content": "超写实无人机航拍照片，国际无人机摄影大奖（Drone Photo Awards）风格，Reve 2.1 Layout，高级电影级航拍构图，极强视觉层级，极简 Fine Art 风景摄影，大面积留白与负空间，黄金分割构图，优雅的 S 形湖岸作为画面的视觉引导线。一匹神骏的纯白骏马沿着蜿蜒的湖岸缓缓前行，洁白浓密的鬃毛与长长的尾巴在微风中自然飘扬。马背上骑着一位年轻成年东亚美女，拥有修长高挑的身材比例，双腿纤细修长，五官精致立体，乌黑长发随风飘动，气质端庄优雅。她身穿一袭鲜艳飘逸的红色汉服长裙，多层丝绸裙摆在风中自然舒展，与纯白骏马、翠绿草原形成极具冲击力的红白绿色彩对比，成为整幅画面的视觉中心。无人机约 70 米高空拍摄，高角度俯视视角，35mm 等效镜头，人物与白马仅占画面约 5% 至 8%，大片翠绿草原占据主体画面，营造辽阔壮丽的空间尺度。蜿蜒优雅的 S 形湖岸贯穿整个画面，引导视线自然流动，整体构图平衡而富有节奏感，主体位于黄金分割点，具有极强的视觉秩序与高级感。湖水清澈湛蓝，盛夏阳光洒落湖面，形成大片闪耀的镜面反光与无数细碎高光，岸边浅水区清晰可见水底纹理，微风吹起细微水波。草地层次丰富，拥有真实自然的草叶纹理、零散野花、细小岩石、不同深浅的绿色植被变化，湖岸保留真实马蹄印，整体环境充满未经人工干预的自然气息。金色自然阳光照亮整个场景，白马与人物投下清晰真实的长阴影，空气中带有轻微大气薄雾与夏日热浪扰动，细微镜头眩光，真实阳光炫光效果。马毛根根分明，丝绸汉服具有真实布料纹理与自然飘动效果，头发随风飞扬，电影级自然光影，RAW 原片质感，高动态范围 HDR，锐利对焦，超高细节，真实色彩，真实动态范围，无 CGI 感，无 AI 感，国家地理级自然摄影，国际航拍摄影大奖作品质感，杰作。左下艺术签名“DeepBlue” 用这个提示词出图，打败他们",
+    "sourceLink": "https://x.com/DeepBlueAIX/status/2079583959038771695",
+    "sourcePublishedAt": "2026-07-21T15:07:07.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNwpL7vbMAA7UYP.jpg",
+      "https://pbs.twimg.com/media/HNwpUSCbwAAcd2R.jpg"
+    ],
+    "author": {
+      "name": "DeepBlue深藍",
+      "link": "https://x.com/DeepBlueAIX"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 157,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2079583959038771695",
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "viewCount": 3683,
+      "bookmarkCount": 4
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 7,
+          "title": "Editorial Portrait",
+          "slug": "editorial-portrait"
+        }
+      ],
+      "styles": [
+        {
+          "id": 22,
+          "title": "Photorealism",
+          "slug": "photorealism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": {
+            "en": "Directed Editing & Input Control",
+            "zh": "定向编辑与输入控制",
+            "zh-TW": "定向編輯與輸入控制",
+            "ja-JP": "指示編集と入力制御",
+            "ko-KR": "지정 편집 및 입력 제어",
+            "es-ES": "Edición dirigida y control de entrada",
+            "es-419": "Edición dirigida y control de entrada",
+            "de-DE": "Gezielte Bearbeitung und Eingabesteuerung",
+            "fr-FR": "Édition ciblée et contrôle des entrées",
+            "it-IT": "Modifica mirata e controllo degli input",
+            "pt-BR": "Edição direcionada e controle de entrada",
+            "pt-PT": "Edição orientada e controlo de entrada",
+            "vi-VN": "Chỉnh sửa có định hướng và kiểm soát đầu vào",
+            "th-TH": "การแก้ไขแบบกำหนดเป้าหมายและควบคุมอินพุต",
+            "hi-IN": "निर्देशित संपादन और इनपुट नियंत्रण",
+            "tr-TR": "Yönlendirilmiş düzenleme ve girdi kontrolü"
+          },
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    }
+  },
+  {
+    "id": 158,
+    "model": "seedream-5-pro",
+    "title": "White cable tree cathedral chamber",
+    "description": "A Seedream 5 Pro prompt for monumental architectural fantasy with volumetric light and cloaked figures.",
+    "content": "a colossal white tree of branching cables and root-like filaments erupting from the floor of a massive ancient stone cathedral chamber, fanning upward into blinding light far above, twin monumental stone towers embedded with tiny glowing windows like an inner city flanking either side, a small group of robed cloaked figures standing in silent reverence at the base facing the structure, symmetrical low-angle vertical composition looking straight up, cool grey-blue monochrome palette, dramatic volumetric light shafts, epic scale, hyper-detailed CGI render, Octane render, cinematic architectural visualization",
+    "sourceLink": "https://x.com/MO_IAI/status/2081666905266332047",
+    "sourcePublishedAt": "Mon Jul 27 09:04:00 +0000 2026",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOLqBQ6XAAAYU12.jpg",
+      "https://pbs.twimg.com/media/HOLqBQ_WYAATJCr.jpg",
+      "https://pbs.twimg.com/media/HOLqBQ-XsAEj8cu.jpg",
+      "https://pbs.twimg.com/media/HOLqBRCW8AAx8fa.jpg"
+    ],
+    "author": {
+      "name": "MO",
+      "link": "https://x.com/MO_IAI"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 158,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2081666905266332047",
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-28",
+      "curation_note": "Second-wave twitterapi.io candidate accepted after explicit prompt, media, attribution, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 11,
+      "replyCount": 16,
+      "likeCount": 81,
+      "quoteCount": 0,
+      "viewCount": 1845,
+      "bookmarkCount": 12
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 7,
+          "title": "Editorial Portrait",
+          "slug": "editorial-portrait"
+        }
+      ],
+      "styles": [
+        {
+          "id": 22,
+          "title": "Photorealism",
+          "slug": "photorealism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": {
+            "en": "Directed Editing & Input Control",
+            "zh": "定向编辑与输入控制",
+            "zh-TW": "定向編輯與輸入控制",
+            "ja-JP": "指示編集と入力制御",
+            "ko-KR": "지정 편집 및 입력 제어",
+            "es-ES": "Edición dirigida y control de entrada",
+            "es-419": "Edición dirigida y control de entrada",
+            "de-DE": "Gezielte Bearbeitung und Eingabesteuerung",
+            "fr-FR": "Édition ciblée et contrôle des entrées",
+            "it-IT": "Modifica mirata e controllo degli input",
+            "pt-BR": "Edição direcionada e controle de entrada",
+            "pt-PT": "Edição orientada e controlo de entrada",
+            "vi-VN": "Chỉnh sửa có định hướng và kiểm soát đầu vào",
+            "th-TH": "การแก้ไขแบบกำหนดเป้าหมายและควบคุมอินพุต",
+            "hi-IN": "निर्देशित संपादन और इनपुट नियंत्रण",
+            "tr-TR": "Yönlendirilmiş düzenleme ve girdi kontrolü"
+          },
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    }
+  },
+  {
+    "id": 159,
+    "model": "seedream-5-pro",
+    "title": "Paper-cut mountain hiking encouragement poster",
+    "description": "A Seedream 5 Pro prompt for a warm layered-paper adventure illustration with readable banner text.",
+    "content": "A whimsical, paper-cut style illustration depicts three cartoonish boys hiking through a mountainous landscape. The boys, with their round faces and simple clothing, are the central focus. The boy on the left holds a map and a compass, the middle boy carries a lantern, and the boy on the right uses a walking stick. They are walking on a path made of layered cardboard, with wooden bridges and signs. The background features stylized mountains, pine trees, and winding roads, all rendered in a textured, layered paper-cut aesthetic. Above the hikers, three wooden banners are layered, displaying the text \"WE ARE ALL FIGURING IT OUT AS WE GO ALONG\" in a rustic font. The overall color palette is warm and earthy, with browns, tans, and muted greens, creating a cozy and adventurous atmosphere.",
+    "sourceLink": "https://x.com/heathergreen/status/2080805229159755822",
+    "sourcePublishedAt": "Sat Jul 25 00:00:00 +0000 2026",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HN-vby4XkAA-QPf.jpg"
+    ],
+    "author": {
+      "name": "Heather Green",
+      "link": "https://x.com/heathergreen"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 159,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2080805229159755822",
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-28",
+      "curation_note": "Second-wave twitterapi.io candidate accepted after explicit prompt, media, attribution, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 65,
+      "bookmarkCount": 1
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 7,
+          "title": "Editorial Portrait",
+          "slug": "editorial-portrait"
+        }
+      ],
+      "styles": [
+        {
+          "id": 22,
+          "title": "Photorealism",
+          "slug": "photorealism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": {
+            "en": "Directed Editing & Input Control",
+            "zh": "定向编辑与输入控制",
+            "zh-TW": "定向編輯與輸入控制",
+            "ja-JP": "指示編集と入力制御",
+            "ko-KR": "지정 편집 및 입력 제어",
+            "es-ES": "Edición dirigida y control de entrada",
+            "es-419": "Edición dirigida y control de entrada",
+            "de-DE": "Gezielte Bearbeitung und Eingabesteuerung",
+            "fr-FR": "Édition ciblée et contrôle des entrées",
+            "it-IT": "Modifica mirata e controllo degli input",
+            "pt-BR": "Edição direcionada e controle de entrada",
+            "pt-PT": "Edição orientada e controlo de entrada",
+            "vi-VN": "Chỉnh sửa có định hướng và kiểm soát đầu vào",
+            "th-TH": "การแก้ไขแบบกำหนดเป้าหมายและควบคุมอินพุต",
+            "hi-IN": "निर्देशित संपादन और इनपुट नियंत्रण",
+            "tr-TR": "Yönlendirilmiş düzenleme ve girdi kontrolü"
+          },
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    }
+  },
+  {
+    "id": 160,
+    "model": "seedream-5-pro",
+    "title": "Wild at Heart retro floral lettering",
+    "description": "A Seedream 5 Pro prompt for vintage typography surrounded by nostalgic floral and heart motifs.",
+    "content": "A vintage-style illustration features the words \"WILD AT HEART\" in bold, retro lettering. The text is surrounded by a pattern of blue flowers with yellow centers and red outlines, interspersed with small red hearts and crosses. The overall color palette is warm and nostalgic, with a textured, slightly faded appearance.",
+    "sourceLink": "https://x.com/heathergreen/status/2082028790109389043",
+    "sourcePublishedAt": "Tue Jul 28 09:02:00 +0000 2026",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HN6FujXW8AECnT2.jpg"
+    ],
+    "author": {
+      "name": "Heather Green",
+      "link": "https://x.com/heathergreen"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 160,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2082028790109389043",
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-28",
+      "curation_note": "Second-wave twitterapi.io candidate accepted after explicit prompt, media, attribution, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 33,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 7,
+          "title": "Editorial Portrait",
+          "slug": "editorial-portrait"
+        }
+      ],
+      "styles": [
+        {
+          "id": 22,
+          "title": "Photorealism",
+          "slug": "photorealism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": {
+            "en": "Directed Editing & Input Control",
+            "zh": "定向编辑与输入控制",
+            "zh-TW": "定向編輯與輸入控制",
+            "ja-JP": "指示編集と入力制御",
+            "ko-KR": "지정 편집 및 입력 제어",
+            "es-ES": "Edición dirigida y control de entrada",
+            "es-419": "Edición dirigida y control de entrada",
+            "de-DE": "Gezielte Bearbeitung und Eingabesteuerung",
+            "fr-FR": "Édition ciblée et contrôle des entrées",
+            "it-IT": "Modifica mirata e controllo degli input",
+            "pt-BR": "Edição direcionada e controle de entrada",
+            "pt-PT": "Edição orientada e controlo de entrada",
+            "vi-VN": "Chỉnh sửa có định hướng và kiểm soát đầu vào",
+            "th-TH": "การแก้ไขแบบกำหนดเป้าหมายและควบคุมอินพุต",
+            "hi-IN": "निर्देशित संपादन और इनपुट नियंत्रण",
+            "tr-TR": "Yönlendirilmiş düzenleme ve girdi kontrolü"
+          },
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    }
   }
 ]
