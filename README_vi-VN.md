@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Tổng số prompt | **139** |
 | Nổi bật | **10** |
-| Cập nhật lần cuối | **lúc 10:33:18 UTC Thứ Sáu, 31 tháng 7, 2026** |
+| Cập nhật lần cuối | **lúc 13:50:39 UTC Thứ Sáu, 31 tháng 7, 2026** |
 
 </div>
 
@@ -5620,6 +5620,6 @@ Cách đóng góp
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Lịch sử star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Cập nhật lần cuối: 2026-07-31T10:33:18.385Z</sub>
+<sub>Cập nhật lần cuối: 2026-07-31T13:50:39.695Z</sub>
 
 </div>
