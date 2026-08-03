@@ -404,9 +404,9 @@ Group multilingual samples by rendered language and local-text use case.
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **141** |
+| Total Prompts | **142** |
 | Featured | **10** |
-| Last Updated | **Monday, August 3, 2026 at 2:16:15 PM UTC** |
+| Last Updated | **Monday, August 3, 2026 at 3:30:07 PM UTC** |
 
 </div>
 
@@ -2580,7 +2580,7 @@ Create an exploded technical diagram of a compact high-end AI camera module, eve
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### Characters, Cinema & Visual Styles (51)
+### Characters, Cinema & Visual Styles (52)
 
 Character, portrait, fashion, cinematic-frame, and style-exploration prompts centered on visual direction and image language.
 
@@ -3550,24 +3550,26 @@ sheet presentation
 
 <a id="prompt-147"></a>
 
-#### No. 71: Low-angle skatepark fashion portrait
+#### No. 71: Low-angle red-jersey skatepark fashion campaign
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
 
 ##### Description
 
-A structured reference-image prompt for preserving facial identity while directing streetwear, a ground-level heroic camera angle, foreground skateboard depth, and hard summer light.
+A source-backed Seedream 5.0 Pro fashion brief rebuilt around low-angle campaign composition, fictional typography, fabric control, sunlight, and negative constraints.
 
 ##### Prompt
 
 ```
 {
-    "subject_and_outfit_formula": "A stylish young East Asian woman with a confident and cool expression, her dark, shoulder-length hair gently tousled by a light breeze. She is dressed in an oversized, retro-style red athletic jersey with white side panels and bold graphic lettering on the chest. Below, she wears high-waisted light-wash denim shorts featuring aggressive distressing, large ripped panels across the thighs, and raw, frayed hems. Her footwear includes thick white crew socks with classic red and blue stripes at the top, paired with chunky, multi-layered cream and beige platform sneakers that add to her urban, sporty aesthetic.",
-    "background_and_environment": "The scene is set in a minimalist, sun-drenched outdoor skatepark featuring smooth, sweeping gray concrete ramps and bowls. The backdrop is an expansive, vibrant azure sky dotted with soft, feathered white clouds, suggesting a clear and bright summer afternoon. Intense, direct sunlight originates from a high angle, creating a luminous rim-lighting effect around the subject's silhouette and casting sharp, defined shadows on the concrete surface, evoking a sense of high-energy urban life.",
-    "camera_angle_and_composition": "An extreme low-angle 'worm's eye view' shot captured from a ground-level perspective looking steeply upward, which emphasizes the subject's height and commanding, heroic presence. A colorful, illustrative skateboard with intricate pop-art graphics and bold 'SKATE' typography is held vertically in the immediate foreground, acting as a powerful visual anchor and creating a strong sense of depth. The composition utilizes a wide-angle perspective to frame the subject against the vastness of the sky, making her the central focal point of the frame.",
-    "face_reference": "Use the uploaded photo as the primary reference for facial structure and features.",
-    "camera_and_vintage_style_settings": "Standard high-quality digital photography, crisp and clear."
+    "subject": "A stylish adult East Asian woman with a confident, cool expression and dark shoulder-length hair gently lifted by a light breeze.",
+    "wardrobe": "An oversized retro red athletic jersey with white side panels and bold fictional graphic lettering, light-wash high-waisted denim shorts with large distressed panels and raw hems, striped white crew socks, and chunky cream platform sneakers.",
+    "environment": "A minimalist sunlit outdoor skatepark with smooth gray concrete ramps and bowls beneath a vivid azure sky with soft feathered clouds.",
+    "composition": "Use an extreme low-angle worm’s-eye view from ground level. The subject stands centered against the sky while a colorful illustrated skateboard with fictional SKATE lettering is held vertically in the foreground as a strong depth anchor. Keep the face unobstructed and leave controlled negative space around the silhouette.",
+    "camera_and_light": "Wide-angle digital photography with crisp facial focus, high-angle sunlight from above, defined concrete shadows, a bright rim around the subject, and natural outdoor color response.",
+    "finishing": "Premium editorial campaign finish with realistic fabric, skin, paper-sticker, and concrete textures; balanced contrast; accurate hands; consistent anatomy; clean fictional lettering; no logos or watermarks.",
+    "negative_prompt": "celebrity likeness, real brand marks, illegible text, warped lettering, extra fingers, malformed hands, duplicate skateboard, duplicate subject, plastic skin, excessive smoothing, CGI, cartoon, anime, painterly rendering, oversaturation, clipped highlights, crushed shadows, blur, noise, watermark, frame"
 }
 ```
 
@@ -3575,8 +3577,8 @@ A structured reference-image prompt for preserving facial identity while directi
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNFGUR8aEAA_ln7.jpg" width="100%" alt="Low-angle skatepark fashion portrait - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNFGUwza8AALD17.jpg" width="100%" alt="Low-angle skatepark fashion portrait - Image 2"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNFGUR8aEAA_ln7.jpg" width="100%" alt="Low-angle red-jersey skatepark fashion campaign - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNFGUwza8AALD17.jpg" width="100%" alt="Low-angle red-jersey skatepark fashion campaign - Image 2"></td>
 </tr>
 </table>
 
@@ -3816,9 +3818,45 @@ Create an epic vertical composition of an endless colonnade of sentinel angel st
 
 ---
 
+<a id="prompt-163"></a>
+
+#### No. 78: High-contrast orange-red fashion campaign portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Description
+
+A source-backed Seedream 5.0 Pro studio brief controlling editorial pose, orange-to-red gradient, rim light, skin detail, camera optics, and negative constraints.
+
+##### Prompt
+
+```
+Create a hyper-realistic editorial studio portrait for a premium clothing campaign. Show a self-assured adult fashion model in a solid black polo shirt, cropped at the waist, with the chin tilted slightly upward and the eyes looking past the lens. Use a seamless blazing orange-to-red gradient background. Add a radiant golden rim light tracing the hair and shoulder line, dramatic backlight for separation, and a gentle beauty key that sculpts the face without plastic skin. Shoot with an 85mm prime at f/2.0, shallow subject-isolating depth of field, crisp facial focus, punchy contrast, controlled highlights and shadows, HDR dynamic range, balanced symmetry, and polished 8K editorial detail. Exclude blur, noise, blown highlights, crushed shadows, facial warping, malformed anatomy, duplicated features, watermarks, logos, embedded text, a cropped head, clutter, cartoon styling, painterly rendering, CGI, and oversaturation.
+```
+
+##### Generated Images
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOzJCKWagAAsT7T.jpg" width="100%" alt="High-contrast orange-red fashion campaign portrait - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOzJCKQaoAAX-Hr.jpg" width="100%" alt="High-contrast orange-red fashion campaign portrait - Image 2"></td>
+</tr>
+</table>
+
+##### Details
+
+- **Author:** [simeon-sanai](https://x.com/Naiknelofar788)
+- **Source:** [Source](https://x.com/Naiknelofar788/status/2084261775026110656)
+- **Published:** August 3, 2026
+- **Languages:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/seedream-5-pro)**
+
+---
+
 <a id="prompt-131"></a>
 
-#### No. 78: Four-film-still noir lighting prompt set
+#### No. 79: Four-film-still noir lighting prompt set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3866,7 +3904,7 @@ Cinematic thriller film still, "Static Frequency". Interior wide shot: an abando
 
 <a id="prompt-132"></a>
 
-#### No. 79: Transparent android ballet halation portrait
+#### No. 80: Transparent android ballet halation portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3901,7 +3939,7 @@ Create a hybrid female android with translucent skin and white-gray mechanical p
 
 <a id="prompt-95"></a>
 
-#### No. 80: Extreme close-up portrait camera template
+#### No. 81: Extreme close-up portrait camera template
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3937,7 +3975,7 @@ Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. 
 
 <a id="prompt-79"></a>
 
-#### No. 81: Master ink art animal study
+#### No. 82: Master ink art animal study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3972,7 +4010,7 @@ Generate a master-level traditional ink artwork of a mythic crane and pine tree 
 
 <a id="prompt-81"></a>
 
-#### No. 82: Pancake angel dessert illustration
+#### No. 83: Pancake angel dessert illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4007,7 +4045,7 @@ Create a delicate pancake angel character sitting on a stack of fluffy pancakes,
 
 <a id="prompt-82"></a>
 
-#### No. 83: Soft anime expression pair
+#### No. 84: Soft anime expression pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4043,7 +4081,7 @@ Generate a paired anime character study of the same young adventurer in two emot
 
 <a id="prompt-85"></a>
 
-#### No. 84: Cloud maker fantasy portrait
+#### No. 85: Cloud maker fantasy portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4078,7 +4116,7 @@ Create a magical realist portrait titled The Cloud Maker. Show a solitary figure
 
 <a id="prompt-98"></a>
 
-#### No. 85: Casual cafe-step street portrait
+#### No. 86: Casual cafe-step street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4124,7 +4162,7 @@ Camera feel: taken by a friend standing in front of her with a smartphone, using
 
 <a id="prompt-118"></a>
 
-#### No. 86: Fashion outfit editorial set in a parking structure
+#### No. 87: Fashion outfit editorial set in a parking structure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4162,7 +4200,7 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 
 <a id="prompt-92"></a>
 
-#### No. 87: Backlit street portrait feeding stray cats
+#### No. 88: Backlit street portrait feeding stray cats
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4198,7 +4236,7 @@ A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid compos
 
 <a id="prompt-129"></a>
 
-#### No. 88: Anime skateboard sequence with multiple shot prompts
+#### No. 89: Anime skateboard sequence with multiple shot prompts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4246,7 +4284,7 @@ A girl with a sharp bob cut, purple hair with black accent strands, stylized lay
 
 <a id="prompt-117"></a>
 
-#### No. 89: ARRI-style cinematic city close-up
+#### No. 90: ARRI-style cinematic city close-up
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4293,7 +4331,7 @@ A teenager stands behind a metal chain-link fence in a grassy outdoor area. She 
 
 <a id="prompt-114"></a>
 
-#### No. 90: Japanese casual portrait styling set
+#### No. 91: Japanese casual portrait styling set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4331,7 +4369,7 @@ A beautiful young Japanese woman, natural and effortless beauty, soft glowing sk
 
 <a id="prompt-121"></a>
 
-#### No. 91: Iridescent glass-flower editorial poster
+#### No. 92: Iridescent glass-flower editorial poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4370,7 +4408,7 @@ The layout is filled with clean blocks of small white placeholder body text and 
 
 <a id="prompt-106"></a>
 
-#### No. 92: Melting-world-landmarks concept generation
+#### No. 93: Melting-world-landmarks concept generation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4406,13 +4444,13 @@ world's landmarks, melting like wax
 
 <a id="workflow-environments-architecture-worldbuilding"></a>
 
-### Environments, Architecture & Worldbuilding (12)
+### Environments, Architecture & Worldbuilding (11)
 
 Environment, architecture, landscape, concept-art, and worldbuilding prompts where the place itself carries the idea.
 
 <a id="prompt-13"></a>
 
-#### No. 93: Capital ship over alien planet
+#### No. 94: Capital ship over alien planet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4447,7 +4485,7 @@ Render a massive capital-class spaceship orbiting a fictional alien planet. Use 
 
 <a id="prompt-15"></a>
 
-#### No. 94: Floating temple archipelago key visual
+#### No. 95: Floating temple archipelago key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4482,7 +4520,7 @@ Design a wide anime establishing shot of ancient temple islands floating above a
 
 <a id="prompt-40"></a>
 
-#### No. 95: Ash Country post-apocalypse wanderer
+#### No. 96: Ash Country post-apocalypse wanderer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4517,7 +4555,7 @@ Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray 
 
 <a id="prompt-44"></a>
 
-#### No. 96: Dense neon-noir city skyline
+#### No. 97: Dense neon-noir city skyline
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4552,7 +4590,7 @@ Render a dense neon-noir dystopian city skyline at night from a high 24mm vantag
 
 <a id="prompt-48"></a>
 
-#### No. 97: Parametric landmark infographic pair
+#### No. 98: Parametric landmark infographic pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4588,7 +4626,7 @@ Create a parametric architectural infographic for a famous landmark. Combine a c
 
 <a id="prompt-75"></a>
 
-#### No. 98: Worldbuilding anchor frame color grade
+#### No. 99: Worldbuilding anchor frame color grade
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4619,7 +4657,7 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 
 <a id="prompt-150"></a>
 
-#### No. 99: Restrained aquarelle sketch of an iconic place
+#### No. 100: Restrained aquarelle sketch of an iconic place
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4692,7 +4730,7 @@ The strongest detail and color should remain in the middle-ground focal area. Th
 
 <a id="prompt-155"></a>
 
-#### No. 100: Urban street photography of a quiet European style city
+#### No. 101: Urban street photography of a quiet European style city
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4727,7 +4765,7 @@ Ultra realistic urban street photography of a quiet European style city avenue j
 
 <a id="prompt-91"></a>
 
-#### No. 101: Ethereal librarian on a frozen lake
+#### No. 102: Ethereal librarian on a frozen lake
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4762,7 +4800,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 <a id="prompt-89"></a>
 
-#### No. 102: Knight beneath a colossal stone sentinel
+#### No. 103: Knight beneath a colossal stone sentinel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4811,7 +4849,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 <a id="prompt-112"></a>
 
-#### No. 103: Impossible-scale cinematic sci-fi worldbuilding set
+#### No. 104: Impossible-scale cinematic sci-fi worldbuilding set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4851,41 +4889,6 @@ A mountain village built on impossibly tall stone pillars extends far above Eart
 - **Author:** [@AllaAisling](https://x.com/AllaAisling)
 - **Source:** [Source](https://x.com/AllaAisling/status/2075036565147906511)
 - **Published:** July 9, 2026
-- **Languages:** en
-
-**[Use this prompt on ImagineVid](https://imaginevid.io/seedream-5-pro)**
-
----
-
-<a id="prompt-109"></a>
-
-#### No. 104: Solar-powered desert research station concept
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-##### Description
-
-A source-backed demo from the original public X post, demonstrating solar-powered desert research station concept.
-
-##### Prompt
-
-```
-A solar-powered research station in a desert, featuring domed structures, solar panels, and various equipment for energy and research management.
-```
-
-##### Generated Images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuUz-gbUAAvKWr.jpg" width="100%" alt="Solar-powered desert research station concept - Image 1"></td>
-</tr>
-</table>
-
-##### Details
-
-- **Author:** [@ashen_one](https://x.com/ashen_one)
-- **Source:** [Source](https://x.com/ashen_one/status/2074915677815886071)
-- **Published:** July 8, 2026
 - **Languages:** en
 
 **[Use this prompt on ImagineVid](https://imaginevid.io/seedream-5-pro)**
@@ -5544,7 +5547,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 <div align="center">
 
-### 11 more prompts not shown here
+### 12 more prompts not shown here
 
 Due to GitHub README length limits, only the first 120 regular prompts are displayed here.
 
@@ -5590,7 +5593,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 - [ImagineVid](https://imaginevid.io)
 <details>
-<summary>Community creators we thank (95)</summary>
+<summary>Community creators we thank (96)</summary>
 
 [@_wib_](https://x.com/_wib_) · [@aaliya_va](https://x.com/aaliya_va) · [@abdoul94_](https://x.com/abdoul94_) · [@ahmetmertugrul](https://x.com/ahmetmertugrul) · [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [@AiwithZohaib](https://x.com/AiwithZohaib) · [@al_tools43377](https://x.com/al_tools43377) · [@AllaAisling](https://x.com/AllaAisling)<br>
 [@Arminn_Ai](https://x.com/Arminn_Ai) · [@asatoucan](https://x.com/asatoucan) · [@asheem01](https://x.com/asheem01) · [@ashen_one](https://x.com/ashen_one) · [@ayumi_t820](https://x.com/ayumi_t820) · [@aziz4ai](https://x.com/aziz4ai) · [@bdsqlsz](https://x.com/bdsqlsz) · [@Bic_Revelation](https://x.com/Bic_Revelation)<br>
@@ -5603,7 +5606,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 [@noorwithwifi](https://x.com/noorwithwifi) · [@op7418](https://x.com/op7418) · [@OpenDesignHQ](https://x.com/OpenDesignHQ) · [@Photonotix16](https://x.com/Photonotix16) · [@renataro9](https://x.com/renataro9) · [@renoiseai](https://x.com/renoiseai) · [@roco_kn_roco](https://x.com/roco_kn_roco) · [@rovvmut_](https://x.com/rovvmut_)<br>
 [@SeharShinwari](https://x.com/SeharShinwari) · [@shikoba_86](https://x.com/shikoba_86) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@stargliderbr](https://x.com/stargliderbr) · [@Strength04_X](https://x.com/Strength04_X) · [@sulekhat95](https://x.com/sulekhat95) · [@techhalla](https://x.com/techhalla) · [@techxsarfraj](https://x.com/techxsarfraj)<br>
 [@ThinkerSilentH](https://x.com/ThinkerSilentH) · [@TlanoAI](https://x.com/TlanoAI) · [@underwoodxie96](https://x.com/underwoodxie96) · [@UnityEagle](https://x.com/UnityEagle) · [@westkast](https://x.com/westkast) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [@ZariaTechAI](https://x.com/ZariaTechAI) · [@ZephyraLeigh](https://x.com/ZephyraLeigh)<br>
-[@Zubnet](https://x.com/Zubnet) · [BMX](https://x.com/bmx_ai13) · [Gadgetify](https://x.com/Gdgtify) · [Heather Green](https://x.com/heathergreen) · [Kashberg](https://x.com/Kashberg_0) · [MO](https://x.com/MO_IAI) · [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
+[@Zubnet](https://x.com/Zubnet) · [BMX](https://x.com/bmx_ai13) · [Gadgetify](https://x.com/Gdgtify) · [Heather Green](https://x.com/heathergreen) · [Kashberg](https://x.com/Kashberg_0) · [MO](https://x.com/MO_IAI) · [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) · [simeon-sanai](https://x.com/Naiknelofar788)
 
 </details>
 
@@ -5623,6 +5626,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star this repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-08-03T14:16:15.294Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-08-03T15:30:07.832Z</sub>
 
 </div>
