@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | プロンプト総数 | **139** |
 | 注目 | **10** |
-| 最終更新 | **2026年8月3日月曜日 6:54:59 UTC** |
+| 最終更新 | **2026年8月3日月曜日 11:17:14 UTC** |
 
 </div>
 
@@ -5620,6 +5620,6 @@ Due to GitHub README length limits, only the first 120 regular prompts are displ
 **[プロンプトを投稿](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-08-03T06:54:59.505Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-08-03T11:17:14.547Z</sub>
 
 </div>
