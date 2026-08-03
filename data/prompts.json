@@ -8992,5 +8992,137 @@
         }
       ]
     }
+  },
+  {
+    "id": 161,
+    "model": "seedream-5-pro",
+    "title": "Playful cafe twin-braid fashion portrait",
+    "description": "A source-backed Seedream 5.0 Pro lifestyle portrait that combines a playful gesture, precise wardrobe details, airy cafe architecture, and premium DSLR realism.",
+    "content": "A charming photorealistic lifestyle portrait of a beautiful young japani woman posing playfully outside a modern minimalist café on a bright sunny day. She is slightly leaning forward while making a cute peace sign near her face, wearing a gentle smile with closed eyes. She has long dark brown hair styled in soft twin braids, glowing porcelain skin, rosy cheeks, soft natural makeup, defined brows, long lashes, and coral pink lips. She wears an oversized white polo shirt tucked into a beige pleated mini skirt, a white baseball cap with a small red embroidered logo, and a delicate bracelet. A luxury dark brown leather shoulder bag with gold hardware hangs from her shoulder. The background features a clean white building with black-framed doors and windows, potted pink and white flowers, and a modern café entrance. Bright natural daylight creates soft shadows and a fresh, airy atmosphere. Korean fashion aesthetic, casual summer outfit, cute college style, ultra-realistic DSLR photography, cinematic composition, shallow depth of field, creamy bokeh, 50mm lens, f/1.8, HDR, 8K, highly detailed skin texture, premium color grading, Vogue-style editorial, minimalist architecture, vibrant yet soft colors, magazine-quality photography.",
+    "sourceLink": "https://x.com/saniaspeaks_/status/2082675918565495235",
+    "sourcePublishedAt": "2026-07-30T03:53:27.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOcmsVBXsAABpZH.jpg",
+      "https://pbs.twimg.com/media/HOcmtBCW0AEOrix.jpg"
+    ],
+    "author": {
+      "name": "𝗦𝗮𝗻𝗶𝗮",
+      "link": "https://x.com/saniaspeaks_"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 161,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2082675918565495235",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-08-03",
+      "retweetCount": 4,
+      "replyCount": 42,
+      "likeCount": 114,
+      "quoteCount": 1,
+      "viewCount": 3970,
+      "bookmarkCount": 40
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": {
+            "en": "Reference Image Edit",
+            "zh": "参考图编辑",
+            "zh-TW": "参考圖编辑",
+            "ja-JP": "Reference Image Edit",
+            "ko-KR": "Reference Image Edit",
+            "es-ES": "Reference Image Edit",
+            "es-419": "Reference Image Edit",
+            "de-DE": "Reference Image Edit",
+            "fr-FR": "Reference Image Edit",
+            "it-IT": "Reference Image Edit",
+            "pt-BR": "Reference Image Edit",
+            "pt-PT": "Reference Image Edit",
+            "vi-VN": "Reference Image Edit",
+            "th-TH": "Reference Image Edit",
+            "hi-IN": "Reference Image Edit",
+            "tr-TR": "Reference Image Edit"
+          },
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": {
+            "en": "Editorial Fashion",
+            "zh": "编辑级时装",
+            "zh-TW": "编辑级時裝",
+            "ja-JP": "Editorial Fashion",
+            "ko-KR": "Editorial Fashion",
+            "es-ES": "Editorial Fashion",
+            "es-419": "Editorial Fashion",
+            "de-DE": "Editorial Fashion",
+            "fr-FR": "Editorial Fashion",
+            "it-IT": "Editorial Fashion",
+            "pt-BR": "Editorial Fashion",
+            "pt-PT": "Editorial Fashion",
+            "vi-VN": "Editorial Fashion",
+            "th-TH": "Editorial Fashion",
+            "hi-IN": "Editorial Fashion",
+            "tr-TR": "Editorial Fashion"
+          },
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": {
+            "en": "Human Portrait",
+            "zh": "人物肖像",
+            "zh-TW": "人物肖像",
+            "ja-JP": "Human Portrait",
+            "ko-KR": "Human Portrait",
+            "es-ES": "Human Portrait",
+            "es-419": "Human Portrait",
+            "de-DE": "Human Portrait",
+            "fr-FR": "Human Portrait",
+            "it-IT": "Human Portrait",
+            "pt-BR": "Human Portrait",
+            "pt-PT": "Human Portrait",
+            "vi-VN": "Human Portrait",
+            "th-TH": "Human Portrait",
+            "hi-IN": "Human Portrait",
+            "tr-TR": "Human Portrait"
+          },
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": {
+            "en": "Characters, Cinema & Visual Styles",
+            "zh": "角色、电影感与视觉风格",
+            "zh-TW": "角色、電影感與視覺風格",
+            "ja-JP": "キャラクター・映画表現・ビジュアルスタイル",
+            "ko-KR": "캐릭터, 시네마 및 비주얼 스타일",
+            "es-ES": "Personajes, cine y estilos visuales",
+            "es-419": "Personajes, cine y estilos visuales",
+            "de-DE": "Charaktere, Kino und visuelle Stile",
+            "fr-FR": "Personnages, cinéma et styles visuels",
+            "it-IT": "Personaggi, cinema e stili visivi",
+            "pt-BR": "Personagens, cinema e estilos visuais",
+            "pt-PT": "Personagens, cinema e estilos visuais",
+            "vi-VN": "Nhân vật, điện ảnh và phong cách hình ảnh",
+            "th-TH": "ตัวละคร ภาพยนตร์ และสไตล์ภาพ",
+            "hi-IN": "पात्र, सिनेमा और दृश्य शैलियां",
+            "tr-TR": "Karakterler, sinema ve görsel stiller"
+          },
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
   }
 ]

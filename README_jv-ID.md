@@ -404,9 +404,9 @@ Group multilingual samples by rendered language and local-text use case.
 
 | Metrik | Jumlah |
 |--------|-------|
-| Total prompt | **139** |
+| Total prompt | **140** |
 | Pilihan | **10** |
-| Paling anyar dianyari | **Selasa, 28 Juli 2026 ing 10:50:22 UTC** |
+| Paling anyar dianyari | **Senin, 3 Agustus 2026 ing 13:15:41 UTC** |
 
 </div>
 
@@ -2580,7 +2580,7 @@ Create an exploded technical diagram of a compact high-end AI camera module, eve
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### Characters, Cinema & Visual Styles (50)
+### Characters, Cinema & Visual Styles (51)
 
 Character, portrait, fashion, cinematic-frame, and style-exploration prompts centered on visual direction and image language.
 
@@ -3742,9 +3742,45 @@ Raw documentary style street photograph of a young boy sitting alone on wide sto
 
 ---
 
+<a id="prompt-161"></a>
+
+#### No. 76: Playful cafe twin-braid fashion portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Deskripsi
+
+A source-backed Seedream 5.0 Pro lifestyle portrait that combines a playful gesture, precise wardrobe details, airy cafe architecture, and premium DSLR realism.
+
+##### Prompt
+
+```
+A charming photorealistic lifestyle portrait of a beautiful young japani woman posing playfully outside a modern minimalist café on a bright sunny day. She is slightly leaning forward while making a cute peace sign near her face, wearing a gentle smile with closed eyes. She has long dark brown hair styled in soft twin braids, glowing porcelain skin, rosy cheeks, soft natural makeup, defined brows, long lashes, and coral pink lips. She wears an oversized white polo shirt tucked into a beige pleated mini skirt, a white baseball cap with a small red embroidered logo, and a delicate bracelet. A luxury dark brown leather shoulder bag with gold hardware hangs from her shoulder. The background features a clean white building with black-framed doors and windows, potted pink and white flowers, and a modern café entrance. Bright natural daylight creates soft shadows and a fresh, airy atmosphere. Korean fashion aesthetic, casual summer outfit, cute college style, ultra-realistic DSLR photography, cinematic composition, shallow depth of field, creamy bokeh, 50mm lens, f/1.8, HDR, 8K, highly detailed skin texture, premium color grading, Vogue-style editorial, minimalist architecture, vibrant yet soft colors, magazine-quality photography.
+```
+
+##### Gambar sing digawe
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOcmsVBXsAABpZH.jpg" width="100%" alt="Playful cafe twin-braid fashion portrait - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOcmtBCW0AEOrix.jpg" width="100%" alt="Playful cafe twin-braid fashion portrait - Image 2"></td>
+</tr>
+</table>
+
+##### Rincian
+
+- **Panulis:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
+- **Sumber:** [Sumber](https://x.com/saniaspeaks_/status/2082675918565495235)
+- **Diterbitake:** 30 Juli 2026
+- **Basa:** en
+
+**[Gunakake prompt iki · ImagineVid](https://imaginevid.io/seedream-5-pro)**
+
+---
+
 <a id="prompt-131"></a>
 
-#### No. 76: Four-film-still noir lighting prompt set
+#### No. 77: Four-film-still noir lighting prompt set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3792,7 +3828,7 @@ Cinematic thriller film still, "Static Frequency". Interior wide shot: an abando
 
 <a id="prompt-132"></a>
 
-#### No. 77: Transparent android ballet halation portrait
+#### No. 78: Transparent android ballet halation portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3827,7 +3863,7 @@ Create a hybrid female android with translucent skin and white-gray mechanical p
 
 <a id="prompt-95"></a>
 
-#### No. 78: Extreme close-up portrait camera template
+#### No. 79: Extreme close-up portrait camera template
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3863,7 +3899,7 @@ Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. 
 
 <a id="prompt-79"></a>
 
-#### No. 79: Master ink art animal study
+#### No. 80: Master ink art animal study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3898,7 +3934,7 @@ Generate a master-level traditional ink artwork of a mythic crane and pine tree 
 
 <a id="prompt-81"></a>
 
-#### No. 80: Pancake angel dessert illustration
+#### No. 81: Pancake angel dessert illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3933,7 +3969,7 @@ Create a delicate pancake angel character sitting on a stack of fluffy pancakes,
 
 <a id="prompt-82"></a>
 
-#### No. 81: Soft anime expression pair
+#### No. 82: Soft anime expression pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3969,7 +4005,7 @@ Generate a paired anime character study of the same young adventurer in two emot
 
 <a id="prompt-85"></a>
 
-#### No. 82: Cloud maker fantasy portrait
+#### No. 83: Cloud maker fantasy portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4004,7 +4040,7 @@ Create a magical realist portrait titled The Cloud Maker. Show a solitary figure
 
 <a id="prompt-98"></a>
 
-#### No. 83: Casual cafe-step street portrait
+#### No. 84: Casual cafe-step street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4050,7 +4086,7 @@ Camera feel: taken by a friend standing in front of her with a smartphone, using
 
 <a id="prompt-118"></a>
 
-#### No. 84: Fashion outfit editorial set in a parking structure
+#### No. 85: Fashion outfit editorial set in a parking structure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4088,7 +4124,7 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 
 <a id="prompt-92"></a>
 
-#### No. 85: Backlit street portrait feeding stray cats
+#### No. 86: Backlit street portrait feeding stray cats
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4124,7 +4160,7 @@ A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid compos
 
 <a id="prompt-129"></a>
 
-#### No. 86: Anime skateboard sequence with multiple shot prompts
+#### No. 87: Anime skateboard sequence with multiple shot prompts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4172,7 +4208,7 @@ A girl with a sharp bob cut, purple hair with black accent strands, stylized lay
 
 <a id="prompt-117"></a>
 
-#### No. 87: ARRI-style cinematic city close-up
+#### No. 88: ARRI-style cinematic city close-up
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4219,7 +4255,7 @@ A teenager stands behind a metal chain-link fence in a grassy outdoor area. She 
 
 <a id="prompt-114"></a>
 
-#### No. 88: Japanese casual portrait styling set
+#### No. 89: Japanese casual portrait styling set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4257,7 +4293,7 @@ A beautiful young Japanese woman, natural and effortless beauty, soft glowing sk
 
 <a id="prompt-121"></a>
 
-#### No. 89: Iridescent glass-flower editorial poster
+#### No. 90: Iridescent glass-flower editorial poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4296,7 +4332,7 @@ The layout is filled with clean blocks of small white placeholder body text and 
 
 <a id="prompt-106"></a>
 
-#### No. 90: Melting-world-landmarks concept generation
+#### No. 91: Melting-world-landmarks concept generation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4332,7 +4368,7 @@ world's landmarks, melting like wax
 
 <a id="prompt-113"></a>
 
-#### No. 91: Fantasy fallen-angel warrior key visual
+#### No. 92: Fantasy fallen-angel warrior key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4373,7 +4409,7 @@ Environment, architecture, landscape, concept-art, and worldbuilding prompts whe
 
 <a id="prompt-13"></a>
 
-#### No. 92: Capital ship over alien planet
+#### No. 93: Capital ship over alien planet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4408,7 +4444,7 @@ Render a massive capital-class spaceship orbiting a fictional alien planet. Use 
 
 <a id="prompt-15"></a>
 
-#### No. 93: Floating temple archipelago key visual
+#### No. 94: Floating temple archipelago key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4443,7 +4479,7 @@ Design a wide anime establishing shot of ancient temple islands floating above a
 
 <a id="prompt-40"></a>
 
-#### No. 94: Ash Country post-apocalypse wanderer
+#### No. 95: Ash Country post-apocalypse wanderer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4478,7 +4514,7 @@ Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray 
 
 <a id="prompt-44"></a>
 
-#### No. 95: Dense neon-noir city skyline
+#### No. 96: Dense neon-noir city skyline
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4513,7 +4549,7 @@ Render a dense neon-noir dystopian city skyline at night from a high 24mm vantag
 
 <a id="prompt-48"></a>
 
-#### No. 96: Parametric landmark infographic pair
+#### No. 97: Parametric landmark infographic pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4549,7 +4585,7 @@ Create a parametric architectural infographic for a famous landmark. Combine a c
 
 <a id="prompt-75"></a>
 
-#### No. 97: Worldbuilding anchor frame color grade
+#### No. 98: Worldbuilding anchor frame color grade
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4580,7 +4616,7 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 
 <a id="prompt-150"></a>
 
-#### No. 98: Restrained aquarelle sketch of an iconic place
+#### No. 99: Restrained aquarelle sketch of an iconic place
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4653,7 +4689,7 @@ The strongest detail and color should remain in the middle-ground focal area. Th
 
 <a id="prompt-155"></a>
 
-#### No. 99: Urban street photography of a quiet European style city
+#### No. 100: Urban street photography of a quiet European style city
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4688,7 +4724,7 @@ Ultra realistic urban street photography of a quiet European style city avenue j
 
 <a id="prompt-91"></a>
 
-#### No. 100: Ethereal librarian on a frozen lake
+#### No. 101: Ethereal librarian on a frozen lake
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4723,7 +4759,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 <a id="prompt-89"></a>
 
-#### No. 101: Knight beneath a colossal stone sentinel
+#### No. 102: Knight beneath a colossal stone sentinel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4772,7 +4808,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 <a id="prompt-112"></a>
 
-#### No. 102: Impossible-scale cinematic sci-fi worldbuilding set
+#### No. 103: Impossible-scale cinematic sci-fi worldbuilding set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4820,7 +4856,7 @@ A mountain village built on impossibly tall stone pillars extends far above Eart
 
 <a id="prompt-109"></a>
 
-#### No. 103: Solar-powered desert research station concept
+#### No. 104: Solar-powered desert research station concept
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4855,7 +4891,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 <a id="workflow-benchmarks-model-comparisons"></a>
 
-### Benchmarks & Model Comparisons (18)
+### Benchmarks & Model Comparisons (17)
 
 Controlled tests and comparisons used to evaluate prompt following, editing behavior, consistency, typography, or visual quality.
 
@@ -4865,7 +4901,7 @@ Controlled tests and comparisons used to evaluate prompt following, editing beha
 
 <a id="prompt-4"></a>
 
-#### No. 104: Avant-garde streetwear creator sheet
+#### No. 105: Avant-garde streetwear creator sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4903,7 +4939,7 @@ Design a full-body character sheet for a male creator in avant-garde streetwear.
 
 <a id="prompt-6"></a>
 
-#### No. 105: Maldives tropical paradise visual
+#### No. 106: Maldives tropical paradise visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4954,7 +4990,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 <a id="prompt-53"></a>
 
-#### No. 106: Makeup identity-preservation comparison
+#### No. 107: Makeup identity-preservation comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4993,7 +5029,7 @@ Use the uploaded portrait as the identity anchor. Change only the makeup: add re
 
 <a id="prompt-156"></a>
 
-#### No. 107: Share with Seedream 5 Pro using And my custom
+#### No. 108: Share with Seedream 5 Pro using And my custom
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5028,7 +5064,7 @@ share with Seedream 5 Pro using And my custom style: PROMPT: A portrait of a wom
 
 <a id="prompt-133"></a>
 
-#### No. 108: Four Symbols macro eye poster comparison
+#### No. 109: Four Symbols macro eye poster comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -5075,7 +5111,7 @@ Unified requirements: arrange all four panels neatly like a high-end art exhibit
 
 <a id="prompt-76"></a>
 
-#### No. 109: Sepia documentary portrait study
+#### No. 110: Sepia documentary portrait study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5113,7 +5149,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 <a id="prompt-99"></a>
 
-#### No. 110: Minimal painting replacement iteration test
+#### No. 111: Minimal painting replacement iteration test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -5145,7 +5181,7 @@ Change the painting.
 
 <a id="prompt-83"></a>
 
-#### No. 111: Afternoon street portrait prompt
+#### No. 112: Afternoon street portrait prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5189,7 +5225,7 @@ A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro
 
 <a id="prompt-84"></a>
 
-#### No. 112: Old-money creator turnaround sheet
+#### No. 113: Old-money creator turnaround sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5227,7 +5263,7 @@ Character design sheet, full body turnaround, 23-year-old tall lean male creator
 
 <a id="prompt-86"></a>
 
-#### No. 113: Same-prompt model comparison triptych
+#### No. 114: Same-prompt model comparison triptych
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5264,7 +5300,7 @@ Create a clean three-panel comparison board for the same visual prompt across th
 
 <a id="prompt-93"></a>
 
-#### No. 114: 1990s Andalusian home-video still
+#### No. 115: 1990s Andalusian home-video still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5299,7 +5335,7 @@ A public same-prompt Seedream 5 Pro comparison prompt recreating the imperfect e
 
 <a id="prompt-110"></a>
 
-#### No. 115: Reference-image camera-angle change comparison
+#### No. 116: Reference-image camera-angle change comparison
 
 ![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -5338,7 +5374,7 @@ A source-backed evaluation from the original public X post, demonstrating refere
 
 <a id="prompt-128"></a>
 
-#### No. 116: Lake Como fashion scene comparison against Banana Pro
+#### No. 117: Lake Como fashion scene comparison against Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5382,7 +5418,7 @@ Natural skin texture with soft luminosity, gentle sheen on nose and lips, crisp 
 
 <a id="prompt-127"></a>
 
-#### No. 117: Fantasy village watermill comparison against GPT Image 2
+#### No. 118: Fantasy village watermill comparison against GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5418,7 +5454,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 <a id="prompt-111"></a>
 
-#### No. 118: Oversized beverage-can advertising composition comparison
+#### No. 119: Oversized beverage-can advertising composition comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5454,7 +5490,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 <a id="prompt-96"></a>
 
-#### No. 119: Bedroom mirror-selfie influencer portrait
+#### No. 120: Bedroom mirror-selfie influencer portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5499,49 +5535,13 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 ---
 
-<a id="prompt-107"></a>
-
-#### No. 120: Seedream vs GPT Image 2 for clean lifestyle portrait styling
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-##### Deskripsi
-
-A source-backed evaluation from the original public X post, demonstrating seedream vs gpt image 2 for clean lifestyle portrait styling.
-
-##### Prompt
-
-```
-摄影风格：冷白清透CCD生活照风 写真方向：轻熟生活照 场景方向：酒店泳池外步道 / 白色躺椅 / 浅蓝池水 / 简洁遮阳伞 服装方向：浅鼠尾草色修身无袖针织短裙 气质标签：温柔、清透、轻熟、安静、有吸引力 五官方向：真实清透自然脸，安静干净，不网红 五官细节：柔和鹅蛋脸，面部轮廓自然；清亮杏眼，眼神温柔安静；鼻型流畅小巧；唇形柔软克制，低饱和裸粉唇色；整体是安静、通透、舒服的生活感美人脸 发型方向：自然黑长发或低扎发，发丝顺滑，额前少量碎发，带一点微风感 身形方向：轻盈纤细，上围饱满自然 线条强调：强 镜头方向：大腿及上半身 姿态动作：站在泳池步道边，身体轻微侧向镜头，一只手自然垂落，另一只手轻扶裙侧 光线氛围：高色温晴天自然光 + 水面反射光 + 冷白极弱柔闪 滤镜效果：冷白高光 + 蓝白清透生活照色彩 + 轻颗粒 + 轻数码噪点 + 轻微过曝 画幅比例：9:16 补充要求：连衣裙贴身柔软，突出胸部轮廓、腰线和整体修长感，人物五官要安静耐看，整体要冷白清爽，不要商业泳池大片感
-```
-
-##### Gambar sing digawe
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMt9I5-aMAAeyVy.jpg" width="100%" alt="Seedream vs GPT Image 2 for clean lifestyle portrait styling - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMt9NQkaoAAbk2M.jpg" width="100%" alt="Seedream vs GPT Image 2 for clean lifestyle portrait styling - Image 2"></td>
-</tr>
-</table>
-
-##### Rincian
-
-- **Panulis:** [@liyue_ai](https://x.com/liyue_ai)
-- **Sumber:** [Sumber](https://x.com/liyue_ai/status/2074890690686005590)
-- **Diterbitake:** 8 Juli 2026
-- **Basa:** zh
-
-**[Gunakake prompt iki · ImagineVid](https://imaginevid.io/seedream-5-pro)**
-
----
-
 ---
 
 ## More prompts available
 
 <div align="center">
 
-### 9 more prompts not shown here
+### 10 more prompts not shown here
 
 Due to GitHub README length limits, only the first 120 regular prompts are displayed here.
 
@@ -5620,6 +5620,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Kirim Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Wenehi Star repo iki](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-28T10:50:22.097Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-08-03T13:15:41.704Z</sub>
 
 </div>
