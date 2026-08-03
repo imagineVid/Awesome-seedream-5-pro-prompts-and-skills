@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | 提示詞總數 | **139** |
 | 精选 | **10** |
-| 最後更新 | **2026年8月2日 星期日 晚上8:46:51 [UTC]** |
+| 最後更新 | **2026年8月3日 星期一 凌晨2:13:17 [UTC]** |
 
 </div>
 
@@ -5620,6 +5620,6 @@ Due to GitHub README length limits, only the first 120 regular prompts are displ
 **[提交提示词](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>本 README 自動生成。最後更新： 2026-08-02T20:46:51.872Z</sub>
+<sub>本 README 自動生成。最後更新： 2026-08-03T02:13:17.363Z</sub>
 
 </div>
