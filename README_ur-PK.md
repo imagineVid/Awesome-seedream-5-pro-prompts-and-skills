@@ -404,9 +404,9 @@ Group multilingual samples by rendered language and local-text use case.
 
 | پیمانہ | تعداد |
 |--------|-------|
-| کل پرامپٹس | **140** |
+| کل پرامپٹس | **141** |
 | نمایاں | **10** |
-| آخری اپ ڈیٹ | **پیر، 3 اگست، 2026 کو 1:27:04 PM UTC** |
+| آخری اپ ڈیٹ | **پیر، 3 اگست، 2026 کو 2:16:15 PM UTC** |
 
 </div>
 
@@ -3778,9 +3778,47 @@ A charming photorealistic lifestyle portrait of a beautiful young japani woman p
 
 ---
 
+<a id="prompt-162"></a>
+
+#### No. 77: Sentinel angel colonnade on a storm-lit sea cliff
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### تفصیل
+
+A source-backed Seedream 5.0 Pro environment study that uses repeated form, material continuity, atmospheric scale, and storm light to build an epic vertical composition.
+
+##### پرامپٹ
+
+```
+Create an epic vertical composition of an endless colonnade of sentinel angel statues lining a sheer coastal cliff face. Show hundreds of identical bowed-head figures with folded wings carved from the same continuous marble bedrock. Streak the white stone with iron-oxide rust bleeding down the cliff. Below, colossal surf explodes against the cliff base. Use low dramatic storm light raking horizontally across the row for maximum scale contrast, with birds swarming in the distance as a human-scale reference. Preserve repeated sculptural identity, believable marble continuity, wet atmospheric depth, and a monumental editorial sense of scale.
+```
+
+##### بنائی گئی تصاویر
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOlJP0OWEAAmmo0.jpg" width="100%" alt="Sentinel angel colonnade on a storm-lit sea cliff - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOlJPz-XAAASezd.jpg" width="100%" alt="Sentinel angel colonnade on a storm-lit sea cliff - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOlJPz_WUAAuV2e.jpg" width="100%" alt="Sentinel angel colonnade on a storm-lit sea cliff - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOlJP0BWwAA2a-n.jpg" width="100%" alt="Sentinel angel colonnade on a storm-lit sea cliff - Image 4"></td>
+</tr>
+</table>
+
+##### تفصیلات
+
+- **مصنف:** [MO](https://x.com/MO_IAI)
+- **ماخذ:** [ماخذ](https://x.com/MO_IAI/status/2083276993039069396)
+- **شائع شدہ:** 31 جولائی، 2026
+- **زبانیں:** en
+
+**[یہ پرامپٹ استعمال کریں · ImagineVid](https://imaginevid.io/seedream-5-pro)**
+
+---
+
 <a id="prompt-131"></a>
 
-#### No. 77: Four-film-still noir lighting prompt set
+#### No. 78: Four-film-still noir lighting prompt set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3828,7 +3866,7 @@ Cinematic thriller film still, "Static Frequency". Interior wide shot: an abando
 
 <a id="prompt-132"></a>
 
-#### No. 78: Transparent android ballet halation portrait
+#### No. 79: Transparent android ballet halation portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3863,7 +3901,7 @@ Create a hybrid female android with translucent skin and white-gray mechanical p
 
 <a id="prompt-95"></a>
 
-#### No. 79: Extreme close-up portrait camera template
+#### No. 80: Extreme close-up portrait camera template
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3899,7 +3937,7 @@ Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. 
 
 <a id="prompt-79"></a>
 
-#### No. 80: Master ink art animal study
+#### No. 81: Master ink art animal study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3934,7 +3972,7 @@ Generate a master-level traditional ink artwork of a mythic crane and pine tree 
 
 <a id="prompt-81"></a>
 
-#### No. 81: Pancake angel dessert illustration
+#### No. 82: Pancake angel dessert illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3969,7 +4007,7 @@ Create a delicate pancake angel character sitting on a stack of fluffy pancakes,
 
 <a id="prompt-82"></a>
 
-#### No. 82: Soft anime expression pair
+#### No. 83: Soft anime expression pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4005,7 +4043,7 @@ Generate a paired anime character study of the same young adventurer in two emot
 
 <a id="prompt-85"></a>
 
-#### No. 83: Cloud maker fantasy portrait
+#### No. 84: Cloud maker fantasy portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4040,7 +4078,7 @@ Create a magical realist portrait titled The Cloud Maker. Show a solitary figure
 
 <a id="prompt-98"></a>
 
-#### No. 84: Casual cafe-step street portrait
+#### No. 85: Casual cafe-step street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4086,7 +4124,7 @@ Camera feel: taken by a friend standing in front of her with a smartphone, using
 
 <a id="prompt-118"></a>
 
-#### No. 85: Fashion outfit editorial set in a parking structure
+#### No. 86: Fashion outfit editorial set in a parking structure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4124,7 +4162,7 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 
 <a id="prompt-92"></a>
 
-#### No. 86: Backlit street portrait feeding stray cats
+#### No. 87: Backlit street portrait feeding stray cats
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4160,7 +4198,7 @@ A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid compos
 
 <a id="prompt-129"></a>
 
-#### No. 87: Anime skateboard sequence with multiple shot prompts
+#### No. 88: Anime skateboard sequence with multiple shot prompts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4208,7 +4246,7 @@ A girl with a sharp bob cut, purple hair with black accent strands, stylized lay
 
 <a id="prompt-117"></a>
 
-#### No. 88: ARRI-style cinematic city close-up
+#### No. 89: ARRI-style cinematic city close-up
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4255,7 +4293,7 @@ A teenager stands behind a metal chain-link fence in a grassy outdoor area. She 
 
 <a id="prompt-114"></a>
 
-#### No. 89: Japanese casual portrait styling set
+#### No. 90: Japanese casual portrait styling set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4293,7 +4331,7 @@ A beautiful young Japanese woman, natural and effortless beauty, soft glowing sk
 
 <a id="prompt-121"></a>
 
-#### No. 90: Iridescent glass-flower editorial poster
+#### No. 91: Iridescent glass-flower editorial poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4332,7 +4370,7 @@ The layout is filled with clean blocks of small white placeholder body text and 
 
 <a id="prompt-106"></a>
 
-#### No. 91: Melting-world-landmarks concept generation
+#### No. 92: Melting-world-landmarks concept generation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4359,41 +4397,6 @@ world's landmarks, melting like wax
 
 - **مصنف:** [@magnific](https://x.com/magnific)
 - **ماخذ:** [ماخذ](https://x.com/magnific/status/2074918700709523881)
-- **شائع شدہ:** 8 جولائی، 2026
-- **زبانیں:** en
-
-**[یہ پرامپٹ استعمال کریں · ImagineVid](https://imaginevid.io/seedream-5-pro)**
-
----
-
-<a id="prompt-113"></a>
-
-#### No. 92: Fantasy fallen-angel warrior key visual
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-##### تفصیل
-
-A source-backed demo from the original public X post, demonstrating fantasy fallen-angel warrior key visual.
-
-##### پرامپٹ
-
-```
-A divine fallen angel warrior kneeling in the center of an ancient celestial temple, thrusting a massive flaming holy sword into a cracked white marble floor, the impact creating glowing lava-like fractures and flying debris. Gigantic pure white feathered wings spread wide behind the warrior, wearing ornate gold and crimson medieval armor with intricate engravings, a flowing dark red cape, and ram-like curled white horns. Glowing crimson eyes stare downward with an intense, wrathful expression. A colossal circular celestial halo filled with sacred runes, geometric symbols, and ancient inscriptions dominates the background. Powerful golden volumetric sunlight pours from the upper right, illuminating the wings and armor while dramatic shadows fill the environment. Dust, smoke, ash, and embers swirl around the impact point. Hyper-detailed feathers, realistic metal reflections, cinematic fantasy atmosphere, epic dark fantasy, divine judgment, ultra-realistic, photorealistic, Unreal Engine 5, Octane Render, ray-traced global illumination, volumetric fog, HDR lighting, 8K,
-```
-
-##### بنائی گئی تصاویر
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuHS8ha4AA-xra.jpg" width="100%" alt="Fantasy fallen-angel warrior key visual - Image 1"></td>
-</tr>
-</table>
-
-##### تفصیلات
-
-- **مصنف:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
-- **ماخذ:** [ماخذ](https://x.com/SimplyAnnisa/status/2074900816662774189)
 - **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
@@ -5541,7 +5544,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 <div align="center">
 
-### 10 more prompts not shown here
+### 11 more prompts not shown here
 
 Due to GitHub README length limits, only the first 120 regular prompts are displayed here.
 
@@ -5620,6 +5623,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[پرامپٹ جمع کریں](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[اس ریپو کو Star کریں](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-08-03T13:27:04.800Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-08-03T14:16:15.474Z</sub>
 
 </div>
