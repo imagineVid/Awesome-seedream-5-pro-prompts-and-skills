@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Jumla ya Prompt | **142** |
 | Iliyochaguliwa | **10** |
-| Ilisasishwa Mwisho | **Ijumaa, 7 Agosti 2026 saa 00:51:33 UTC** |
+| Ilisasishwa Mwisho | **Ijumaa, 7 Agosti 2026 saa 05:36:03 UTC** |
 
 </div>
 
@@ -5626,6 +5626,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Wasilisha Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Weka Star kwenye repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-08-07T00:51:33.809Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-08-07T05:36:03.867Z</sub>
 
 </div>
