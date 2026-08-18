@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | סך הפרומפטים | **142** |
 | נבחר | **10** |
-| עודכן לאחרונה | **יום שלישי, 18 באוגוסט 2026 בשעה 16:23:51 UTC** |
+| עודכן לאחרונה | **יום שלישי, 18 באוגוסט 2026 בשעה 20:16:39 UTC** |
 
 </div>
 
@@ -5626,6 +5626,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[שליחת פרומפט](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[תנו Star לריפו](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-08-18T16:23:51.359Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-08-18T20:16:39.741Z</sub>
 
 </div>
