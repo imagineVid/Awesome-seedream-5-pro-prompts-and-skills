@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Celkem promptů | **142** |
 | Doporučené | **10** |
-| Naposledy aktualizováno | **pátek 4. září 2026 v 22:01:22 UTC** |
+| Naposledy aktualizováno | **sobota 5. září 2026 v 2:31:14 UTC** |
 
 </div>
 
@@ -5626,6 +5626,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Odeslat prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dát repozitáři Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-09-04T22:01:22.860Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-09-05T02:31:14.292Z</sub>
 
 </div>
