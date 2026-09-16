@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Prompt totali | **142** |
 | In evidenza | **10** |
-| Ultimo aggiornamento | **martedì 15 settembre 2026 alle ore 22:38:42 UTC** |
+| Ultimo aggiornamento | **mercoledì 16 settembre 2026 alle ore 02:54:42 UTC** |
 
 </div>
 
@@ -5626,6 +5626,6 @@ Come contribuire
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Storico star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Ultimo aggiornamento: 2026-09-15T22:38:42.762Z</sub>
+<sub>Ultimo aggiornamento: 2026-09-16T02:54:42.302Z</sub>
 
 </div>
