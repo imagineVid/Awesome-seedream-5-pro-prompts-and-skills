@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | کل پرامپٹس | **142** |
 | نمایاں | **10** |
-| آخری اپ ڈیٹ | **پیر، 28 ستمبر، 2026 کو 7:07:09 PM UTC** |
+| آخری اپ ڈیٹ | **منگل، 29 ستمبر، 2026 کو 12:07:30 AM UTC** |
 
 </div>
 
@@ -5626,6 +5626,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[پرامپٹ جمع کریں](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[اس ریپو کو Star کریں](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-09-28T19:07:09.507Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-09-29T00:07:30.909Z</sub>
 
 </div>
