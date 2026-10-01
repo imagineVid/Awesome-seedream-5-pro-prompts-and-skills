@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Promptteja yhteensä | **142** |
 | Nosto | **10** |
-| Viimeksi päivitetty | **torstai 1. lokakuuta 2026 klo 10.39.09 UTC** |
+| Viimeksi päivitetty | **torstai 1. lokakuuta 2026 klo 17.52.42 UTC** |
 
 </div>
 
@@ -5626,6 +5626,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Lähetä promptti](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Anna repolle Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-10-01T10:39:09.902Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-10-01T17:52:42.366Z</sub>
 
 </div>
