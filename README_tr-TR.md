@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Toplam prompt | **142** |
 | Öne çıkan | **10** |
-| Son güncelleme | **1 Kasım 2026 Pazar 23:17:45 UTC** |
+| Son güncelleme | **2 Kasım 2026 Pazartesi 03:55:58 UTC** |
 
 </div>
 
@@ -5626,6 +5626,6 @@ Nasıl katkı verilir
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star geçmişi](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Son güncelleme: 2026-11-01T23:17:45.262Z</sub>
+<sub>Son güncelleme: 2026-11-02T03:55:58.542Z</sub>
 
 </div>
