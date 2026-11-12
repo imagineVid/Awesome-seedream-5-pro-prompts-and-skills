@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Jumlah Prompt | **142** |
 | Pilihan | **10** |
-| Kemas Kini Terakhir | **Rabu, 11 November 2026 pada 7:08:47 PTG UTC** |
+| Kemas Kini Terakhir | **Khamis, 12 November 2026 pada 1:45:57 PG UTC** |
 
 </div>
 
@@ -5626,6 +5626,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Hantar Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star repo ini](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-11-11T19:08:47.507Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-11-12T01:45:57.730Z</sub>
 
 </div>

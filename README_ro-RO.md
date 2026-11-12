@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Total prompturi | **142** |
 | Recomandat | **10** |
-| Ultima actualizare | **miercuri, 11 noiembrie 2026 la 19:08:47 UTC** |
+| Ultima actualizare | **joi, 12 noiembrie 2026 la 01:45:57 UTC** |
 
 </div>
 
@@ -5626,6 +5626,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Trimite un prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dă Star acestui repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-11-11T19:08:47.679Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-11-12T01:45:57.847Z</sub>
 
 </div>
